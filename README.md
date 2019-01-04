@@ -1,2 +1,2 @@
 # microsense_tizenversion_radisson
-tizenversion for testing
+this is the tizenversion for testing
