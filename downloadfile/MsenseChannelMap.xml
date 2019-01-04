@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<CMS>
+  <private>
+    <Channel-Map>
+
+
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>230.40.50.1</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Hotel Channel</Channel-Name>
+          <Channel-Number>1</Channel-Number>
+          <Channel-Category>HOTEL INFO</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+      
+
+	 <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>230.40.50.2</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>BBC World News </Channel-Name>
+          <Channel-Number>2</Channel-Number>
+          <Channel-Category>ENGLISH NEWS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>230.40.50.3</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>CNN News 18</Channel-Name>
+          <Channel-Number>3</Channel-Number>
+          <Channel-Category>ENGLISH NEWS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.4</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>NDTV 24x7 </Channel-Name>
+          <Channel-Number>4</Channel-Number>
+          <Channel-Category>ENGLISH NEWS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.5</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Times Now</Channel-Name>
+          <Channel-Number>5</Channel-Number>
+          <Channel-Category>ENGLISH NEWS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.6</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>ET Now</Channel-Name>
+          <Channel-Number>6</Channel-Number>
+          <Channel-Category>ENGLISH NEWS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.7</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zee Business</Channel-Name>
+          <Channel-Number>7</Channel-Number>
+          <Channel-Category>ENGLISH BUSINESS NEWS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+	 <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.8</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>CNBC TV 18</Channel-Name>
+          <Channel-Number>8</Channel-Number>
+          <Channel-Category>ENGLISH BUSINESS NEWS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+	 <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.9</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Aaj Tak</Channel-Name>
+          <Channel-Number>9</Channel-Number>
+          <Channel-Category>HINDI NEWS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.10</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zee News</Channel-Name>
+          <Channel-Number>10</Channel-Number>
+          <Channel-Category>HINDI NEWS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+	 <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.11</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>ABP News</Channel-Name>
+          <Channel-Number>11</Channel-Number>
+          <Channel-Category>HINDI NEWS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	
+	 
+
+	 <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.12</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>News 24</Channel-Name>
+          <Channel-Number>12</Channel-Number>
+          <Channel-Category>HINDI NEWS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+	 
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.13</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Star Sports 1</Channel-Name>
+          <Channel-Number>13</Channel-Number>
+          <Channel-Category>ENGLISH SPORTS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.14</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Star Sports 2</Channel-Name>
+          <Channel-Number>14</Channel-Number>
+          <Channel-Category>ENGLISH SPORTS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.15</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Neo Sports </Channel-Name>
+          <Channel-Number>15</Channel-Number>
+          <Channel-Category>ENGLISH SPORTS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.16</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Sony Espn</Channel-Name>
+          <Channel-Number>16</Channel-Number>
+          <Channel-Category>ENGLISH SPORTS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.17</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Sony Ten 1</Channel-Name>
+          <Channel-Number>17</Channel-Number>
+          <Channel-Category>ENGLISH SPORTS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.18</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Sony Ten 2</Channel-Name>
+          <Channel-Number>18</Channel-Number>
+          <Channel-Category>ENGLISH SPORTS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	
+
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.19</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Sony Ten 3</Channel-Name>
+          <Channel-Number>19</Channel-Number>
+          <Channel-Category>ENGLISH SPORTS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.20</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Sony Six</Channel-Name>
+          <Channel-Number>20</Channel-Number>
+          <Channel-Category>ENGLISH SPORTS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.21</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>DD Sports</Channel-Name>
+          <Channel-Number>21</Channel-Number>
+          <Channel-Category>HINDI SPORTS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.22</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Star Sports First</Channel-Name>
+          <Channel-Number>22</Channel-Number>
+          <Channel-Category>HINDI SPORTS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.23</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Movies Now</Channel-Name>
+          <Channel-Number>23</Channel-Number>
+          <Channel-Category>ENGLISH MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.24</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Romedy Now</Channel-Name>
+          <Channel-Number>24</Channel-Number>
+          <Channel-Category>ENGLISH MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.25</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Sony Pix</Channel-Name>
+          <Channel-Number>25</Channel-Number>
+          <Channel-Category>ENGLISH MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.26</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>HBO </Channel-Name>
+          <Channel-Number>26</Channel-Number>
+          <Channel-Category>ENGLISH MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.27</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Star Movies</Channel-Name>
+          <Channel-Number>27</Channel-Number>
+          <Channel-Category>ENGLISH MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.28</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>WB</Channel-Name>
+          <Channel-Number>28</Channel-Number>
+          <Channel-Category>ENGLISH MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.29</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zee Studio</Channel-Name>
+          <Channel-Number>29</Channel-Number>
+          <Channel-Category>ENGLISH MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.30</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Movies OK</Channel-Name>
+          <Channel-Number>30</Channel-Number>
+          <Channel-Category>ENLGISH MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.31</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>UTV Movies</Channel-Name>
+          <Channel-Number>31</Channel-Number>
+          <Channel-Category>ENGLISH MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.32</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>MNX</Channel-Name>
+          <Channel-Number>32</Channel-Number>
+          <Channel-Category>ENGLISH MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.33</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>AXN</Channel-Name>
+          <Channel-Number>33</Channel-Number>
+          <Channel-Category>ENGLISH ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.34</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>VH 1</Channel-Name>
+          <Channel-Number>34</Channel-Number>
+          <Channel-Category>ENGLISH ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.35</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Comedy Central</Channel-Name>
+          <Channel-Number>35</Channel-Number>
+          <Channel-Category>ENGLISH ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+	
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.36</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Star World</Channel-Name>
+          <Channel-Number>36</Channel-Number>
+          <Channel-Category>ENGLISH ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.37</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zee Cafe</Channel-Name>
+          <Channel-Number>37</Channel-Number>
+          <Channel-Category>ENGLISH ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.38</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Sony Max </Channel-Name>
+          <Channel-Number>38</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.39</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Star Gold</Channel-Name>
+          <Channel-Number>39</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.40</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zee Cinema</Channel-Name>
+          <Channel-Number>40</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.41</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zee Classic</Channel-Name>
+          <Channel-Number>41</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.42</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>And Pictures</Channel-Name>
+          <Channel-Number>42</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.43</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>UTV Bindas</Channel-Name>
+          <Channel-Number>43</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.44</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zee Action</Channel-Name>
+          <Channel-Number>44</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.45</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Housefull Movies</Channel-Name>
+          <Channel-Number>45</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.46</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>MANORANJAN MOVIES </Channel-Name>
+          <Channel-Number>46</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+			   
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.47</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Movies House</Channel-Name>
+          <Channel-Number>47</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.48</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zee Anmol Cinema</Channel-Name>
+          <Channel-Number>48</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+	<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.49</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Wow Cinema</Channel-Name>
+          <Channel-Number>49</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.50</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Cinema TV</Channel-Name>
+          <Channel-Number>50</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.51</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Housefull Action</Channel-Name>
+          <Channel-Number>51</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.52</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>B4U Movie</Channel-Name>
+          <Channel-Number>52</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.53</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Big Magic Ganga</Channel-Name>
+          <Channel-Number>53</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.54</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Dabangg</Channel-Name>
+          <Channel-Number>54</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.55</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Big Magic</Channel-Name>
+          <Channel-Number>55</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.56</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Maha Movie</Channel-Name>
+          <Channel-Number>56</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.57</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Star Utsav Movies</Channel-Name>
+          <Channel-Number>57</Channel-Number>
+          <Channel-Category>HINDI MOVIES</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.58</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Cartoon Network</Channel-Name>
+          <Channel-Number>58</Channel-Number>
+          <Channel-Category>KIDS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.59</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Disney Channel</Channel-Name>
+          <Channel-Number>59</Channel-Number>
+          <Channel-Category>KIDS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.60</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Hungama </Channel-Name>
+          <Channel-Number>60</Channel-Number>
+          <Channel-Category>KIDS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.61</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Nick</Channel-Name>
+          <Channel-Number>61</Channel-Number>
+          <Channel-Category>KIDS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.62</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Pogo</Channel-Name>
+          <Channel-Number>62</Channel-Number>
+          <Channel-Category>KIDS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.63</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Discovery Kids</Channel-Name>
+          <Channel-Number>63</Channel-Number>
+          <Channel-Category>KIDS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.64</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Animal Planet</Channel-Name>
+          <Channel-Number>64</Channel-Number>
+          <Channel-Category>ENGLISH INFOTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.65</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Discovery</Channel-Name>
+          <Channel-Number>65</Channel-Number>
+          <Channel-Category>ENGLISH INFOTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.66</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>History TV 18</Channel-Name>
+          <Channel-Number>66</Channel-Number>
+          <Channel-Category>ENGLISH INFOTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.67</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>EPIC</Channel-Name>
+          <Channel-Number>67</Channel-Number>
+          <Channel-Category>ENGLISH INFOTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.68</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Russia Today</Channel-Name>
+          <Channel-Number>68</Channel-Number>
+          <Channel-Category>ENGLISH INFOTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.69</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Sony Entertainment</Channel-Name>
+          <Channel-Number>69</Channel-Number>
+          <Channel-Category>HINDI ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.70</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Star Plus</Channel-Name>
+          <Channel-Number>70</Channel-Number>
+          <Channel-Category>HINDI ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.71</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Star Bharat</Channel-Name>
+          <Channel-Number>71</Channel-Number>
+          <Channel-Category>HINDI ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.72</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Colors</Channel-Name>
+          <Channel-Number>72</Channel-Number>
+          <Channel-Category>HINDI ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.73</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Sony Sab</Channel-Name>
+          <Channel-Number>73</Channel-Number>
+          <Channel-Category>HINDI ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.74</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zee TV</Channel-Name>
+          <Channel-Number>74</Channel-Number>
+          <Channel-Category>HINDI ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.75</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Star Utsav</Channel-Name>
+          <Channel-Number>75</Channel-Number>
+          <Channel-Category>HINDI ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.76</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zee Anmol</Channel-Name>
+          <Channel-Number>76</Channel-Number>
+          <Channel-Category>HINDI ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.77</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Rishtey Cineplex</Channel-Name>
+          <Channel-Number>77</Channel-Number>
+          <Channel-Category>HINDI ENTERTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.78</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Sony Pal</Channel-Name>
+          <Channel-Number>78</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.79</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Rishtey</Channel-Name>
+          <Channel-Number>79</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.80</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Sony Wah</Channel-Name>
+          <Channel-Number>80</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.81</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>9XM</Channel-Name>
+          <Channel-Number>81</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.82</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Sony Mix</Channel-Name>
+          <Channel-Number>82</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.83</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Mastii </Channel-Name>
+          <Channel-Number>83</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+<Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.84</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>B4U Music </Channel-Name>
+          <Channel-Number>84</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.85</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>9X Jalwa </Channel-Name>
+          <Channel-Number>85</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.86</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>MTV Beats </Channel-Name>
+          <Channel-Number>86</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.87</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zee Etc </Channel-Name>
+          <Channel-Number>87</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.88</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zing </Channel-Name>
+          <Channel-Number>88</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.89</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>V Channel </Channel-Name>
+          <Channel-Number>89</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.90</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>MTV </Channel-Name>
+          <Channel-Number>90</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.91</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zoom TV </Channel-Name>
+          <Channel-Number>91</Channel-Number>
+          <Channel-Category>HINDI MUSIC</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.92</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Divya Religious </Channel-Name>
+          <Channel-Number>92</Channel-Number>
+          <Channel-Category>HINDI RELIGIOUS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.93</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Aastha Bhajan </Channel-Name>
+          <Channel-Number>93</Channel-Number>
+          <Channel-Category>HINDI RELIGIOUS</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.94</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Colors Marathi </Channel-Name>
+          <Channel-Number>94</Channel-Number>
+          <Channel-Category>MARATHI</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.95</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Star Jalsha </Channel-Name>
+          <Channel-Number>95</Channel-Number>
+          <Channel-Category>MARATHI</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.96</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Zee Marathi </Channel-Name>
+          <Channel-Number>96</Channel-Number>
+          <Channel-Category>MARATHI</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.97</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>NDTV Good Times </Channel-Name>
+          <Channel-Number>97</Channel-Number>
+          <Channel-Category>HINDI INFOTAINMENT</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.98</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>Colors Gujrati </Channel-Name>
+          <Channel-Number>98</Channel-Number>
+          <Channel-Category>GUJRATI</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.99</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>9X Tashan </Channel-Name>
+          <Channel-Number>99</Channel-Number>
+          <Channel-Category>PUNJABI</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+	  
+	  <Channel>
+        <Stream-Mandatory-Data>
+          <Channel-IP>224.40.50.100</Channel-IP>
+          <Channel-Port>1234</Channel-Port>
+          <Channel-Name>PTC Punjabi </Channel-Name>
+          <Channel-Number>100</Channel-Number>
+          <Channel-Category>PUNJABI</Channel-Category>
+        </Stream-Mandatory-Data>
+      </Channel>
+	  
+ </Channel-Map>
+  </private>
+</CMS>

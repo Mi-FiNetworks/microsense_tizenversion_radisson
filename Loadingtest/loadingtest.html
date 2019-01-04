@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Page Loading</title>
+	<link rel="stylesheet" type="text/css" href="pageload.css"/>
+	<script type="text/javascript" src="jquery-1.9.1.min.js"></script>
+</head>
+<body onLoad="fn_loading();">
+
+<p>Click</p>
+
+		<div id="ServerloadDiv">
+            <div id="Serverload"><img src="images/loading_40_00.png" id="Serverloadimg"><span>Loading</span></div>
+      	</div>
+		
+		
+
+</body>
+<script type="text/javascript">
+
+$("p").click(function(){
+
+tvFunctionUtil._load_end();
+
+ });
+
+//onLoad="fn_loading();"
+
+function fn_loading () {
+
+tvFunctionUtil.Serverdot();
+}
+
+var tvFunctionUtil = {
+    //var
+    ixx:0,
+    sto:0,
+    ixxtag:'',
+ _load_end:function()
+    {
+	
+        clearTimeout(tvFunctionUtil.sto);
+        $('#ServerloadDiv').hide();
+    },
+ Serverdot: function(){
+        if(tvFunctionUtil.ixx>16)
+		{
+		tvFunctionUtil.ixx = 0;
+		tvFunctionUtil._load_end();
+		}
+        tvFunctionUtil.ixxtag = tvFunctionUtil.ixx;
+        if(tvFunctionUtil.ixx<10){
+            tvFunctionUtil.ixxtag = '0'+tvFunctionUtil.ixx;
+        }
+        $('#Serverload img').attr('src','images/loading_40_'+tvFunctionUtil.ixxtag+'.png');
+        tvFunctionUtil.ixx++;
+        tvFunctionUtil.sto =setTimeout('tvFunctionUtil.Serverdot()',50);
+    } //end function
+};
+ </script>
+</html>

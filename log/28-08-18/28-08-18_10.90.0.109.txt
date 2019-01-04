@@ -1,0 +1,5 @@
+
+2018-08-28 12:00:25 ====10.90.0.109
+2018-08-28 12:00:25 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.109' and GuestStatus='A'
+2018-08-28 12:01:26 ====10.90.0.109
+2018-08-28 12:01:26 ====SELECT GuestTitle,GuestName FROM guest INNER JOIN tvmaster ON  guest.GuestRoomNo = tvmaster.roomNo where ipaddress='10.90.0.109' and GuestStatus='A'

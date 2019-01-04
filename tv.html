@@ -1,0 +1,273 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
+    <title>.:TV CHANNELS :.</title>
+    <link href="css/TV_key_css.css" rel="stylesheet" type="text/css" />
+	<link href="css/TVbottombanner.css" rel="stylesheet" type="text/css" />
+	
+	
+   	<script language="javascript" type="text/javascript" src="javascript/jquery-1.5.js"></script>
+	<script language="javascript" type="text/javascript" src="javascript/jquery-ui.js"></script>
+	<script type='text/javascript' language='javascript' src='$MANAGER_WIDGET/Common/core.js'></script>
+	<script type='text/javascript' language='javascript' src='$MANAGER_WIDGET/Common/ui.js'></script>
+	<!--<script type="text/javascript" src="$MANAGER_WIDGET/Common/af/2.0.0/loader.js">/script> -->
+
+
+	<!-- Common widget API -->
+	<script type="text/javascript" language="javascript"	src="$MANAGER_WIDGET/Common/API/TVKeyValue.js"></script>
+	<script type="text/javascript" language="javascript"	src="$MANAGER_WIDGET/Common/API/Plugin.js"></script>
+	<script type="text/javascript" language="javascript"	src="$MANAGER_WIDGET/Common/API/Widget.js"></script>
+	<script type="text/javascript" language="javascript"	src="$MANAGER_WIDGET/Common/Plugin/Define.js"></script>
+
+	<script type="text/javascript" language="javascript"	src="$MANAGER_WIDGET/Common/Util/Include.js"></script>
+	<script type="text/javascript" language="javascript"	src="$MANAGER_WIDGET/Common/Util/Language.js"></script>
+
+
+	<script language="javascript" type="text/javascript"	src="javascript/Player.js"></script>
+
+	<script language="javascript" type="text/javascript"	src="javascript/Audio.js"></script>
+	<script language="javascript" type="text/javascript"	src="javascript/Display.js"></script>
+	<script language="javascript" type="text/javascript"	src="javascript/Debug.js"></script>
+	
+
+	<script type='text/javascript' language='javascript'>
+	
+/*	var widgetAPI = new Common.API.Widget();
+		function init(url) {
+			widgetAPI.sendReadyEvent();
+			location.href = url;
+	}
+*/
+	</script>
+
+<!-- VOD Plugins -->
+<object id='pluginObjectNNavi' border=0	classid='clsid:SAMSUNG-INFOLINK-NNAVI'	style="border: none; padding: 0; margin: 0;"></object>
+
+
+<!-- Plugins -->
+<object id="pluginAudio" border=0 classid="clsid:SAMSUNG-INFOLINK-AUDIO"></object>
+<object id="pluginObjectTVMW" border=0 classid="clsid:SAMSUNG-INFOLINK-TVMW"></object>
+<object id="pluginObjectSEF" classid="clsid:SAMSUNG-INFOLINK-SEF" style="opacity: 0.0; background-color: #000; width: 0px; height: 0px;"></object>
+<object id='pluginSefIPTV' border=0 classid='clsid:SAMSUNG-INFOLINK-SEF'></object>
+<!-- POWER STATE CHECKING PLUGINS -->
+<object id="pluginTVMW" border=0 classid="clsid:SAMSUNG-INFOLINK-TVMW" style="width:0px;height:0px;padding:0px;margin:0px;position:absolute;"></object>
+<object id="pluginTV" classid="clsid:SAMSUNG-INFOLINK-SEF" style="visibility:hidden; position: absolute; width: 0px; height: 0px;"></object>
+<object id='pluginSefTV' border=0 classid='clsid:SAMSUNG-INFOLINK-SEF'></object>
+<object id="pluginSEFAppCommon"  classid="clsid:SAMSUNG-INFOLINK-SEF"  style="visibility: hidden;"></object>
+<!-- END Plugins -->
+
+</head>
+<body onLoad="Main.onLoad();" onunload='Main.onUnload();'>
+
+	<a href='javascript:void(0);' id='anchor' onkeydown='Main.MainKeyHandler();'></a>
+	
+	<div id="msg"> </div>
+	<div id="spkmsg"> </div>
+
+	<!-- <div id="logodisp"><img src="images/tvlogo.png"   alt="" /></div> -->
+	 <div class="logo_detail">
+                <img src="images/tvlogo.png">               
+          </div>
+	
+	<div class="channelnamenumber"> 
+	
+		<div>
+                    <div class="name">
+                        <span id="id_sp_chname"></span> 
+					</div>
+					
+					<div class="cls_ch_category">
+                        <span id="id_sp_chcategory"></span>
+					</div>
+					
+        </div>
+		
+	</div>
+	<div class="cls_vertical_divider"><span></span></div>
+	<div class="cls_ch_number">
+                        <span id="id_sp_chnumber">1</span> 
+	</div>
+	
+	
+<div class="flipbox-container" >
+                <div class="bg2">
+                    <div class="flipbox">
+                        <span id="">&nbsp;</span>
+                    </div>
+                    <div class="flipboxContent flipbox_Entertainment" accesskey="2">
+                    <h1 class="lbl_name">Categories</h1>
+                        <ul id="id_category_ul" class="class_category_ul">
+                          
+                        </ul>
+                    </div>
+                    
+					<nav id="navigation" style="color: #fff;">  
+			 		<div>
+                 		<img src="images/arrow_next.png" /> Hide
+                	</div>            
+              		<div class="msg_btn">
+                		<img src="images/move.png" /> Move
+                	</div>
+                	<div>
+                    	<img src="images/enter.png" /> Select
+                	</div>
+                  
+             		</nav>
+					
+                </div>
+</div>
+<div class="sorting-container" >
+                <div class="bg2">
+                    <div class="flipbox">
+                        <span id="">&nbsp;</span>
+                    </div>
+                    <div class="sortingContent sorting_Entertainment" accesskey="3">
+                    <h1 class="lbl_name">Sorting</h1>
+                        <ul id="id_sorting_ul" class="class_sorting_ul">
+                          
+                        </ul>
+                    </div>
+                    
+                </div>
+</div>			
+<div class="content_right">
+	
+    <!-- <div id="lbl_msg"  style="position:absolute; top:0; left:0; font-size:16px;"></div> -->
+        <div class="bg2">
+            <div class="chnl_list_nav">
+           <!--     <h1>
+                    <img src="images/arrow_left.png" width="16" height="21">Sorting
+                </h1>
+			-->	
+                <h2 id="all_list">
+                    ALL CHANNELS</h2>
+          <!--      <h3>
+                    Categories
+                    <img src="images/arrow_right.png" width="16" height="21"></h3>
+		-->			
+            </div>
+            <div class="nav_top">
+                <img src="images/arrow_top.png" alt="">
+            </div>
+            <ul class="class_chnl_list" id="id_chnl_list" accesskey="1" compact="compact">
+			
+			</ul>
+             <div class="nav_bottom">
+                <img src="images/arrow_bottom.png" alt=""> 
+            </div>
+			<nav id="navigation" style="color: #fff;">  
+			 	<div>
+                 <img src="images/arrow_next.png" /> Categories
+                </div>            
+              	<div class="msg_btn">
+                <img src="images/move.png" /> Move
+                </div>
+                <div>
+                    <img src="images/enter.png" /> Select
+                </div>
+                <div class="exit_btn">
+                 <img src="images/close.png" /> Close
+                </div>             
+             </nav>
+			
+			
+</div>  
+</div>  
+
+<div class="bottom_pannel" style="table-layout:fixed; height:58px; !important">
+
+			
+
+			<div class="bottom_pannel_right">
+			<div class="btn"> <img src="images/chnl_btn.png" /> </div>			
+			<div class="footer_nav_text"> for Channel List </div>  
+			<div class="btn"> <img src="images/home_btn.png" /> </div>			
+			<div class="footer_nav_text"> for Home screen </div>	
+		<!--	<div class="btn"> <img src="images/chnl_up_down.png" /> </div>
+			<div class="footer_nav_text">Change Channel</div>   -->
+
+			</div>	
+
+	</div>	
+	
+<!--	<p>Click</p>  -->
+  
+
+</body>
+ <script language="javascript" src="js/jquery-1.9.1.min.js"></script>
+ <script src="js/TV_key_handler.js" type="text/javascript"></script> 
+ <script src="js/TV_msense_channel_player.js" type="text/javascript"></script> 
+ <script src="js/Js_ch_list.js" type="text/javascript"></script>
+ <script src="js/TV_key_updown_leftright.js" type="text/javascript"></script> 
+ 
+ <script type='text/javascript' language='javascript'>
+	
+	 window.onerror = function(msg, url, linenumber){
+            // alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber); 
+			 document.getElementById("spkmsg").innerHTML +="<br>Error message: "+msg+"\nURL: "+url+"\nLine Number: "+linenumber;
+        }
+		
+/* $("p").click(function(){
+
+ 		window.history.back();
+
+ }); */
+
+	</script>
+	
+	<script type="text/javascript">
+		 //var arr = [];
+		 //var result =  []; 
+		// var result = [[]];  
+            $(document).ready(function() {
+
+                $.ajax({
+                    type: "GET",
+                    url: "http://10.90.0.2/karjat/downloadfile/MsenseChannelMap.xml",
+		//	url: "http://192.168.25.2/browser2/downloadfile/MsenseChannelMap.xml",					
+                    dataType: "xml",
+                    success: function(xml) {
+                        $("#channelDiv").append("<table id='channelMapTable' border='1' cellspacing='0px' cellpadding='3px'></table>");
+                        $("<tr class='tableHeader'></tr>").html("<td>Channel IP</td><td>Channel Name</td><td>Channel Number</td>").appendTo("#channelDiv table#channelMapTable");
+                        $(xml).find('Stream-Mandatory-Data').each(function(index, element) {
+                            var channelIP = $(this).find('Channel-IP').text();
+                            var channelName = $(this).find('Channel-Name').text();
+                            var channelNumber = $(this).find('Channel-Number').text();
+							var channelcategory = $(this).find('Channel-Category').text();
+							var channelport = $(this).find('Channel-Port').text();
+
+                            channelIP = $.trim(channelIP);
+                            channelName = $.trim(channelName);
+                            channelNumber = $.trim(channelNumber);
+							channelcategory = $.trim(channelcategory);
+							channelport = $.trim(channelport);
+                            $("<tr></tr>").html("<td>" + channelIP + "</td><td>" + channelName + "</td><td>" + channelNumber + "</td>").appendTo("#channelDiv table#channelMapTable"
+							
+							);
+							//alert("index is" + index);
+					    arr_listofchannels[index] = [];
+  						//result.push(new Array());
+						
+						arr_listofchannels[index].push(channelNumber); 
+						arr_listofchannels[index].push(channelName);
+						arr_listofchannels[index].push(channelcategory);
+						arr_listofchannels[index].push(channelIP);
+						arr_listofchannels[index].push(channelport);
+  						
+						
+							
+							
+                        });
+                    },
+                    error: function() {
+                       // alert("An error occurred while processing XML file.");
+					   document.getElementById("spkmsg").innerHTML +="<br> An error occurred while processing XML file.";
+                    }
+                });
+            });
+        </script>
+	
+
+</html>

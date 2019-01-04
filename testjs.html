@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Test script</title>
+	<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+</head>
+<body>
+<p>Click</p>
+</body>
+ <script type="text/javascript">
+$("p").click(function(){
+  //alert("The paragraph was clicked.");
+  
+  var data = [
+           {
+              'a':10,
+              'b':20,
+              'c':30
+           },
+           {
+              'a':1,
+              'b':2,
+              'c':3
+           },
+           {
+              'a':100,
+              'b':200,
+              'c':300
+           }];
+		   
+	var result = new Array();	   
+	/*	   	for(var i = 0; i < data.length; i++) {
+  					result.push(new Array());
+  						for(var key in data[i]) {
+    					result[i].push(data[i][key]);
+						//console.log(data[i][key] + "<br>");
+						console.log(key);
+  						}
+			}
+  	*/	
+  
+  /*		for(var i = 0; i < data.length; i++) {
+  			for(var j = 0; j < Object.keys(data[0]).length; j++) {
+    			result[j] = result[j] || new Array();
+    			console.log('result[' + j + '][' + i + ']' + ' = ' + data[i][Object.keys(data[i])[j]])
+    			result[j][i] = data[i][Object.keys(data[i])[j]];
+  			}
+		}
+  */
+  
+  x = matrix( 2 , 3, 7);
+  
+  console.log(x);
+  
+  
+  
+});
+
+
+
+function matrix( rows, cols, defaultValue){
+
+  var arr = [];
+
+  // Creates all lines:
+  for(var i=0; i < rows; i++){
+
+      // Creates an empty line
+      arr.push([]);
+
+      // Adds cols to the empty line:
+      arr[i].push( new Array(cols));
+
+      for(var j=0; j < cols; j++){
+        // Initializes:
+        arr[i][j] = defaultValue;
+		 //console.log(arr[i][j] + '<br>');
+      }
+  }
+
+return arr;
+}
+
+</script>
+</html>

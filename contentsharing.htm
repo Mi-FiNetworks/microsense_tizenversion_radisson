@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>content sharing</title>
+    <link href="css/stylecontentsharing.css" rel="stylesheet" type="text/css" />
+	 <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>   
+	<!-- Common widget API -->
+	<script type='text/javascript' language='javascript' src='$MANAGER_WIDGET/Common/core.js'></script>
+	<script type='text/javascript' language='javascript' src='$MANAGER_WIDGET/Common/ui.js'></script>
+	<script type="text/javascript" language="javascript" src="$MANAGER_WIDGET/Common/API/TVKeyValue.js"></script>
+	<script language="javascript" src="$MANAGER_WIDGET/Common/API/Widget.js"></script>
+	<script language="javascript" src="$MANAGER_WIDGET/Common/API/Plugin.js"></script>
+	
+	<object id="pluginObjectSef4" border="0" classid="clsid:SAMSUNG-INFOLINK-SEF" class="objhide" style="float:left;height:0px;width:0px;"></object>
+	<object id="pluginNetwork" border=0 classid="clsid:SAMSUNG-INFOLINK-SEF" style="float:left;height:0px;width:0px;"></object>
+	<object id="pluginNetwork1" border="0" classid="clsid:SAMSUNG-INFOLINK-NETWORK" style="float:left;width:0px;height:0px;"></object>
+	<object id="pluginTVMW" border=0 classid="clsid:SAMSUNG-INFOLINK-TVMW" style="float:left;height:0px;width:0px;"></object>
+
+    <style>
+.overlay {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 1.0);
+    overflow-x: hidden;
+    /*transition: 0.5s;*/
+}
+</style>
+</head>
+<body>
+    <div id="wrapper">
+      
+        <div id="contents">
+            <h2>
+                Mobile Content Sharing
+            </h2>
+			<div id="test"></div>
+            <div class="section">
+                
+                <div class="content_box left_box middle_pannel">
+                <div  style="font-size:1px; color:#efefef; text-indent:999px;" class="box1">box1</div>
+                    <div class="scrn_sharing">
+                        <img src="images/sm_img1.png" />
+                    </div>
+                    <p class="msg_info">
+                        Share your AllShare Cast or Screen Mirroring compatible device's screen using your
+                        TV
+                    </p>
+                    <p class="msg_info2 scrn_info">Screen Mirroring (Android)</p>
+                </div>
+                <div class="content_box right_box middle_pannel ">
+                <div  style="font-size:1px; color:#efefef; text-indent:999px;" class="box1">box2</div>
+                    <div class="scrn_sharing">
+                        <img src="images/sm_img2.png" />
+                    </div>
+                    <p class="msg_info">
+                        Use your TV to display the music, photos and videos stored in your mobile device
+                        with <br />  Samsung Smart View 2.0 App  
+                    </p>
+                   <p class="msg_info2">Smart View 2.0 ( Samsung Galaxy, Iphone, Ipad)</p>
+                </div>
+                <div style="clear: both;">
+                </div>
+                <hr />
+            <!--    <div class="button"> 
+                    <input id="Button1" type="button" value="Close" class="close_btn" />
+                </div> -->
+            </div>
+        </div>
+       <div class="bottom_pannel" style="table-layout:fixed; height:40px; !important">
+
+			<div class="bottom_pannel_right">		
+			<div class="btn"> <img src="images/arrow_prev.png"> <img src="images/arrow_next.png"> </div>			
+			<div class="footer_nav_text"> Left/Right </div>	
+			<div class="btn"> <img src="images/enter.png"> </div>
+			<div class="footer_nav_text">Select</div>
+			<div class="btn"> <img src="images/return.png"> </div>
+			<div class="footer_nav_text">Return</div>
+
+			</div>	
+
+	</div>
+    </div>
+<div id="myNav" class="overlay"> </div>
+    <script type='text/javascript' language='javascript'>	
+	setTimeout(startshowbgpicture, 500);
+
+	function startshowbgpicture(){ 
+	$('#myNav').hide();
+	}
+		
+	window.onerror = function(msg, url, linenumber){
+          
+			// document.getElementById("test").innerHTML+="<br> Error message: "+msg+"\nURL: "+url+"\nLine Number: "+linenumber;
+     	}
+	</script>
+    <script src="js/contentsharing_handler.js" type="text/javascript"></script>
+    
+</body>
+</html>

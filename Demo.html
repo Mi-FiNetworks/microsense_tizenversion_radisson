@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Demo page</title>
+</head>
+<body>
+    <div id="channelDiv"></div>
+    <div id="ScriptDiv">
+        <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+        <script type="text/javascript">
+		 //var arr = [];
+		 var result =  []; 
+		// var result = [[]];  
+            $(document).ready(function() {
+
+                $.ajax({
+                    type: "GET",
+                    url: "http://localhost:8080/Tajdwaraka-V4/ChannelMap.xml",
+                    dataType: "xml",
+                    success: function(xml) {
+                        $("#channelDiv").append("<table id='channelMapTable' border='1' cellspacing='0px' cellpadding='3px'></table>");
+                        $("<tr class='tableHeader'></tr>").html("<td>Channel IP</td><td>Channel Name</td><td>Channel Number</td>").appendTo("#channelDiv table#channelMapTable");
+                        $(xml).find('Stream-Mandatory-Data').each(function(index, element) {
+                            var channelIP = $(this).find('Channel-IP').text();
+                            var channelName = $(this).find('Channel-Name').text();
+                            var channelNumber = $(this).find('Channel-Number').text();
+							var channelcategory = $(this).find('Channel-Category').text();
+							var channelport = $(this).find('Channel-Port').text();
+
+                            channelIP = $.trim(channelIP);
+                            channelName = $.trim(channelName);
+                            channelNumber = $.trim(channelNumber);
+							channelcategory = $.trim(channelcategory);
+							channelport = $.trim(channelport);
+                            $("<tr></tr>").html("<td>" + channelIP + "</td><td>" + channelName + "</td><td>" + channelNumber + "</td>").appendTo("#channelDiv table#channelMapTable"
+							
+							);
+							//alert("index is" + index);
+					    result[index] = [];
+  						//result.push(new Array());
+						
+						result[index].push(channelNumber); 
+						result[index].push(channelName);
+						result[index].push(channelcategory);
+						result[index].push(channelIP);
+						result[index].push(channelport);
+  						
+						
+							
+							
+                        });
+                    },
+                    error: function() {
+                        alert("An error occurred while processing XML file.");
+                    }
+                });
+            });
+        </script>
+    </div>
+	
+	<p>Click</p>
+</body>
+
+ <script type="text/javascript">
+$("p").click(function(){
+  //alert("The paragraph was clicked.");
+  
+  
+  
+
+			for(var i = 0; i < result.length; i++) {
+    		var cube = result[i];
+			
+			var str="";
+			sArr = [];
+    		for(var j = 0; j < cube.length; j++) {
+      
+				sArr[j] =cube[j];
+		
+    		}
+			str = sArr.join(",");
+			console.log(str);
+  			}
+  
+  		
+  
+  });
+  </script>
+</html>

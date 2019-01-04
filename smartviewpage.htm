@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Smartview</title>
+     
+    <link href="css/styleofsmartview.css" rel="stylesheet" type="text/css" />
+	<script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>   
+	
+	<!-- Common widget API -->
+	<script type='text/javascript' language='javascript' src='$MANAGER_WIDGET/Common/core.js'></script>
+	<script type='text/javascript' language='javascript' src='$MANAGER_WIDGET/Common/ui.js'></script>
+	<script type="text/javascript" language="javascript" src="$MANAGER_WIDGET/Common/API/TVKeyValue.js"></script>
+	<script language="javascript" src="$MANAGER_WIDGET/Common/API/Widget.js"></script>
+	<script language="javascript" src="$MANAGER_WIDGET/Common/API/Plugin.js"></script>
+	
+	<object id="pluginObjectSef4" border="0" classid="clsid:SAMSUNG-INFOLINK-SEF" class="objhide" style="float:left;height:0px;width:0px;"></object>
+	<object id="pluginNetwork" border=0 classid="clsid:SAMSUNG-INFOLINK-SEF" style="float:left;height:0px;width:0px;"></object>
+	<object id="pluginNetwork1" border="0" classid="clsid:SAMSUNG-INFOLINK-NETWORK" style="float:left;width:0px;height:0px;"></object>
+
+ 
+</head>
+<body>
+    <div id="wrapper">
+       
+        <div id="contents">
+            <h2>
+                Connect to a Mobile Device
+            </h2>
+			<div id="test"></div>
+            <div class="section">
+                <div class="content_box left_box middle_pannel">
+                    <img src="images/tv_info.png" />
+                </div>
+                <div class="content_box right_box device_info ">
+                    <p>
+                        1.Download the free Smart View app from Samsung Apps, the Google Play Store, or
+                        the Apples's App Store
+                    </p>
+                    <p>
+                        2.Go to the Wi-Fi setup on your mobile.Select the TV Name shown below and enter
+                        the password to connect your mobile with the TV
+                    </p>
+                    <div class="tv_info1">
+                        <p>
+                            <label>
+                                SSID</label>
+                            <span id="tvsoftuname"></span>
+                        </p>
+                        <p>
+                            <label>
+                                Password</label>
+                            <span id="tvsoftpwd"></span>
+                        </p>
+                         <p class="security_info">
+                        * This is strongly recommended to approve secuirty and service quality.
+                    </p>
+                    </div>
+                    <p>
+                     3.Run the Samsung Smart View app on your mobile device, then press connect
+                    </p>
+                   
+                </div>
+                <div style="clear: both;">
+                </div>
+              
+              <!--  <div class="button">
+                    <input id="Button1" type="button" value="Close" class="close_btn" />
+                </div> -->
+            </div>
+        </div>
+        <div class="bottom_pannel" style="table-layout:fixed; height:40px; !important">
+
+			<div class="bottom_pannel_right">		
+		<!--	<div class="btn"> <img src="images/arrow_prev.png"> <img src="images/arrow_next.png"> </div>			
+			<div class="footer_nav_text"> Left/Right </div>	
+			<div class="btn"> <img src="images/enter.png"> </div>
+			<div class="footer_nav_text">Select</div> -->
+			<div class="btn"> <img src="images/return.png"> </div>
+			<div class="footer_nav_text">Return</div>
+
+			</div>	
+
+	</div>
+    </div>
+</body>
+   <script type='text/javascript' language='javascript'>	
+	window.onerror = function(msg, url, linenumber){
+          
+			 document.getElementById("test").innerHTML+="<br> Error message: "+msg+"\nURL: "+url+"\nLine Number: "+linenumber;
+     }
+	</script>
+    <script src="js/smartview_handler.js" type="text/javascript"></script>
+</html>

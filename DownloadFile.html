@@ -1,0 +1,203 @@
+<!--
+ * @file DownloadFile.html
+ * @brief Sample application to download file from server to TV.
+ *
+ * Copyright 2013 by Samsung Electronics, Inc.,
+ * 
+ * This software is the confidential and proprietary information
+ * of Samsung Electronics, Inc. ("Confidential Information").  You
+ * shall not disclose such Confidential Information and shall use
+ * it only in accordance with the terms of the license agreement
+ * you entered into with Samsung.
+-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/div/html4/strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Download file application </title>
+        <!--API link-->
+	<script type="text/javascript" language="javascript" src="$MANAGER_WIDGET/Common/API/TVKeyValue.js"></script>
+	<script type="text/javascript" language="javascript" src="$MANAGER_WIDGET/Common/API/Plugin.js"></script>
+	<script type="text/javascript" language="javascript" src="$MANAGER_WIDGET/Common/API/Widget.js"></script>
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+		
+       <!-- Plugins --> 
+		<object id="pluginOjectSef" classid="clsid:SAMSUNG-INFOLINK-DOWNLOAD" style="visibility:hidden; position: absolute; width: 0px; height: 0px;"></object>
+	   
+	   <!-- Widget code -->
+        <script type="text/javascript">
+		var widgetAPI = new Common.API.Widget();
+		var tvKey = new Common.API.TVKeyValue();
+		//declare an array which can take any input from server and download in the destination url.
+		var  fileList = ["MsenseChannelMap.xml"];
+		//var  fileList = ["offline.html","style.css","TV_key_css.css","MsenseTVfn.js","jquery-1.9.1.min.js"];
+		var plugin = null;
+		var currentIndex =0;
+		var destPath = null;
+		var srcURL = null;
+		var errorCount = 0;
+		var xmlhttp1;
+		
+		function Download_onLoad() {
+			document.getElementById("anchor").focus();
+			widgetAPI.sendReadyEvent();
+			pluginSef = document.getElementById('pluginOjectSef');
+			init();
+		}
+		function init() {
+		 plugin = pluginSef;
+		 //the onComplete event is a callback function for download result.
+		 plugin.OnComplete = 'OnDownloadEvent';
+		 currentIndex = 0;
+		 //destination place where we can store downloaded files.
+		 destPath ="/mtd_down/common/HospitalityBrowser/";
+         //source folder (download_files) which we can take input from server 
+		 srcURL = "http://"+(location.href.split("/"))[2]+ "/Tajdwaraka-V3/downloadfile/";		
+		 errorCount = 0;
+		};
+		function keyDown() {
+			var keyCode = event.keyCode;
+			alert("Key pressed: " + keyCode);
+			
+			switch(keyCode)	{
+				case tvKey.KEY_ENTER:
+					document.getElementById('test').innerHTML = "press enter key.....";
+					fetchServer();	
+				break;
+				case tvKey.KEY_HOME:
+					window.location = "index.html";
+				break;
+				case tvKey.KEY_LEFT:
+					Checkfilename();
+				break;
+				default:
+					alert("Unhandled key");
+				break;
+			}
+		}
+		
+		function fetchServer() {
+
+			if(currentIndex < fileList.length) 
+			{
+				xmlhttp1 = null;
+				document.getElementById('test').innerHTML += "<br> <p> Fetch server..... </p>";
+				
+					if (xmlhttp1) {
+						xmlhttp1.destroy();
+						xmlhttp1 = null;
+					}
+				
+				xmlhttp1 = new XMLHttpRequest();
+				if (xmlhttp1) {
+					xmlhttp1.onreadystatechange = function() {
+					
+							//document.getElementById('test').innerHTML += "<br> ready state " +  xmlhttp1.readyState;
+						 if (xmlhttp1.readyState == 4 && xmlhttp1.status == 200) 						 
+							{	
+							
+								if(xmlhttp1.status==404)
+								{//url is not found so increment the index and fetch next file contents to be downloaded.
+								document.getElementById('test').innerHTML += "<br> <p> i am in 404..... </p>";
+								currentIndex++;
+								fetchServer();
+								}  
+								//If url is found ,download the file.
+							   startDownloading(fileList); 
+							}
+					}
+					document.getElementById('test').innerHTML += "<br> <p> start the download file one by one.... </p>";
+					//xmlhttp1.open("POST", srcURL+fileList[currentIndex], true);
+					xmlhttp1.open("GET", srcURL+fileList[currentIndex], true);					
+					//xmlhttp1.setRequestHeader("Content-length", 0);
+					xmlhttp1.send();
+				}
+			} else {
+				//this.log("[Downloader] Downloading Complete!!!");
+				document.getElementById('test').innerHTML += "<br> <p> Downloading Complete!!!...." +destPath+"</p>";
+			}
+	}
+	
+	function OnDownloadEvent(param1) {
+		document.getElementById('test').innerHTML += "   OnDownloadEvent....   " ;
+	var strList = param1.split('?');
+
+	if (strList[0]=='1000') 
+		{	
+			document.getElementById('test').innerHTML += "<br> <p> Downloading : "+fileList[currentIndex]+"</p>";
+			if(strList[1] == '1')
+			{
+				 document.getElementById('test').innerHTML += "<p> Downloaded : "+fileList[currentIndex]+"</p>";
+				
+				 setTimeout(function() {
+						currentIndex++;
+						fetchServer();
+					},1000);
+			}
+			else {
+				document.getElementById('test').innerHTML = "DOWNLOAD is FAIled!";
+				if(++errorCount == 3) currentIndex++;
+				fetchServer();
+			}
+			
+		}
+		// DownRatio : 0~100
+		else if (strList[0]==1001 ) 
+		{
+		  //document.getElementById('DownReturn').innerHTML = strList[1];	
+		  document.getElementById('test').innerHTML += "<br>" + strList[1];	
+		}
+		// Down Speed : Bytes/Sec : It will be reach after Ratio
+		else if (strList[0]==1002 ) 
+		{
+		 // document.getElementById('DownReturn').innerHTML = strList[1];
+		 document.getElementById('test').innerHTML += "<br>" + strList[1];
+		}  
+	}
+ 
+ 
+ 
+	function startDownloading(list) {
+		document.getElementById('test').innerHTML += "<br> <p> i am in downloaing....</p>";
+		fileList = list;
+		downloadFile();
+	}
+ 
+	function downloadFile() {
+		document.getElementById('test').innerHTML += "<br><p> current index = "+currentIndex+"</p>";
+		var fileName = fileList[currentIndex];
+        plugin.StartDownFile(srcURL+fileName, destPath+fileName); //This API downloads file asynchronously to the Hotel TV using HTTP or HTTPS protocol.
+	}	
+	
+	 window.onerror = function(msg, url, linenumber){
+            // alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber); 
+			 document.getElementById('test').innerHTML +="<br>Error message: "+msg+"\nURL: "+url+"\nLine Number: "+linenumber;
+        }
+		
+		
+		function Checkfilename() {
+		
+		$.ajax({
+    	url:'file://localhost/mtd_down/common/HospitalityBrowser/offline.html',
+    	type:'HEAD',
+    	error: function()
+    	{
+        document.getElementById('test').innerHTML +="<br>Check file error";
+    	},
+    	success: function()
+    	{
+        document.getElementById('test').innerHTML +="<br>Check file success";
+    	}
+		});
+		
+		}
+	</script>
+	</head>
+
+    <body onLoad="onLoad();">
+     <a id="anchor" href='javascript:void(0);' onkeydown='keyDown();'></a>
+	 <div id="test" style="color:#fff;display:block;margin-top: 28px;text-align:center;font-size:10px;font-weight:bold;">
+	 Press Enter key to download file from Server to TV local storage.</div>
+
+    </body>
+</html>

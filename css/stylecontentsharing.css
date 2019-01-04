@@ -1,0 +1,157 @@
+﻿ *{ margin:0px; padding:0px;}
+ 
+ html, body
+	{
+		height: 100%; overflow:hidden;
+	}
+	
+	body
+	{
+		margin:0;
+		padding: 0em;
+		font-family: 'Open Sans', sans-serif;	
+	}
+
+	a {
+	
+	text-decoration: none; color:#fff;font-size: 20px;
+	}
+
+	a:hover {
+	text-decoration: none;
+	color: #ffc600 ;
+	}
+	
+	
+     
+#wrapper{overflow: hidden;
+	 	   background: url(../images/bgofsmartview.png) no-repeat;   /* BG transparent */
+		height:720px;
+		width:1280px;}    
+		
+#wrapper h1{ font-family:Arial; color:#fff; font-size:20px; font-weight:normal;  width:1180px;
+              padding:0px; padding-top:10px; margin:0px auto;  }
+
+#wrapper span{ display:inline-block; vertical-align:middle; margin-right:10px; margin-left:10px;}
+
+#contents{ background:#efefef; width:1180px; min-height:300px; margin:0 auto;  margin-top:10px; -webkit-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.6);
+-moz-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.6); 
+box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.6);}
+
+#contents h2{ padding-top:20px; padding-bottom:20px; color:#262626;    margin-left:0px; -webkit-box-shadow: 1px 3px 5px 1px rgba(0,0,0,0.25);
+-moz-box-shadow: 1px 3px 5px 1px rgba(0,0,0,0.25); padding-left:30px; 
+box-shadow: 1px 3px 5px 1px rgba(0,0,0,0.25); font-size:22px; font-weight:normal; background:url(../images/share.png) no-repeat 98% center;  }
+
+.section{ width:1100px;  margin:0 auto; margin-top:0px; padding-bottom:20px; overflow:hidden; padding-top:20px; padding-left:20px;}
+
+
+.content_box{ height:400px; width:500px; border:solid 1px #bfbfbf; background:url(../images/box_bg1.png) repeat-x left top;
+               border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px; float:left;
+-webkit-border-radius: 10px 10px 10px 10px; 
+ }
+    
+ .left_box{margin-right:40px; text-align:center;  } 
+ 
+     
+ .left_box p{ text-align:center; font-size:22px; font-family:arial;   }
+ 
+ .right_box p{text-align:center; font-size:22px; font-family:arial; }
+ 
+ 
+ .device_info p{ text-align:left; margin-top:20px; margin-bottom:20px;}
+  
+  .scrn_sharing{ text-align:center;}
+  
+  .scrn_sharing img{ margin-top:30px; margin-bottom:20px;}  
+  
+  .msg_info{ width:480px; margin:0 auto;}
+ 
+ hr{clear:both; display:block; margin-top:30px; margin-bottom:10px;   background:#c6c6c6; height:2px; border:none;}
+ 
+ .msg_info2{ margin-top:50px;}
+ 
+ .scrn_info{ margin-top:80px;}
+    
+    
+    .close_btn{ background:#dbdbdb; padding:10px 50px; border:solid 1px #a3a3a3;  border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;  font-size:22px;
+-webkit-border-radius: 10px 10px 10px 10px; }
+    
+    .button{ text-align:center;}    
+    
+    .guest_info{ color:#fff; font-size:25px; width:1180px; overflow:hidden; margin:0 auto; padding-top:10px;  }
+    
+    .gst_wlcm{ float:left;  text-shadow: 1px 1px 1px #000;}
+    
+    .d_t{ float:right; text-shadow: 1px 1px 1px #000;}
+    
+.hover_bg 
+{
+		text-align:center;
+			cursor:pointer;  
+			text-decoration:none !important;
+			-webkit-box-shadow: 1px 1px 18px 0px rgba(0,173,243,0.90);
+			-moz-box-shadow: 1px 1px 18px 0px rgba(0,173,243,0.90);
+			box-shadow: 1px 1px 18px 0px rgba(0,173,243,0.90);
+			/*background: url(../images/menubg_hover.png) repeat-x; */
+			font-size:20px;
+			border:1px solid #00adf3; 
+			
+			-webkit-border-radius: 8px;
+				-moz-border-radius: 8px;
+				border-radius: 8px;
+}
+	
+.bottom_pannel{ 
+			float:left;
+			verticle-align:bottom
+			display:block;	
+			margin:0px auto;				
+    		top:680px;			
+			padding: 0px 0px 0px 0px;
+			width:1280px;			
+			background:#000000;
+			position:absolute;
+			}
+
+
+	.bottom_pannel_right{ 
+			float:right;
+			}
+
+			.btn{
+				cursor:pointer;
+			display:block;
+			text-decoration:none !important;
+			float:left;
+			position:relative;
+			padding: 4px 10px 0px 20px;
+
+
+				}	
+
+	.footer_nav_text{
+
+			color:#ffffff !important;
+			font-size:15px;
+			text-decoration: none;	
+			float:left;
+			position:relative;
+			padding: 10px 10px 0px 4px;
+
+			}
+		.tv_info1 p label{ display:inline-block; background:#ccc; width:180px; padding:10px 5px;  }
+	
+	.tv_info1 p{ margin:0px; padding:0px;  }
+	
+	#wrapper .tv_info1 span{  display:inline-block; background:#dedede; padding:10px; width:210px; margin-bottom:3px; margin-left:0px ;}
+	
+	 	
+			
+			
+    
+    
+    
+    
+    

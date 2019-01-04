@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Radisson Blu Karjat</title>
+<link href="css/style.css" rel="stylesheet" media="screen">
+<link href="css/styletransparentTest.css" rel="stylesheet" media="screen">
+
+<!--Weather css-->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+
+<!-- Common widget API -->
+	<script type='text/javascript' language='javascript' src='$MANAGER_WIDGET/Common/core.js'></script>
+	<script type='text/javascript' language='javascript' src='$MANAGER_WIDGET/Common/ui.js'></script>
+	<script type="text/javascript" language="javascript" src="$MANAGER_WIDGET/Common/API/TVKeyValue.js"></script>
+	<script type="text/javascript" language="javascript" src="$MANAGER_WIDGET/Common/Plugin/Define.js"></script>
+	<script type="text/javascript" language="javascript" src="$MANAGER_WIDGET/Common/Util/Include.js"></script>
+	<script type="text/javascript" language="javascript" src="$MANAGER_WIDGET/Common/Util/Language.js"></script>
+	<script type="text/javascript" language='javascript' src="$MANAGER_WIDGET/Common/API/Widget.js"></script>
+	<script type="text/javascript" language='javascript' src="$MANAGER_WIDGET/Common/API/Plugin.js"></script>
+	<script language="javascript" type="text/javascript" src="javascript/Player.js"></script>
+	<script language="javascript" type="text/javascript" src="javascript/Audio.js"></script>
+	<script language="javascript" type="text/javascript" src="javascript/Display.js"></script>
+	<script language="javascript" type="text/javascript" src="javascript/Debug.js"></script>
+	<script type="text/javascript" src="js/tvurl_capture_query.js"></script>
+
+    <style>
+        .overlay
+        {
+            height: 100%;
+            width: 100%;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background-color: rgb(0,0,0);
+            background-color: rgba(0,0,0, 1.0);
+            overflow-x: hidden;
+        }
+        .overlay span
+        {
+            position: absolute;
+            width: 260px;
+            height: 65px;
+            left: 510px !important;
+            top: 334px !important;
+            text-align: left;
+            font-size: 40px;
+            z-index: 998;
+            color: #FFFFFF;
+        }
+		
+		 
+		 
+        @font-face 
+		{
+			font-family: 'weather';
+			src: url('fonts/93/artill_clean_icons-webfont.eot');
+			src: url('fonts/artill_clean_icons-webfont.eot?#iefix') format('embedded-opentype'),
+				 url('fonts/artill_clean_icons-webfont.woff') format('woff'),
+				 url('fonts/artill_clean_icons-webfont.ttf') format('truetype'),
+				 url('fonts/artill_clean_icons-webfont.svg#artill_clean_weather_iconsRg') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+        #weather 
+		{
+			margin: 0px auto;
+			text-align: center;
+			text-transform: uppercase;
+		}
+
+		i 
+		{
+		   color: #fff;
+		   font-family: weather;
+		   font-size: 90px;
+		   font-weight: normal;
+		   font-style: normal;
+		   line-height: 1.0;
+		}
+
+		.icon-0:before { content: ":"; }
+		.icon-1:before { content: "p"; }
+		.icon-2:before { content: "S"; }
+		.icon-3:before { content: "Q"; }
+		.icon-4:before { content: "S"; }
+		.icon-5:before { content: "W"; }
+		.icon-6:before { content: "W"; }
+		.icon-7:before { content: "W"; }
+		.icon-8:before { content: "W"; }
+		.icon-9:before { content: "I"; }
+		.icon-10:before { content: "W"; }
+		.icon-11:before { content: "I"; }
+		.icon-12:before { content: "I"; }
+		.icon-13:before { content: "I"; }
+		.icon-14:before { content: "I"; }
+		.icon-15:before { content: "W"; }
+		.icon-16:before { content: "I"; }
+		.icon-17:before { content: "W"; }
+		.icon-18:before { content: "U"; }
+		.icon-19:before { content: "Z"; }
+		.icon-20:before { content: "Z"; }
+		.icon-21:before { content: "Z"; }
+		.icon-22:before { content: "Z"; }
+		.icon-23:before { content: "Z"; }
+		.icon-24:before { content: "E"; }
+		.icon-25:before { content: "E"; }
+		.icon-26:before { content: "3"; }
+		.icon-27:before { content: "a"; }
+		.icon-28:before { content: "A"; }
+		.icon-29:before { content: "a"; }
+		.icon-30:before { content: "A"; }
+		.icon-31:before { content: "6"; }
+		.icon-32:before { content: "1"; }
+		.icon-33:before { content: "6"; }
+		.icon-34:before { content: "1"; }
+		.icon-35:before { content: "W"; }
+		.icon-36:before { content: "1"; }
+		.icon-37:before { content: "S"; }
+		.icon-38:before { content: "S"; }
+		.icon-39:before { content: "S"; }
+		.icon-40:before { content: "M"; }
+		.icon-41:before { content: "W"; }
+		.icon-42:before { content: "I"; }
+		.icon-43:before { content: "W"; }
+		.icon-44:before { content: "a"; }
+		.icon-45:before { content: "S"; }
+		.icon-46:before { content: "U"; }
+		.icon-47:before { content: "S"; }
+		#weather h2 
+		{
+			margin: 0 0 0px;
+			color: #fff;
+			font-size: 35px; padding-bottom:0px;
+			font-weight: 300;
+			text-align: center;
+			text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.15);
+		}
+
+		#weather ul 
+		{
+			margin: 0;
+			padding: 0;
+		}
+
+		#weather li 
+		{
+			font-size:18px;
+			padding: 0px;
+			display: inline-block;
+			border-radius: 5px; color:#fff;
+		}
+
+		#weather li:nth-child(2){ display:none;}
+
+		#weather li:nth-child(3){ display:none;}
+
+		#weather .currently 
+		{
+			margin: 0 20px;
+		}
+		.idguestname
+		{ 
+			width:630px; 
+			position:absolute;
+			overflow: hidden;
+			background: url(images/menubgtransparent.png) ;
+			height:200px; 
+			text-align: center;
+			padding:20px 10px 10px 0px; 
+			top:110px;
+			bottom:0px;
+			right:250px;
+			border-radius: 10px 10px 10px 10px;
+			/* z-index:9999;*/
+			opacity: .9;
+		}
+ 		button 
+		{
+			display: block;
+			margin: 15px auto;
+			width: 140px;
+			padding: 5px;
+			background: transparent;
+			color: #fff;
+			border: 0;
+			border-radius: 5px;
+		}
+		.middle_pannelN ul { margin: 0; padding: 0; list-style-type: none; }
+	
+    </style> 
+</head>
+<object id="pluginNetwork" border=0 classid="clsid:SAMSUNG-INFOLINK-SEF" style="visibility:hidden; float:left;height:0px;width:0px;"></object>
+<object id="pluginSEFAppCommon"  classid="clsid:SAMSUNG-INFOLINK-SEF"  style="visibility:hidden; position: absolute; width: 0px; height: 0px;"></object>
+<!-- pluginObjectTVMW -->
+<object id="pluginObjectTVMW" border="0" classid="clsid:SAMSUNG-INFOLINK-TVMW" style="visibility:hidden; float:left;height:0px;width:0px;"></object>
+<!-- pluginObjectSEF -->
+<object id="pluginObjectSEF" classid="clsid:SAMSUNG-INFOLINK-SEF"  style="visibility:hidden; position: absolute; width: 0px; height: 0px;"></object>
+<body> <!-- onLoad="fn_loading();" -->
+
+	<div id="banner">
+			<div id="ban">
+				<!-- <div id="promotionimg">
+				<img src="images/WelcomeLetter2.jpg" style=" height:685px; margin-left:0px;width:1280px;" />
+				</div> -->
+			</div>
+			<div id="Hotel_photo2_pannel">						
+			<div class="header">
+				<div class="logo_detail">
+					<img src="images/Hotel_Logo.png">               
+				</div>
+			</div>
+			<div class="idguestname" >
+				<div>
+					<span id="guestmsg" ></span> 
+					<span id="idguestname" > </span>
+					Enjoy your stay with <br> Radisson Blu Resort & Spa Karjat!
+				</div>
+			</div>
+			</div>
+			<div class="clspromomessage">
+				<div class="clstext">
+				</div>
+			</div> 
+			<div  style="float: left; width: 220px; position: absolute; top:130px; left: 1px; border:solid 0px red;z-index: 9999;">
+				<div id="weather"></div>
+				<button class="js-geolocation" style="display: none;">Use Your Location</button>
+			</div>
+		<div id="indexpagemenu">
+			<div id="menu_pannel_bgN">
+				<div class="middle_pannelN">
+						<ul>
+						<li> 
+						 <div id="menu_itemN">
+							<a href="#"><span class="spacer_txt"><img src="images/tv_icon.png" /></span></a>
+							<div class="txt_info">TV CHANNELS</div>                     
+						</div> </li>               
+						<!--
+						<li><div id="menu_itemN">
+							<a href="#"><span class="img_holder spacer_txt">
+								<img src="images/tv_icon.png" /></span></a>
+								<div class="txt_info">PAID CHANNEL</div>  
+						</div></li> --> 
+						<li><div id="menu_itemN">
+							<a href="#"><span class="spacer_txt"><img src="images/manual.png" /></span></a>
+							<div class="txt_info">HOTEL INFO</div>    
+						</div></li>  
+						
+						<li><div id="menu_itemN">
+							<a href="#"><span class="spacer_txt"><img src="images/help1.png" /></span></a>
+							<div class="txt_info">HELP</div>    
+						</div></li>  
+						
+						<li><div id="menu_itemN">
+							<a href="#"><span class="img_holder spacer_txt">
+								<img src="images/content_share.png" /></span> </a>
+								 <div class="txt_info">CONTENT SHARING</div>     
+						</div></li>  
+						
+						<!--
+						<li><div id="menu_itemN">
+							<a href="#"><span class="spacer_txt"><img src="images/bill_view.png" /></span></a>
+							<div class="txt_info">VIEW BILL</div>    
+						</div></li> --> 
+						<li><div id="menu_itemN">
+							<a href="#"><span class="spacer_txt"><img src="images/apps_white.png" /></span></a>
+							<div class="txt_info">APPS</div>    
+						</div></li>  
+						<li><div id="menu_itemN">
+							<a href="#"><span class="spacer_txt"><img src="images/internet.png" /></span></a>
+							<div class="txt_info">INTERNET</div>    
+						</div></li>  
+
+						<!--
+						<li><div id="menu_itemN">
+							<a href="#"><span class="spacer_txt"><img src="images/bluetooth.png" /></span></a>
+							<div class="txt_info">BT PLAYER</div>    
+						</div></li>    -->
+				</div>
+			</div>
+		</div>	
+		<!-- Apps -->
+		<div id="appsitem1">
+            <div class="middle_pannelAPPS">
+               
+				 <!--  <div id="menu_itemN">
+						<a href="#"><span class="spacer_txt"><img src="images/apps1.png" /></span></a>
+						<div class="txt_info">NETFLIX</div>                     
+					</div> -->              
+					<div id="menu_itemN">
+						<a href="#"><span class="img_holder spacer_txt">
+							<img src="images/apps2.png" /></span></a>
+							<div class="txt_info">YOUTUBE</div>     
+					</div>
+					<div id="menu_itemN">
+						<a href="#"><span class="img_holder spacer_txt">
+							<img src="images/facebook.png" /></span> </a>
+							 <div class="txt_info">FACEBOOK</div>     
+					</div>
+					<!--
+					<div id="menu_itemN">
+						<a href="#"><span class="img_holder spacer_txt">
+							<img src="images/plextv.png" /></span> </a>
+							 <div class="txt_info">PLEX TV</div>     
+					</div>
+					<div id="menu_itemN">
+						<a href="#"><span class="img_holder spacer_txt">
+							<img src="images/panormatv.png" /></span> </a>
+							 <div class="txt_info">PANORMA TV</div>     
+					</div>  -->
+            </div>
+		</div>		
+		<!-- End Apps -->
+		<div class="bottom_pannel" style="table-layout:fixed; height:40px; !important">
+			<div class="bottom_pannel_right">
+			<!--div class="btn"> <img src="images/up.png"> <img src="images/down.png" height="29"> </div>			
+			<div class="footer_nav_text"> Up/Down </div>  -->
+			<div class="btn"> <img src="images/arrow_prev.png"> <img src="images/arrow_next.png"> </div>			
+			<div class="footer_nav_text"> Left/Right </div>	
+			<div class="btn"> <img src="images/enter.png"> </div>
+			<div class="footer_nav_text">Select</div>
+			<div class="btn"> <img src="images/return.png" /> </div>
+            <div class="footer_nav_text">Return</div>
+			</div>	
+			<div class="bottom_pannel_left">                   
+				 <span class="date_display"> </span>              
+            </div>
+
+		</div>	
+	</div>
+		<!--div class="bottom_pannel" style="table-layout:fixed; height:40px; !important">
+			<div class="bottom_pannel_right">
+				<div class="btn"> <img src="images/arrow_prev.png" /> <img src="images/arrow_next.png" /> </div>			
+				<div class="footer_nav_text"> Previous/Next </div>	
+			</div>	
+		</div>	
+		</div>-->
+		<!-- End colateral page  -->	
+		<div id="myNav" class="overlay"> <span>Loading ... </span></div>
+		<a href="javascript:void(0);" id="indexpage_Anchor" onKeyDown="indexpage.KeyHandler(event);"></a>
+ 		<a href="javascript:void(0);" id="apps_Anchor" onKeyDown="apps.KeyHandler(event);"></a> 
+</body>
+		<script type="text/javascript" src="js/Msense_keyevent_handler.js"></script>
+		<script type="text/javascript" src="js/apps_event.js"></script>
+		<script src="js/jquery.simpleWeather.js" type="text/javascript"></script>
+		<script type='text/javascript' language='javascript'>
+	$('.clspromomessage').hide();
+	$("#idnext").hide();
+	$("#idprev").hide();
+	$('.idguestname').hide();
+	getformatAMPM();
+	if(str_fromurl1 != 'false') {
+		document.getElementById("myNav").style.width = "0%";	
+		$('#promotionimg').hide();
+	}
+	function getformatAMPM() {
+	    var hours = new Date().getHours();
+		//hours=0;
+		if ((hours>= 0) && (hours<= 11.59)) {
+		document.getElementById("guestmsg").innerHTML = "Good Morning";
+		} 
+		else if ((hours>= 12) && (hours<= 16)) {
+		document.getElementById("guestmsg").innerHTML = "Good Afternoon";
+		} 
+		 else if ((hours>= 16.01) && (hours<= 23.59)) {
+		document.getElementById("guestmsg").innerHTML = "Good Evening";
+		} 
+	}
+	function hidepromotion(){ 	
+		$('#promotionimg').hide();
+		$('.idguestname').hide();
+	}
+/*	document.addEventListener('focus',function(e){$('.clspromomessage').hide();}, true);*/
+	window.onerror = function(msg, url, linenumber){
+            // alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber); 
+			 //document.getElementById("test").innerHTML+="<br> Error message: "+msg+"\nURL: "+url+"\nLine Number: "+linenumber;
+    }
+	$(document).ready(function () {
+			$(".middle_pannelN ul").each(function(){			
+  			var max = 6;
+  			if ($(this).find("li").length > max) {
+    		$(this)
+      			.find('li:gt('+max+')')
+      			.hide() 
+			} 
+			});  
+			andazsimpleWeather();
+			var pluginNetwork = document.getElementById('pluginNetwork');
+			//pluginNetwork.Open("Network", "1.000", "Network"); 
+			//var mac =pluginNetwork.Execute("GetIP" ,"1"); //1: wired, 0: wireless  "84a466064b35";//
+			$.ajax({  	  
+				type:"POST",  
+				url:"getguestname.php?tvmac="+mac,
+			    success:function(data){
+				//alert(data);
+				var gname=data;
+				document.getElementById("idguestname").innerHTML=gname;
+				}    
+				});  
+			setInterval(startdate, 1000);
+    });       //End document ready  function
+	
+	setTimeout(startindexpage, 1000);
+	setTimeout(hidepromotion, 1000);
+
+	</script>
+</html>

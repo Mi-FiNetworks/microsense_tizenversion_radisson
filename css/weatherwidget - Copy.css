@@ -1,0 +1,70 @@
+ .weather_app
+        {
+           	right:125px;
+            	width: 300px;
+		height:150px;
+		position:absolute;
+		top:110px;
+        }
+    
+        .aw-widget-content bg-su
+        {
+            background: none !important;
+        }
+        .aw-widget-36hour .bg-su, .aw-widget-36hour .tbg-su, .aw-widget-current .bg-su, .aw-widget-current .tbg-su
+        {
+            background: none;
+        }
+        div.aw-widget-current-inner div.aw-widget-content
+        {
+            border: none !important;
+        }
+        #link_get_widget
+        {
+            display: none;
+        }
+        .aw-current-weather-inner h3
+        {
+            color: #fff;
+            font-family: Raleway;
+        }
+        .aw-temp-time-desc span
+        {
+            color: #fff;
+            font-family: Raleway;
+        }
+        time
+        {
+            color: #fff;
+            font-family: Raleway;
+            font-size: 19px !important;
+            display: none;
+        }
+        div.aw-widget-current-inner div.aw-widget-content a.aw-current-weather p span.aw-weather-description
+        {
+            font-size: 16px !important;
+        }
+        div.aw-widget-current-inner div.aw-widget-content a.aw-current-weather p span.aw-temperature-today sup
+        {
+            font-size: 1em !important;
+            line-height: 1.3em !important;
+        }
+        .aw-temp-time-desc
+        {
+            font-size: 16px;
+        }
+        div.aw-widget-current-inner div.aw-widget-content a.aw-current-weather p time
+        {
+            display: none !important;
+        }
+        div.aw-widget-current-inner
+        {
+            float: right !important;
+            width: 400px !important;
+            position: relative;
+            top: 40px;
+        }
+        .aw-widget-36hour .bg-f, .aw-widget-36hour .tbg-f, .aw-widget-current .bg-f, .aw-widget-current .tbg-f
+        {
+            background: none;
+        }

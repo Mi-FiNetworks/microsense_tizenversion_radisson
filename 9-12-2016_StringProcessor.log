@@ -1,0 +1,1589 @@
+12/2/2016 12:23:20 AM  Processing Posting List String Started
+12/2/2016 12:23:20 AM<--  PL|P#34306|WS1|DA161202|SO1|TI002328|RN425|G#61765412|GNGupta|A2SITASK1972@YAHOO.COM|A4TRW|NPN|PMMC|
+12/2/2016 12:23:20 AM  Processing Posting List String Finished
+
+12/2/2016 12:23:26 AM  Processing Posting Answer String Started
+12/2/2016 12:23:26 AM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103453780|DA161202|P#34307|RN425|TI002335|WS1|G#61765412|GNGupta|SO1|
+12/2/2016 12:23:26 AM  Processing Posting Answer String Finished
+
+12/2/2016 12:32:00 AM  Processing CheckIn String Started
+12/2/2016 12:32:00 AM<--  GI|G#62100626|RN223|GSN|A2manuel.jeyaseelan.stalin@fisglobal.com|A3+918056015594|A4HRO|DA161202|G+61924263|GA161201|GD161202|GFS|GLEA|GNJeyaseelan|GTMr.|GV0|NPN|TI003208|
+12/2/2016 12:32:00 AM  Processing CheckIn String Finished
+
+12/2/2016 12:34:35 AM  Processing Guest Change String Started
+12/2/2016 12:34:35 AM<--  GC|G#62100626|A4HRO|DA161202|GA161201|GD161202|GFSamuel|GLEA|GNjayaseelan|GTMr.|NPN|TI003443|RN223|GSN|
+12/2/2016 12:34:35 AM  Processing Guest Change String Finished
+
+12/2/2016 1:39:02 AM  Processing Posting List String Started
+12/2/2016 1:39:02 AM<--  PL|P#34308|WS1|DA161202|SO1|TI013910|RN422|G#61765411|GNAgarwal|A2SITASK1972@YAHOO.COM|A4TRW|NPN|PMMC|
+12/2/2016 1:39:02 AM  Processing Posting List String Finished
+
+12/2/2016 1:39:08 AM  Processing Posting Answer String Started
+12/2/2016 1:39:08 AM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103465988|DA161202|P#34309|RN422|TI013917|WS1|G#61765411|GNAgarwal|SO1|
+12/2/2016 1:39:08 AM  Processing Posting Answer String Finished
+
+12/2/2016 2:10:40 AM  Processing CheckOut String Started
+12/2/2016 2:10:40 AM<--  GO|G#61846435|RN9800|GSN|DA161202|TI021048|
+12/2/2016 2:10:40 AM  Processing CheckOut String Finished
+
+12/2/2016 2:10:40 AM  Processing CheckIn String Started
+12/2/2016 2:10:40 AM<--  GI|G#62104173|RN9800|GSN|A2rajdeep.deora@tajhotels.com|A4ZZZ|DA161202|G+60338149|GA161201|GD161203|GLEA|GNPasserby|GTMr.|NPN|TI021049|
+12/2/2016 2:10:40 AM  Processing CheckIn String Finished
+
+12/2/2016 2:10:44 AM  Processing CheckOut String Started
+12/2/2016 2:10:44 AM<--  GO|G#61951381|RN9204|GSN|DA161202|TI021050|
+12/2/2016 2:10:44 AM  Processing CheckIn String Started
+12/2/2016 2:10:44 AM<--  GI|G#62104174|RN9204|GSN|A4ZZZ|DA161202|G+19918321|GA161201|GD161202|GF9204|GLEA|GNZZZ POS Visa Card|GTMr.|NPN|TI021052|
+12/2/2016 2:10:44 AM  Processing CheckOut String Finished
+
+12/2/2016 2:10:44 AM  Processing CheckIn String Finished
+
+12/2/2016 2:10:47 AM  Processing CheckOut String Started
+12/2/2016 2:10:47 AM<--  GO|G#61951382|RN9208|GSN|DA161202|TI021054|
+12/2/2016 2:10:47 AM  Processing CheckIn String Started
+12/2/2016 2:10:47 AM<--  GI|G#62104175|RN9208|GSN|A4ZZZ|DA161202|G+19918325|GA161201|GD161202|GF9208|GLEA|GNZZZ POS MAESTRO|GTMr.|NPN|TI021055|
+12/2/2016 2:10:47 AM  Processing CheckOut String Finished
+
+12/2/2016 2:10:47 AM  Processing CheckIn String Finished
+
+12/2/2016 2:10:49 AM  Processing CheckOut String Started
+12/2/2016 2:10:49 AM<--  GO|G#61951383|RN9209|GSN|DA161202|TI021056|
+12/2/2016 2:10:49 AM  Processing CheckIn String Started
+12/2/2016 2:10:49 AM<--  GI|G#62104176|RN9209|GSN|A4ZZZ|DA161202|G+19918326|GA161201|GD161202|GF9209|GLEA|GNZZZ POS VISA ELECTRON|NPN|TI021057|
+12/2/2016 2:10:49 AM  Processing CheckOut String Finished
+
+12/2/2016 2:10:49 AM  Processing CheckIn String Finished
+
+12/2/2016 2:10:51 AM  Processing CheckOut String Started
+12/2/2016 2:10:51 AM<--  GO|G#61951384|RN9200|GSN|DA161202|TI021059|
+12/2/2016 2:10:52 AM  Processing CheckIn String Started
+12/2/2016 2:10:52 AM<--  GI|G#62104177|RN9200|GSN|A4ZZZ|DA161202|G+3479252|GA161201|GD161202|GFCheryl|GLEA|GNCash POS|GTMr.|NPN|TI021059|
+12/2/2016 2:10:52 AM  Processing CheckOut String Finished
+
+12/2/2016 2:10:52 AM  Processing CheckIn String Finished
+
+12/2/2016 2:10:54 AM  Processing CheckOut String Started
+12/2/2016 2:10:54 AM<--  GO|G#61951385|RN9210|GSN|DA161202|TI021101|
+12/2/2016 2:10:54 AM  Processing CheckIn String Started
+12/2/2016 2:10:54 AM<--  GI|G#62104178|RN9210|GSN|A4ZZZ|DA161202|G+19918327|GA161201|GD161202|GF9213|GLEA|GNCurrency Exchange Service Tax|GTMr.|NPN|TI021102|
+12/2/2016 2:10:54 AM  Processing CheckOut String Finished
+
+12/2/2016 2:10:54 AM  Processing CheckIn String Finished
+
+12/2/2016 2:10:56 AM  Processing CheckOut String Started
+12/2/2016 2:10:56 AM<--  GO|G#61951386|RN9211|GSN|DA161202|TI021103|
+12/2/2016 2:10:56 AM  Processing CheckIn String Started
+12/2/2016 2:10:56 AM<--  GI|G#62104179|RN9211|GSN|A4ZZZ|DA161202|G+19918328|GA161201|GD161202|GF9211|GLEA|GNZZZ POS STAFF PAYMENT|NPN|TI021104|
+12/2/2016 2:10:56 AM  Processing CheckOut String Finished
+
+12/2/2016 2:10:56 AM  Processing CheckIn String Finished
+
+12/2/2016 2:10:57 AM  Processing CheckOut String Started
+12/2/2016 2:10:57 AM<--  GO|G#61951387|RN9212|GSN|DA161202|TI021105|
+12/2/2016 2:10:57 AM  Processing CheckIn String Started
+12/2/2016 2:10:57 AM<--  GI|G#62104180|RN9212|GSN|A4ZZZ|DA161202|G+19918329|GA161201|GD161202|GF9212|GLEA|GNZZZ POS TATA CARD|NPN|TI021105|
+12/2/2016 2:10:57 AM  Processing CheckOut String Finished
+
+12/2/2016 2:10:57 AM  Processing CheckIn String Finished
+
+12/2/2016 2:10:58 AM  Processing CheckOut String Started
+12/2/2016 2:10:58 AM<--  GO|G#61951388|RN9201|GSN|DA161202|TI021106|
+12/2/2016 2:10:58 AM  Processing CheckOut String Finished
+
+12/2/2016 2:10:59 AM  Processing CheckIn String Started
+12/2/2016 2:10:59 AM<--  GI|G#62104181|RN9201|GSN|A4ZZZ|DA161202|G+19918318|GA161201|GD161202|GF9201|GLEA|GNZZZ POS CHEQUE|GTMr.|NPN|TI021107|
+12/2/2016 2:10:59 AM  Processing CheckIn String Finished
+
+12/2/2016 2:11:01 AM  Processing CheckOut String Started
+12/2/2016 2:11:01 AM<--  GO|G#61951389|RN9205|GSN|DA161202|TI021108|
+12/2/2016 2:11:01 AM  Processing CheckIn String Started
+12/2/2016 2:11:01 AM<--  GI|G#62104182|RN9205|GSN|A4ZZZ|DA161202|G+19918322|GA161201|GD161202|GF9205|GLEA|GNZZZ POS MASTERCARD|NPN|TI021109|
+12/2/2016 2:11:01 AM  Processing CheckOut String Finished
+
+12/2/2016 2:11:01 AM  Processing CheckIn String Finished
+
+12/2/2016 2:11:03 AM  Processing CheckOut String Started
+12/2/2016 2:11:03 AM<--  GO|G#61951390|RN9202|GSN|DA161202|TI021110|
+12/2/2016 2:11:03 AM  Processing CheckIn String Started
+12/2/2016 2:11:03 AM<--  GI|G#62104183|RN9202|GSN|A4ZZZ|DA161202|G+19918319|GA161201|GD161202|GF9202|GLEA|GNZZZ POS City Ledger|GTMr.|NPN|TI021111|
+12/2/2016 2:11:03 AM  Processing CheckOut String Finished
+
+12/2/2016 2:11:03 AM  Processing CheckIn String Finished
+
+12/2/2016 2:11:04 AM  Processing CheckOut String Started
+12/2/2016 2:11:04 AM<--  GO|G#61951391|RN9203|GSN|DA161202|TI021112|
+12/2/2016 2:11:05 AM  Processing CheckIn String Started
+12/2/2016 2:11:05 AM<--  GI|G#62104184|RN9203|GSN|A4ZZZ|DA161202|G+19918320|GA161201|GD161202|GF9203|GLEA|GNZZZ POS AMERICAN EXPRESS|NPN|TI021113|
+12/2/2016 2:11:05 AM  Processing CheckOut String Finished
+
+12/2/2016 2:11:05 AM  Processing CheckIn String Finished
+
+12/2/2016 2:11:09 AM  Processing CheckOut String Started
+12/2/2016 2:11:09 AM<--  GO|G#61951392|RN9206|GSN|DA161202|TI021116|
+12/2/2016 2:11:09 AM  Processing CheckIn String Started
+12/2/2016 2:11:09 AM<--  GI|G#62104185|RN9206|GSN|A4ZZZ|DA161202|G+19918323|GA161201|GD161202|GLEA|GNLunch on 13/09/16|GTMr.|NPN|TI021117|
+12/2/2016 2:11:09 AM  Processing CheckOut String Finished
+
+12/2/2016 2:11:09 AM  Processing CheckIn String Finished
+
+12/2/2016 4:23:36 AM  Processing Guest Change String Started
+12/2/2016 4:23:36 AM<--  GC|G#61765410|A2anilkant.bharti@maruti.co.in|A4TRW|DA161202|GA161201|GD161202|GFAnil|GLEA|GNBharti|GTMr|NPN|TI042344|RN421|GSN|
+12/2/2016 4:23:37 AM  Processing Guest Change String Finished
+
+12/2/2016 4:24:44 AM  Processing Guest Change String Started
+12/2/2016 4:24:44 AM<--  GC|G#61765412|A2sharmashailender14@gmail.com|A4TRW|DA161202|GA161201|GD161202|GFAanuj|GLEA|GNSharma|GTMr|NPN|TI042452|RN425|GSN|
+12/2/2016 4:24:44 AM  Processing Guest Change String Finished
+
+12/2/2016 4:26:20 AM  Processing Guest Change String Started
+12/2/2016 4:26:20 AM<--  GC|G#61765412|A2sharmashailender14@gmail.com|A4TRW|DA161202|GA161201|GD161202|GFshailender|GLEA|GNSharma|GTMr|NPN|TI042628|RN425|GSN|
+12/2/2016 4:26:20 AM  Processing Guest Change String Finished
+
+12/2/2016 4:27:43 AM  Processing Guest Change String Started
+12/2/2016 4:27:43 AM<--  GC|G#61765409|A2anujforever4u@yahoo.com|A4TRW|DA161202|GA161201|GD161202|GFAanuj|GLEA|GNGupta|GTMr|NPN|TI042751|RN423|GSN|
+12/2/2016 4:27:44 AM  Processing Guest Change String Finished
+
+12/2/2016 4:43:10 AM  Processing Guest Change String Started
+12/2/2016 4:43:10 AM<--  GC|G#61985378|A2ashok.sharma@pusbchennai.co.in|A38754144829|A4TPS|DA161202|GA161201|GD161202|GLEA|GNAshok sharma|GTMr.|NPN|TI044318|RN321|GSY|
+12/2/2016 4:43:10 AM  Processing Guest Change String Finished
+
+12/2/2016 5:10:59 AM  Processing CheckOut String Started
+12/2/2016 5:10:59 AM<--  GO|G#61065888|RNC25|GSN|DA161202|TI051107|
+12/2/2016 5:10:59 AM  Processing CheckOut String Finished
+
+12/2/2016 5:15:56 AM  Processing CheckOut String Started
+12/2/2016 5:15:56 AM<--  GO|G#61065896|RNC26|GSN|DA161202|TI051604|
+12/2/2016 5:15:56 AM  Processing CheckOut String Finished
+
+12/2/2016 5:16:06 AM  Processing CheckOut String Started
+12/2/2016 5:16:06 AM<--  GO|G#56985635|RNC06|GSY|DA161202|TI051615|
+12/2/2016 5:16:06 AM  Processing CheckOut String Finished
+
+12/2/2016 5:16:06 AM  Processing Guest Change String Started
+12/2/2016 5:16:06 AM<--  GC|G#61925626|A4TPS|DA161202|GA161130|GD161202|GFMarguerite|GLEA|GNStrout|GTMrs.|NPY|TI051615|RNC06|GSN|
+12/2/2016 5:16:07 AM  Processing Guest Change String Finished
+
+12/2/2016 5:16:14 AM  Processing CheckOut String Started
+12/2/2016 5:16:14 AM<--  GO|G#61925626|RNC06|GSN|DA161202|TI051622|
+12/2/2016 5:16:14 AM  Processing CheckOut String Finished
+
+12/2/2016 5:43:27 AM  Processing CheckOut String Started
+12/2/2016 5:43:27 AM<--  GO|G#61065906|RNC01|GSN|DA161202|TI054335|
+12/2/2016 5:43:27 AM  Processing CheckOut String Finished
+
+12/2/2016 5:46:19 AM  Processing CheckOut String Started
+12/2/2016 5:46:19 AM<--  GO|G#61065908|RNC02|GSN|DA161202|TI054627|
+12/2/2016 5:46:19 AM  Processing CheckOut String Finished
+
+12/2/2016 8:02:55 AM  Processing CheckOut String Started
+12/2/2016 8:02:55 AM<--  GO|G#61607132|RN207|GSN|DA161202|TI080304|
+12/2/2016 8:02:56 AM  Processing CheckOut String Finished
+
+12/2/2016 8:07:20 AM  Processing CheckOut String Started
+12/2/2016 8:07:20 AM<--  GO|G#60104126|RN210|GSN|DA161202|TI080728|
+12/2/2016 8:07:20 AM  Processing CheckOut String Finished
+
+12/2/2016 8:08:11 AM  Processing CheckOut String Started
+12/2/2016 8:08:11 AM<--  GO|G#58024376|RN217|GSN|DA161202|TI080819|
+12/2/2016 8:08:11 AM  Processing CheckOut String Finished
+
+12/2/2016 8:14:02 AM  Processing CheckOut String Started
+12/2/2016 8:14:02 AM<--  GO|G#61596387|RN122|GSY|DA161202|TI081410|
+12/2/2016 8:14:02 AM  Processing CheckOut String Finished
+
+12/2/2016 8:14:02 AM  Processing Guest Change String Started
+12/2/2016 8:14:02 AM<--  GC|G#61607633|A4HRO|DA161202|GA161127|GD161202|GFNavdeep|GLEA|GNsaini|NPY|TI081410|RN122|GSN|
+12/2/2016 8:14:02 AM  Processing Guest Change String Finished
+
+12/2/2016 8:14:14 AM  Processing CheckOut String Started
+12/2/2016 8:14:14 AM<--  GO|G#61607633|RN122|GSN|DA161202|TI081423|
+12/2/2016 8:14:14 AM  Processing CheckOut String Finished
+
+12/2/2016 8:16:50 AM  Processing CheckOut String Started
+12/2/2016 8:16:50 AM<--  GO|G#61607126|RN215|GSN|DA161202|TI081658|
+12/2/2016 8:16:50 AM  Processing CheckOut String Finished
+
+12/2/2016 8:17:11 AM  Processing CheckOut String Started
+12/2/2016 8:17:11 AM<--  GO|G#61599927|RN121|GSY|DA161202|TI081720|
+12/2/2016 8:17:11 AM  Processing CheckOut String Finished
+
+12/2/2016 8:17:12 AM  Processing Guest Change String Started
+12/2/2016 8:17:12 AM<--  GC|G#61607638|A4HRO|DA161202|GA161127|GD161202|GFAnuj|GLEA|GNkumar|NPY|TI081720|RN121|GSN|
+12/2/2016 8:17:12 AM  Processing Guest Change String Finished
+
+12/2/2016 8:17:38 AM  Processing CheckOut String Started
+12/2/2016 8:17:38 AM<--  GO|G#61607128|RN111|GSN|DA161202|TI081747|
+12/2/2016 8:17:38 AM  Processing CheckOut String Finished
+
+12/2/2016 8:18:34 AM  Processing CheckOut String Started
+12/2/2016 8:18:34 AM<--  GO|G#61607638|RN121|GSN|DA161202|TI081843|
+12/2/2016 8:18:34 AM  Processing CheckOut String Finished
+
+12/2/2016 8:22:09 AM  Processing CheckOut String Started
+12/2/2016 8:22:09 AM<--  GO|G#61599928|RN120|GSY|DA161202|TI082218|
+12/2/2016 8:22:09 AM  Processing CheckOut String Finished
+
+12/2/2016 8:22:09 AM  Processing Guest Change String Started
+12/2/2016 8:22:09 AM<--  GC|G#61607640|A4HRO|DA161202|GA161127|GD161202|GLEA|GNPulkit|NPY|TI082218|RN120|GSN|
+12/2/2016 8:22:09 AM  Processing Guest Change String Finished
+
+12/2/2016 8:22:20 AM  Processing CheckOut String Started
+12/2/2016 8:22:20 AM<--  GO|G#61607640|RN120|GSN|DA161202|TI082229|
+12/2/2016 8:22:21 AM  Processing CheckOut String Finished
+
+12/2/2016 8:25:05 AM  Processing CheckOut String Started
+12/2/2016 8:25:05 AM<--  GO|G#61599930|RN123|GSY|DA161202|TI082513|
+12/2/2016 8:25:05 AM  Processing CheckOut String Finished
+
+12/2/2016 8:25:05 AM  Processing Guest Change String Started
+12/2/2016 8:25:05 AM<--  GC|G#61607644|A4HRO|DA161202|GA161127|GD161202|GLEA|GNMilind|NPY|TI082513|RN123|GSN|
+12/2/2016 8:25:06 AM  Processing Guest Change String Finished
+
+12/2/2016 8:25:15 AM  Processing CheckOut String Started
+12/2/2016 8:25:15 AM<--  GO|G#61607644|RN123|GSN|DA161202|TI082523|
+12/2/2016 8:25:15 AM  Processing CheckOut String Finished
+
+12/2/2016 8:27:19 AM  Processing Guest Change String Started
+12/2/2016 8:27:19 AM<--  GC|G#61599931|A0101011140929|A2unmuktchand8@gmail.com|A3+919911978377|A4HRO|DA161202|GA161127|GD161202|GFUnmukt|GLEA|GNChand|GTMr.|NPN|TI082728|RN104|GSY|
+12/2/2016 8:27:19 AM  Processing Guest Change String Finished
+
+12/2/2016 8:28:18 AM  Processing CheckOut String Started
+12/2/2016 8:28:18 AM<--  GO|G#61599932|RN220|GSY|DA161202|TI082826|
+12/2/2016 8:28:18 AM  Processing CheckOut String Finished
+
+12/2/2016 8:28:18 AM  Processing Guest Change String Started
+12/2/2016 8:28:18 AM<--  GC|G#61607648|A4HRO|DA161202|GA161127|GD161202|GFPawan|GLEA|GNSuyal|GTMr.|NPY|TI082826|RN220|GSN|
+12/2/2016 8:28:19 AM  Processing Guest Change String Finished
+
+12/2/2016 8:29:57 AM  Processing CheckOut String Started
+12/2/2016 8:29:57 AM<--  GO|G#61607648|RN220|GSN|DA161202|TI083006|
+12/2/2016 8:29:57 AM  Processing CheckOut String Finished
+
+12/2/2016 8:31:31 AM  Processing CheckOut String Started
+12/2/2016 8:31:31 AM<--  GO|G#61599931|RN104|GSY|DA161202|TI083139|
+12/2/2016 8:31:31 AM  Processing CheckOut String Finished
+
+12/2/2016 8:31:31 AM  Processing Guest Change String Started
+12/2/2016 8:31:31 AM<--  GC|G#61607646|A4HRO|DA161202|GA161127|GD161202|GFNitish|GLEA|GNRana|NPY|TI083139|RN104|GSN|
+12/2/2016 8:31:32 AM  Processing Guest Change String Finished
+
+12/2/2016 8:31:52 AM  Processing CheckOut String Started
+12/2/2016 8:31:52 AM<--  GO|G#61607646|RN104|GSN|DA161202|TI083200|
+12/2/2016 8:31:52 AM  Processing CheckOut String Finished
+
+12/2/2016 8:32:00 AM  Processing CheckOut String Started
+12/2/2016 8:32:00 AM<--  GO|G#61606376|RN402|GSN|DA161202|TI083209|
+12/2/2016 8:32:00 AM  Processing CheckOut String Finished
+
+12/2/2016 8:37:26 AM  Processing CheckOut String Started
+12/2/2016 8:37:26 AM<--  GO|G#61765413|RN424|GSN|DA161202|TI083734|
+12/2/2016 8:37:26 AM  Processing CheckOut String Finished
+
+12/2/2016 8:39:01 AM  Processing CheckOut String Started
+12/2/2016 8:39:01 AM<--  GO|G#61599936|RN401|GSN|DA161202|TI083908|
+12/2/2016 8:39:01 AM  Processing CheckOut String Finished
+
+12/2/2016 8:46:09 AM  Processing Guest Change String Started
+12/2/2016 8:46:09 AM<--  GC|G#61765409|A2anujforever4u@yahoo.com|A4TRW|DA161202|GA161201|GD161202|GFAnuj|GLEA|GNGupta|GTMr|NPN|TI084618|RN423|GSN|
+12/2/2016 8:46:09 AM  Processing Guest Change String Finished
+
+12/2/2016 8:48:27 AM  Processing CheckOut String Started
+12/2/2016 8:48:27 AM<--  GO|G#61765409|RN423|GSN|DA161202|TI084836|
+12/2/2016 8:48:27 AM  Processing CheckOut String Finished
+
+12/2/2016 8:53:00 AM  Processing Guest Change String Started
+12/2/2016 8:53:00 AM<--  GC|G#61765412|A2sharmashailender14@gmail.com|A4TRW|DA161202|GA161201|GD161202|GFShailender|GLEA|GNSharma|GTMr|NPN|TI085309|RN425|GSN|
+12/2/2016 8:53:00 AM  Processing Guest Change String Finished
+
+12/2/2016 8:54:57 AM  Processing CheckOut String Started
+12/2/2016 8:54:57 AM<--  GO|G#61765411|RN422|GSN|DA161202|TI085505|
+12/2/2016 8:54:57 AM  Processing CheckOut String Finished
+
+12/2/2016 9:02:35 AM  Processing CheckOut String Started
+12/2/2016 9:02:35 AM<--  GO|G#61765410|RN421|GSN|DA161202|TI090243|
+12/2/2016 9:02:35 AM  Processing CheckOut String Finished
+
+12/2/2016 9:03:16 AM  Processing CheckOut String Started
+12/2/2016 9:03:16 AM<--  GO|G#61765412|RN425|GSN|DA161202|TI090325|
+12/2/2016 9:03:17 AM  Processing CheckOut String Finished
+
+12/2/2016 9:10:06 AM  Processing CheckOut String Started
+12/2/2016 9:10:06 AM<--  GO|G#61607641|RN124|GSY|DA161202|TI091014|
+12/2/2016 9:10:06 AM  Processing CheckOut String Finished
+
+12/2/2016 9:10:06 AM  Processing Guest Change String Started
+12/2/2016 9:10:06 AM<--  GC|G#61599929|A4HRO|DA161202|GA161127|GD161202|GFManan|GLEA|GNSharma|GTMr.|NPN|TI091014|RN124|GSN|
+12/2/2016 9:10:06 AM  Processing Guest Change String Finished
+
+12/2/2016 9:10:15 AM  Processing CheckOut String Started
+12/2/2016 9:10:15 AM<--  GO|G#61599929|RN124|GSN|DA161202|TI091022|
+12/2/2016 9:10:15 AM  Processing CheckOut String Finished
+
+12/2/2016 9:10:23 AM  Processing CheckOut String Started
+12/2/2016 9:10:23 AM<--  GO|G#61607129|RN114|GSN|DA161202|TI091032|
+12/2/2016 9:10:23 AM  Processing CheckOut String Finished
+
+12/2/2016 9:10:40 AM  Processing CheckOut String Started
+12/2/2016 9:10:40 AM<--  GO|G#61607131|RN109|GSN|DA161202|TI091048|
+12/2/2016 9:10:40 AM  Processing CheckOut String Finished
+
+12/2/2016 9:22:06 AM  Processing CheckOut String Started
+12/2/2016 9:22:06 AM<--  GO|G#54460053|RN116|GSY|DA161202|TI092215|
+12/2/2016 9:22:06 AM  Processing CheckOut String Finished
+
+12/2/2016 9:22:06 AM  Processing Guest Change String Started
+12/2/2016 9:22:06 AM<--  GC|G#61903631|A4HRO|DA161202|GA161130|GD161202|GFCarolee|GLEA|GNOrnelas|GTMrs.|NPY|TI092215|RN116|GSN|
+12/2/2016 9:22:07 AM  Processing Guest Change String Finished
+
+12/2/2016 9:22:14 AM  Processing CheckOut String Started
+12/2/2016 9:22:14 AM<--  GO|G#61903631|RN116|GSN|DA161202|TI092222|
+12/2/2016 9:22:14 AM  Processing CheckOut String Finished
+
+12/2/2016 9:31:12 AM  Processing CheckOut String Started
+12/2/2016 9:31:12 AM<--  GO|G#58429377|RNV32|GSY|DA161202|TI093121|
+12/2/2016 9:31:13 AM  Processing CheckOut String Finished
+
+12/2/2016 9:31:13 AM  Processing Guest Change String Started
+12/2/2016 9:31:13 AM<--  GC|G#62078878|A4TAJ|DA161202|GA161201|GD161202|GFDenise Meyer|GLEA|GNWeinstein|GTMrs.|NPY|TI093121|RNV32|GSN|
+12/2/2016 9:31:13 AM  Processing Guest Change String Finished
+
+12/2/2016 9:31:20 AM  Processing CheckOut String Started
+12/2/2016 9:31:20 AM<--  GO|G#62078878|RNV32|GSN|DA161202|TI093129|
+12/2/2016 9:31:20 AM  Processing CheckOut String Finished
+
+12/2/2016 9:35:13 AM  Processing CheckIn String Started
+12/2/2016 9:35:13 AM<--  GI|G#61428129|RNV39|GSN|A2JOHNSARUL@YAHOO.COM|A39084581857|A4TAJ|DA161202|G+64157156|GA161202|GD161203|GFJohn|GLEA|GNArul|GTMr|NPN|TI093522|
+12/2/2016 9:35:13 AM  Processing CheckIn String Finished
+
+12/2/2016 9:55:25 AM  Processing Guest Change String Started
+12/2/2016 9:55:25 AM<--  GC|G#61709665|A2shashichatureved1700@hotmail.com|A4TRW|DA161202|GA161201|GD161202|GFS|GLEA|GNChaturvedi|GTMr.|NPN|TI095515|RN304|GSN|
+12/2/2016 9:55:25 AM  Processing Guest Change String Finished
+
+12/2/2016 9:55:26 AM  Processing Guest Change String Started
+12/2/2016 9:55:26 AM<--  GC|G#61709666|A2shashichatureved1700@hotmail.com|A4TRW|DA161202|GA161201|GD161202|GFS|GLEA|GNChaturvedi|GTMr.|NPN|TI095515|RN305|GSN|
+12/2/2016 9:55:26 AM  Processing Guest Change String Finished
+
+12/2/2016 9:55:26 AM  Processing Guest Change String Started
+12/2/2016 9:55:26 AM<--  GC|G#61709666|A4TRW|DA161202|GA161201|GD161202|GFShashi|GLEA|GNChaturvedi|GTMr.|NPN|TI095534|RN305|GSN|
+12/2/2016 9:55:26 AM  Processing Guest Change String Finished
+
+12/2/2016 9:57:51 AM  Processing Guest Change String Started
+12/2/2016 9:57:51 AM<--  GC|G#61709666|A0101014533727|A1TS|A2shashi_chaturvedi@gg.nitto.co.jp|A3+911244221600 1604|A4TRW|DA161202|GA161201|GD161202|GFShashi|GLEA|GNChaturvedi|GTMr.|GV0|NPN|TI095759|RN305|GSN|
+12/2/2016 9:57:51 AM  Processing Guest Change String Finished
+
+12/2/2016 9:58:29 AM  Processing Guest Change String Started
+12/2/2016 9:58:29 AM<--  GC|G#61709665|A2shashichatureved1700@hotmail.com|A4TRW|DA161202|GA161201|GD161202|GFAmit Kumar|GLEA|GNVerma|GTMr.|NPN|TI095837|RN304|GSN|
+12/2/2016 9:58:29 AM  Processing Guest Change String Finished
+
+12/2/2016 9:59:31 AM  Processing CheckOut String Started
+12/2/2016 9:59:31 AM<--  GO|G#61709666|RN305|GSN|DA161202|TI095940|
+12/2/2016 9:59:31 AM  Processing CheckOut String Finished
+
+12/2/2016 10:00:29 AM  Processing CheckOut String Started
+12/2/2016 10:00:29 AM<--  GO|G#61709665|RN304|GSN|DA161202|TI100038|
+12/2/2016 10:00:29 AM  Processing CheckOut String Finished
+
+12/2/2016 10:12:01 AM  Processing Posting List String Started
+12/2/2016 10:12:01 AM<--  PL|P#34310|WS1|DA161202|SO1|TI101210|RNV39|G#61428129|GNArul|A2JOHNSARUL@YAHOO.COM|A39084581857|A4TAJ|NPN|PMVA|
+12/2/2016 10:12:01 AM  Processing Posting List String Finished
+
+12/2/2016 10:12:08 AM  Processing Posting Answer String Started
+12/2/2016 10:12:08 AM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103561932|DA161202|P#34311|RNV39|TI101216|WS1|G#61428129|GNArul|SO1|
+12/2/2016 10:12:08 AM  Processing Posting Answer String Finished
+
+12/2/2016 11:11:55 AM  Processing CheckIn String Started
+12/2/2016 11:11:55 AM<--  GI|G#51156520|RN416|GSN|A2psage.918479@guest.booking.com|A3+447929781233|A4TPS|DA161202|G+46964141|GA161202|GD161207|GFPaul|GLEA|GNSage|GTMr.|NPN|TI111204|
+12/2/2016 11:11:55 AM  Processing CheckIn String Finished
+
+12/2/2016 11:21:50 AM  Processing CheckOut String Started
+12/2/2016 11:21:50 AM<--  GO|G#62100626|RN223|GSN|DA161202|TI112159|
+12/2/2016 11:21:50 AM  Processing CheckOut String Finished
+
+12/2/2016 11:28:14 AM  Processing CheckOut String Started
+12/2/2016 11:28:14 AM<--  GO|G#61985378|RN321|GSY|DA161202|TI112822|
+12/2/2016 11:28:15 AM  Processing CheckOut String Finished
+
+12/2/2016 11:28:15 AM  Processing Guest Change String Started
+12/2/2016 11:28:15 AM<--  GC|G#62031879|A4TPS|DA161202|GA161201|GD161202|GFMonika|GLEA|GNAshok Sharma|GTMrs.|NPY|TI112822|RN321|GSN|
+12/2/2016 11:28:15 AM  Processing Guest Change String Finished
+
+12/2/2016 11:28:25 AM  Processing CheckOut String Started
+12/2/2016 11:28:25 AM<--  GO|G#62031879|RN321|GSN|DA161202|TI112834|
+12/2/2016 11:28:25 AM  Processing CheckOut String Finished
+
+12/2/2016 11:47:00 AM  Processing CheckOut String Started
+12/2/2016 11:47:00 AM<--  GO|G#62022631|RN426|GSY|DA161202|TI114709|
+12/2/2016 11:47:00 AM  Processing CheckOut String Finished
+
+12/2/2016 11:47:00 AM  Processing Guest Change String Started
+12/2/2016 11:47:00 AM<--  GC|G#60166128|A2nitin2204@gmail.com|A3+918884509930|A4TPS|DA161202|GA161201|GD161202|GFNitin|GLEA|GNHariharan|GTMr.|NPN|TI114709|RN426|GSN|
+12/2/2016 11:47:00 AM  Processing Guest Change String Finished
+
+12/2/2016 11:47:08 AM  Processing CheckOut String Started
+12/2/2016 11:47:08 AM<--  GO|G#60166128|RN426|GSN|DA161202|TI114717|
+12/2/2016 11:47:08 AM  Processing CheckOut String Finished
+
+12/2/2016 11:56:46 AM  Processing Posting List String Started
+12/2/2016 11:56:46 AM<--  PL|P#34312|WS1|DA161202|SO1|TI115655|RN416|G#51156520|GNSage|A2psage.918479@guest.booking.com|A3+447929781233|A4TPS|NPN|PMVA|
+12/2/2016 11:56:46 AM  Processing Posting List String Finished
+
+12/2/2016 11:56:52 AM  Processing Posting Answer String Started
+12/2/2016 11:56:52 AM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103566977|DA161202|P#34313|RN416|TI115702|WS1|G#51156520|GNSage|SO1|
+12/2/2016 11:56:52 AM  Processing Posting Answer String Finished
+
+12/2/2016 11:59:05 AM  Processing Guest Change String Started
+12/2/2016 11:59:05 AM<--  GC|G#47494598|A3+91917-4531211|A4TPS|DA161202|GA161201|GD161202|GFSimha|GLEA|GNKumar|GTMr.|NPY|TI115913|RNV31|GSY|
+12/2/2016 11:59:06 AM  Processing Guest Change String Finished
+
+12/2/2016 11:59:06 AM  Processing Guest Change String Started
+12/2/2016 11:59:06 AM<--  GC|G#62062886|A4TPS|DA161202|GA161201|GD161202|GFLeela Sheth|GLEA|GNKumar|GTMs.|NPY|TI115913|RNV31|GSY|
+12/2/2016 11:59:06 AM  Processing Guest Change String Started
+12/2/2016 11:59:06 AM<--  GC|G#62062877|A4TPS|DA161202|GA161201|GD161202|GFAvani|GLEA|GNSheth|GTMrs.|NPY|TI115914|RNV31|GSY|
+12/2/2016 11:59:06 AM  Processing Guest Change String Finished
+
+12/2/2016 11:59:06 AM  Processing Guest Change String Finished
+
+12/2/2016 12:12:52 PM  Processing CheckOut String Started
+12/2/2016 12:12:52 PM<--  GO|G#61637627|RNC03|GSY|DA161202|TI121251|
+12/2/2016 12:12:52 PM  Processing CheckOut String Finished
+
+12/2/2016 12:12:53 PM  Processing Guest Change String Started
+12/2/2016 12:12:53 PM<--  GC|G#62028629|A4TPS|DA161202|GA161201|GD161202|GFKathyayini|GLEA|GNR|GTMs.|NPY|TI121251|RNC03|GSN|
+12/2/2016 12:12:53 PM  Processing Guest Change String Finished
+
+12/2/2016 12:12:59 PM  Processing CheckOut String Started
+12/2/2016 12:12:59 PM<--  GO|G#62028629|RNC03|GSN|DA161202|TI121258|
+12/2/2016 12:12:59 PM  Processing CheckOut String Finished
+
+12/2/2016 12:22:31 PM  Processing CheckOut String Started
+12/2/2016 12:22:31 PM<--  GO|G#47494598|RNV31|GSY|DA161202|TI122230|
+12/2/2016 12:22:31 PM  Processing CheckOut String Finished
+
+12/2/2016 12:22:32 PM  Processing Guest Change String Started
+12/2/2016 12:22:32 PM<--  GC|G#62062877|A4TPS|DA161202|GA161201|GD161202|GFAvani|GLEA|GNSheth|GTMrs.|NPY|TI122230|RNV31|GSY|
+12/2/2016 12:22:32 PM  Processing Guest Change String Started
+12/2/2016 12:22:32 PM<--  GC|G#62062886|A4TPS|DA161202|GA161201|GD161202|GFLeela Sheth|GLEA|GNKumar|GTMs.|NPY|TI122230|RNV31|GSY|
+12/2/2016 12:22:32 PM  Processing Guest Change String Finished
+
+12/2/2016 12:22:32 PM  Processing Guest Change String Finished
+
+12/2/2016 12:22:38 PM  Processing CheckOut String Started
+12/2/2016 12:22:38 PM<--  GO|G#62062886|RNV31|GSY|DA161202|TI122237|
+12/2/2016 12:22:38 PM  Processing CheckOut String Finished
+
+12/2/2016 12:22:38 PM  Processing Guest Change String Started
+12/2/2016 12:22:38 PM<--  GC|G#62062877|A4TPS|DA161202|GA161201|GD161202|GFAvani|GLEA|GNSheth|GTMrs.|NPY|TI122237|RNV31|GSN|
+12/2/2016 12:22:38 PM  Processing Guest Change String Finished
+
+12/2/2016 12:22:44 PM  Processing CheckOut String Started
+12/2/2016 12:22:44 PM<--  GO|G#62062877|RNV31|GSN|DA161202|TI122244|
+12/2/2016 12:22:44 PM  Processing CheckOut String Finished
+
+12/2/2016 12:28:33 PM  Processing CheckOut String Started
+12/2/2016 12:28:33 PM<--  GO|G#47494598|RNV31|GSN|DA161202|TI122831|
+12/2/2016 12:28:33 PM  Processing CheckOut String Finished
+
+12/2/2016 12:37:19 PM  Processing Guest Change String Started
+12/2/2016 12:37:19 PM<--  GC|G#61871634|A2simranjeet.ahuja@outlook.com|A3+918527299320|A4GDS|DA161202|GA161130|GD161202|GFSimranjeet Singh|GLEA|GNAhuja|GTMr.|NPN|TI123717|RN115|GSN|
+12/2/2016 12:37:19 PM  Processing Guest Change String Finished
+
+12/2/2016 12:39:58 PM  Processing CheckOut String Started
+12/2/2016 12:39:58 PM<--  GO|G#61619688|RN110|GSN|DA161202|TI123957|
+12/2/2016 12:39:58 PM  Processing CheckOut String Finished
+
+12/2/2016 12:42:39 PM  Processing CheckOut String Started
+12/2/2016 12:42:39 PM<--  GO|G#61871634|RN115|GSN|DA161202|TI124238|
+12/2/2016 12:42:39 PM  Processing CheckOut String Finished
+
+12/2/2016 1:03:29 PM  Processing CheckIn String Started
+12/2/2016 1:03:29 PM<--  GI|G#61969151|RN123|GSN|A4HRO|DA161202|G+64703927|GA161202|GD161204|GLEA|GNAkshay|GTMr.|NPN|TI130328|
+12/2/2016 1:03:29 PM  Processing CheckIn String Finished
+
+12/2/2016 1:03:54 PM  Processing CheckOut String Started
+12/2/2016 1:03:54 PM<--  GO|G#61969151|RN123|GSN|DA161202|TI130353|
+12/2/2016 1:03:54 PM  Processing CheckOut String Finished
+
+12/2/2016 1:04:55 PM  Processing CheckIn String Started
+12/2/2016 1:04:55 PM<--  GI|G#61969155|RN223|GSN|A4HRO|DA161202|G+64703931|GA161202|GD161204|GLEA|GNJeff|GTMr.|NPN|TI130454|
+12/2/2016 1:04:55 PM  Processing CheckIn String Finished
+
+12/2/2016 1:31:26 PM  Processing CheckOut String Started
+12/2/2016 1:31:26 PM<--  GO|G#62013900|RN216|GSY|DA161202|TI133125|
+12/2/2016 1:31:26 PM  Processing CheckOut String Finished
+
+12/2/2016 1:31:27 PM  Processing Guest Change String Started
+12/2/2016 1:31:27 PM<--  GC|G#62049146|A4HRO|DA161202|GA161201|GD161202|GFMuthu|GLEA|GNRaja|GTMr.|NPY|TI133125|RN216|GSN|
+12/2/2016 1:31:27 PM  Processing Guest Change String Finished
+
+12/2/2016 1:38:15 PM  Processing CheckOut String Started
+12/2/2016 1:38:15 PM<--  GO|G#62049146|RN216|GSN|DA161202|TI133815|
+12/2/2016 1:38:15 PM  Processing CheckOut String Finished
+
+12/2/2016 1:55:15 PM  Processing CheckIn String Started
+12/2/2016 1:55:15 PM<--  GI|G#61892638|RN9000|GSN|A4ITD|DA161202|G+61175161|GA161202|GD161204|GLEA|GNACME TOURS & TRAVELS|NPN|TI135514|
+12/2/2016 1:55:15 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:16 PM  Processing CheckIn String Started
+12/2/2016 1:55:16 PM<--  GI|G#61896633|RN210|GSN|A4ITD|DA161202|G+64630653|GA161202|GD161204|GFRejane|GLEA|GNDHONDT|GTMs.|NPN|TI135516|
+12/2/2016 1:55:16 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:18 PM  Processing CheckIn String Started
+12/2/2016 1:55:18 PM<--  GI|G#61980888|RN210|GSY|A4ITD|DA161202|G+64711725|GA161202|GD161204|GFChantal|GLEA|GNHANNOIR|NPY|TI135516|
+12/2/2016 1:55:18 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:18 PM  Processing RoomEquipment String Started
+12/2/2016 1:55:18 PM<--  RE|RN210|CS0|
+12/2/2016 1:55:18 PM  Processing RoomEquipment String Finished
+
+12/2/2016 1:55:19 PM  Processing CheckIn String Started
+12/2/2016 1:55:19 PM<--  GI|G#61896634|RN208|GSN|A4ITD|DA161202|G+64630654|GA161202|GD161204|GFRosalba|GLEA|GNCHELKOWSKI|GTMs.|NPN|TI135518|
+12/2/2016 1:55:19 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:19 PM  Processing CheckIn String Started
+12/2/2016 1:55:19 PM<--  GI|G#61980895|RN208|GSY|A4ITD|DA161202|G+64711730|GA161202|GD161204|GFMartine|GLEA|GNVASSEUR|NPY|TI135518|
+12/2/2016 1:55:19 PM  Processing RoomEquipment String Started
+12/2/2016 1:55:19 PM<--  RE|RN208|CS0|
+12/2/2016 1:55:19 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:19 PM  Processing RoomEquipment String Finished
+
+12/2/2016 1:55:20 PM  Processing CheckIn String Started
+12/2/2016 1:55:20 PM<--  GI|G#61896632|RN207|GSN|A4ITD|DA161202|G+64630652|GA161202|GD161204|GFRita|GLEA|GNDRIEUX|GTMs.|NPN|TI135520|
+12/2/2016 1:55:20 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:21 PM  Processing CheckIn String Started
+12/2/2016 1:55:21 PM<--  GI|G#61980882|RN207|GSY|A4ITD|DA161202|G+64711720|GA161202|GD161204|GFGhislaine|GLEA|GNDUBOIS|NPY|TI135521|
+12/2/2016 1:55:21 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:22 PM  Processing RoomEquipment String Started
+12/2/2016 1:55:22 PM<--  RE|RN207|CS0|
+12/2/2016 1:55:22 PM  Processing RoomEquipment String Finished
+
+12/2/2016 1:55:23 PM  Processing CheckIn String Started
+12/2/2016 1:55:23 PM<--  GI|G#61892695|RN107|GSN|A4ITD|DA161202|G+64628472|GA161202|GD161204|GFJacques|GLEA|GNGOUSSEN|GTMr.|NPN|TI135522|
+12/2/2016 1:55:23 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:24 PM  Processing CheckIn String Started
+12/2/2016 1:55:24 PM<--  GI|G#61979629|RN107|GSY|A4ITD|DA161202|G+64711666|GA161202|GD161204|GFChristiane|GLEA|GNGOUSSEN|NPY|TI135523|
+12/2/2016 1:55:24 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:24 PM  Processing RoomEquipment String Started
+12/2/2016 1:55:24 PM<--  RE|RN107|CS0|
+12/2/2016 1:55:24 PM  Processing RoomEquipment String Finished
+
+12/2/2016 1:55:25 PM  Processing CheckIn String Started
+12/2/2016 1:55:25 PM<--  GI|G#61895881|RN109|GSN|A4ITD|DA161202|G+64629899|GA161202|GD161204|GFJean-Paul|GLEA|GNCALAME|GTMr.|NPN|TI135524|
+12/2/2016 1:55:25 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:25 PM  Processing CheckIn String Started
+12/2/2016 1:55:25 PM<--  GI|G#61979636|RN109|GSY|A4ITD|DA161202|G+64711676|GA161202|GD161204|GFJosiane|GLEA|GNCALAME|GTMs.|NPY|TI135525|
+12/2/2016 1:55:25 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:26 PM  Processing RoomEquipment String Started
+12/2/2016 1:55:26 PM<--  RE|RN109|CS0|
+12/2/2016 1:55:26 PM  Processing RoomEquipment String Finished
+
+12/2/2016 1:55:27 PM  Processing CheckIn String Started
+12/2/2016 1:55:27 PM<--  GI|G#61895882|RN108|GSN|A4ITD|DA161202|G+64629900|GA161202|GD161204|GFBernard|GLEA|GNDELMOTTE|GTMr.|GV9|NPN|TI135526|
+12/2/2016 1:55:27 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:28 PM  Processing CheckIn String Started
+12/2/2016 1:55:28 PM<--  GI|G#61979648|RN108|GSY|A4ITD|DA161202|G+64711684|GA161202|GD161204|GFNicole|GLEA|GNDELMOTTE|NPY|TI135527|
+12/2/2016 1:55:28 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:28 PM  Processing RoomEquipment String Started
+12/2/2016 1:55:28 PM<--  RE|RN108|CS0|
+12/2/2016 1:55:28 PM  Processing RoomEquipment String Finished
+
+12/2/2016 1:55:29 PM  Processing CheckIn String Started
+12/2/2016 1:55:29 PM<--  GI|G#61895884|RN212|GSN|A4ITD|DA161202|G+64629902|GA161202|GD161204|GFMichel|GLEA|GNVERLENNE|GTMr.|NPN|TI135528|
+12/2/2016 1:55:29 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:29 PM  Processing CheckIn String Started
+12/2/2016 1:55:29 PM<--  GI|G#61980628|RN212|GSY|A4ITD|DA161202|G+64711688|GA161202|GD161204|GFMonique|GLEA|GNVERLENNE|NPY|TI135529|
+12/2/2016 1:55:29 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:29 PM  Processing RoomEquipment String Started
+12/2/2016 1:55:29 PM<--  RE|RN212|CS0|
+12/2/2016 1:55:30 PM  Processing RoomEquipment String Finished
+
+12/2/2016 1:55:31 PM  Processing CheckIn String Started
+12/2/2016 1:55:31 PM<--  GI|G#61896635|RN111|GSN|A4ITD|DA161202|G+64630655|GA161202|GD161204|GFEric|GLEA|GNEVRARD|GTMr.|GV5|NPN|TI135530|
+12/2/2016 1:55:31 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:32 PM  Processing CheckIn String Started
+12/2/2016 1:55:32 PM<--  GI|G#61892673|RN214|GSN|A4ITD|DA161202|G+64627409|GA161202|GD161204|GFGuy|GLEA|GNOURDOUILLE|GTMr.|NPN|TI135531|
+12/2/2016 1:55:32 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:33 PM  Processing CheckIn String Started
+12/2/2016 1:55:33 PM<--  GI|G#61978376|RN214|GSY|A4ITD|DA161202|G+64710964|GA161202|GD161204|GFCecile|GLEA|GNOURDOUILLE|NPY|TI135532|
+12/2/2016 1:55:33 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:33 PM  Processing RoomEquipment String Started
+12/2/2016 1:55:33 PM<--  RE|RN214|CS0|
+12/2/2016 1:55:33 PM  Processing RoomEquipment String Finished
+
+12/2/2016 1:55:34 PM  Processing CheckIn String Started
+12/2/2016 1:55:34 PM<--  GI|G#61892675|RN217|GSN|A4ITD|DA161202|G+64627410|GA161202|GD161204|GFMarcel|GLEA|GNBRIDOUX|GTMr.|GV9|NPN|TI135533|
+12/2/2016 1:55:34 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:35 PM  Processing CheckIn String Started
+12/2/2016 1:55:35 PM<--  GI|G#61978626|RN217|GSY|A4ITD|DA161202|G+64710975|GA161202|GD161204|GFJosiane|GLEA|GNBRIDOUX|NPY|TI135534|
+12/2/2016 1:55:35 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:36 PM  Processing RoomEquipment String Started
+12/2/2016 1:55:36 PM<--  RE|RN217|CS0|
+12/2/2016 1:55:36 PM  Processing RoomEquipment String Finished
+
+12/2/2016 1:55:37 PM  Processing CheckIn String Started
+12/2/2016 1:55:37 PM<--  GI|G#61892691|RN215|GSN|A4ITD|DA161202|G+64628468|GA161202|GD161204|GFJosette|GLEA|GNVITSE|GTMr.|NPN|TI135536|
+12/2/2016 1:55:37 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:37 PM  Processing CheckIn String Started
+12/2/2016 1:55:37 PM<--  GI|G#61979378|RN215|GSY|A4ITD|DA161202|G+64711652|GA161202|GD161204|GFGhislaine|GLEA|GNVITSE|NPY|TI135536|
+12/2/2016 1:55:37 PM  Processing RoomEquipment String Started
+12/2/2016 1:55:37 PM<--  RE|RN215|CS0|
+12/2/2016 1:55:37 PM  Processing RoomEquipment String Finished
+
+12/2/2016 1:55:37 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:38 PM  Processing CheckIn String Started
+12/2/2016 1:55:38 PM<--  GI|G#61892692|RN116|GSN|A4ITD|DA161202|G+64628469|GA161202|GD161204|GFGeorges|GLEA|GNVASSEUR|GTMr.|NPN|TI135538|
+12/2/2016 1:55:38 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:39 PM  Processing CheckIn String Started
+12/2/2016 1:55:39 PM<--  GI|G#61979382|RN116|GSY|A4ITD|DA161202|G+64711659|GA161202|GD161204|GFAnnick|GLEA|GNVASSEUR|NPY|TI135538|
+12/2/2016 1:55:39 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:39 PM  Processing RoomEquipment String Started
+12/2/2016 1:55:39 PM<--  RE|RN116|CS0|
+12/2/2016 1:55:40 PM  Processing RoomEquipment String Finished
+
+12/2/2016 1:55:41 PM  Processing CheckIn String Started
+12/2/2016 1:55:41 PM<--  GI|G#61892693|RN115|GSN|A4ITD|DA161202|G+64628470|GA161202|GD161204|GFYvon|GLEA|GNCARON|GTMr.|NPN|TI135540|
+12/2/2016 1:55:41 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:41 PM  Processing CheckIn String Started
+12/2/2016 1:55:41 PM<--  GI|G#61979384|RN115|GSY|A4ITD|DA161202|G+64711661|GA161202|GD161204|GFRogere|GLEA|GNCARON|NPY|TI135540|
+12/2/2016 1:55:41 PM  Processing RoomEquipment String Started
+12/2/2016 1:55:41 PM<--  RE|RN115|CS0|
+12/2/2016 1:55:41 PM  Processing RoomEquipment String Finished
+
+12/2/2016 1:55:41 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:42 PM  Processing CheckIn String Started
+12/2/2016 1:55:42 PM<--  GI|G#61892694|RN114|GSN|A4ITD|DA161202|G+64628471|GA161202|GD161204|GFJoelle|GLEA|GNSZYMANSKI|GTMr.|NPN|TI135542|
+12/2/2016 1:55:42 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:43 PM  Processing CheckIn String Started
+12/2/2016 1:55:43 PM<--  GI|G#61979627|RN114|GSY|A4ITD|DA161202|G+64711665|GA161202|GD161204|GFMarcel|GLEA|GNDURIEUX|NPY|TI135542|
+12/2/2016 1:55:43 PM  Processing CheckIn String Finished
+
+12/2/2016 1:55:43 PM  Processing RoomEquipment String Started
+12/2/2016 1:55:43 PM<--  RE|RN114|CS0|
+12/2/2016 1:55:43 PM  Processing RoomEquipment String Finished
+
+12/2/2016 1:56:22 PM  Processing CheckOut String Started
+12/2/2016 1:56:22 PM<--  GO|G#61499654|RNV40|GSY|DA161202|TI135621|
+12/2/2016 1:56:22 PM  Processing CheckOut String Finished
+
+12/2/2016 1:56:23 PM  Processing Guest Change String Started
+12/2/2016 1:56:23 PM<--  GC|G#62020638|A4TPS|DA161202|GA161201|GD161202|GFRajesh|GLEA|GNKumar|GTMr.|NPY|TI135621|RNV40|GSN|
+12/2/2016 1:56:23 PM  Processing Guest Change String Finished
+
+12/2/2016 1:56:35 PM  Processing CheckOut String Started
+12/2/2016 1:56:35 PM<--  GO|G#62020638|RNV40|GSN|DA161202|TI135634|
+12/2/2016 1:56:35 PM  Processing CheckOut String Finished
+
+12/2/2016 1:58:47 PM  Processing CheckIn String Started
+12/2/2016 1:58:47 PM<--  GI|G#50920146|RN417|GSN|A39830075588|A4HRO|DA161202|G+52874406|GA161202|GD161206|GFAbir|GLEA|GNRoy|GTMr.|NPN|TI135846|
+12/2/2016 1:58:47 PM  Processing CheckIn String Finished
+
+12/2/2016 2:06:30 PM  Processing CheckIn String Started
+12/2/2016 2:06:30 PM<--  GI|G#59643435|RN302|GSN|A2UMESHUMAPATHY@GMAIL.COM|A39449022172|A4TRW|DA161202|G+62376909|GA161202|GD161205|GFUmesh Kumar|GLEA|GNUmapathy|GTMr|NPN|TI140629|
+12/2/2016 2:06:30 PM  Processing CheckIn String Finished
+
+12/2/2016 2:11:06 PM  Processing CheckIn String Started
+12/2/2016 2:11:06 PM<--  GI|G#59643434|RNC08|GSN|A2UMESHUMAPATHY@GMAIL.COM|A39449022172|A4TRW|DA161202|G+62376908|GA161202|GD161205|GFUmesh Kumar|GLEA|GNUmapathy|GTMr|NPN|TI141105|
+12/2/2016 2:11:06 PM  Processing CheckIn String Finished
+
+12/2/2016 2:13:18 PM  Processing CheckIn String Started
+12/2/2016 2:13:18 PM<--  GI|G#61969149|RN101|GSN|A4HRO|DA161202|G+64703924|GA161202|GD161204|GLEA|GNBarbara|GTMs.|NPN|TI141318|
+12/2/2016 2:13:18 PM  Processing CheckIn String Finished
+
+12/2/2016 2:14:47 PM  Processing CheckIn String Started
+12/2/2016 2:14:47 PM<--  GI|G#60690877|RNC22|GSN|A4HRO|DA161202|G+63397900|GA161202|GD161204|GFSHIGERU|GLEA|GNTAKIKAWA|GTMr.|NPN|TI141447|
+12/2/2016 2:14:47 PM  Processing CheckIn String Finished
+
+12/2/2016 2:15:13 PM  Processing CheckIn String Started
+12/2/2016 2:15:13 PM<--  GI|G#60690881|RNC22|GSY|A4HRO|DA161202|G+63398898|GA161202|GD161204|GFTANI|GLEA|GNTAKUYA|NPN|TI141513|
+12/2/2016 2:15:13 PM  Processing CheckIn String Finished
+
+12/2/2016 2:22:24 PM  Processing Guest Change String Started
+12/2/2016 2:22:24 PM<--  GC|G#61896635|A4ITD|DA161202|GA161202|GD161204|GFEric|GLEA|GNEVRARD|GTMr.|GV5|NPN|TI142223|RN408|GSN|RO111|GSN|
+12/2/2016 2:22:24 PM  Processing Guest Change String Finished
+
+12/2/2016 2:25:03 PM  Processing Posting List String Started
+12/2/2016 2:25:03 PM<--  PL|P#34314|WS1|DA161202|SO1|TI142502|RNC22|G#60690877|GNTAKIKAWA|A4HRO|NPN|PMCA|RNC22|G#60690881|GNTAKUYA|A4HRO|NPN|PMCA|
+12/2/2016 2:25:03 PM  Processing Posting List String Finished
+
+12/2/2016 2:25:09 PM  Processing Posting Answer String Started
+12/2/2016 2:25:09 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103574749|DA161202|P#34315|RNC22|TI142509|WS1|G#60690877|GNTAKIKAWA|SO1|
+12/2/2016 2:25:09 PM  Processing Posting Answer String Finished
+
+12/2/2016 2:26:23 PM  Processing CheckIn String Started
+12/2/2016 2:26:23 PM<--  GI|G#61969154|RN124|GSN|A4HRO|DA161202|G+64703930|GA161202|GD161204|GLEA|GNScot|GTMr.|NPN|TI142623|
+12/2/2016 2:26:24 PM  Processing CheckIn String Finished
+
+12/2/2016 2:28:14 PM  Processing CheckIn String Started
+12/2/2016 2:28:14 PM<--  GI|G#61969147|RN126|GSN|A4HRO|DA161202|G+64703922|GA161202|GD161204|GFJosh|GLEA|GNKoomen|GTMr.|NPN|TI142814|
+12/2/2016 2:28:14 PM  Processing CheckIn String Finished
+
+12/2/2016 2:31:25 PM  Processing CheckIn String Started
+12/2/2016 2:31:25 PM<--  GI|G#61969152|RN123|GSN|A4HRO|DA161202|G+64703928|GA161202|GD161204|GLEA|GNAruna|GTMs.|NPN|TI143124|
+12/2/2016 2:31:25 PM  Processing CheckIn String Finished
+
+12/2/2016 2:36:05 PM  Processing CheckIn String Started
+12/2/2016 2:36:05 PM<--  GI|G#61969160|RN103|GSN|A4HRO|DA161202|G+64703936|GA161202|GD161205|GFRishi|GLEA|GNAggarwal|GTMr.|NPN|TI143604|
+12/2/2016 2:36:05 PM  Processing CheckIn String Finished
+
+12/2/2016 2:37:36 PM  Processing Posting List String Started
+12/2/2016 2:37:36 PM<--  PL|P#34316|WS1|DA161202|SO1|TI143736|RN126|G#61969147|GNKoomen|A4HRO|NPN|PMCA|
+12/2/2016 2:37:36 PM  Processing Posting List String Finished
+
+12/2/2016 2:37:42 PM  Processing Posting Answer String Started
+12/2/2016 2:37:42 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103575940|DA161202|P#34317|RN126|TI143742|WS1|G#61969147|GNKoomen|SO1|
+12/2/2016 2:37:42 PM  Processing Posting Answer String Finished
+
+12/2/2016 2:39:26 PM  Processing Posting List String Started
+12/2/2016 2:39:26 PM<--  PL|P#34318|WS1|DA161202|SO1|TI143925|RN302|G#59643435|GNUmapathy|A2UMESHUMAPATHY@GMAIL.COM|A39449022172|A4TRW|NPN|PMVA|
+12/2/2016 2:39:27 PM  Processing Posting List String Finished
+
+12/2/2016 2:39:33 PM  Processing Posting Answer String Started
+12/2/2016 2:39:33 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103576015|DA161202|P#34319|RN302|TI143932|WS1|G#59643435|GNUmapathy|SO1|
+12/2/2016 2:39:33 PM  Processing Posting Answer String Finished
+
+12/2/2016 2:42:35 PM  Processing CheckIn String Started
+12/2/2016 2:42:35 PM<--  GI|G#61969138|RN104|GSN|A4HRO|DA161202|G+64703911|GA161202|GD161205|GFST|GLEA|GNIyengar|GTMr.|NPN|TI144234|
+12/2/2016 2:42:35 PM  Processing CheckIn String Finished
+
+12/2/2016 2:46:08 PM  Processing CheckIn String Started
+12/2/2016 2:46:08 PM<--  GI|G#62085890|RN311|GSN|A2AJOHN.493597@GUEST.BOOKING.COM|A39791008724|A4TPS|DA161202|G+64810419|GA161202|GD161203|GFAbinash|GLEA|GNJohn|NPN|TI144608|
+12/2/2016 2:46:08 PM  Processing CheckIn String Finished
+
+12/2/2016 2:52:35 PM  Processing CheckIn String Started
+12/2/2016 2:52:35 PM<--  GI|G#61969144|RN225|GSN|A4HRO|DA161202|G+64703919|GA161202|GD161204|GLEA|GNRamanujam|GTMr.|NPN|TI145234|
+12/2/2016 2:52:35 PM  Processing CheckIn String Finished
+
+12/2/2016 2:53:25 PM  Processing CheckIn String Started
+12/2/2016 2:53:25 PM<--  GI|G#61969145|RN203|GSN|A4HRO|DA161202|G+64703920|GA161202|GD161204|GLEA|GNArvind|GTMr.|NPN|TI145324|
+12/2/2016 2:53:25 PM  Processing CheckIn String Finished
+
+12/2/2016 3:06:58 PM  Processing CheckIn String Started
+12/2/2016 3:06:58 PM<--  GI|G#58121395|RN428|GSN|A4TRW|DA161202|G+60906401|GA161202|GD161203|GFSheela|GLEA|GNPriya|GTMr|NPN|TI150657|
+12/2/2016 3:06:58 PM  Processing CheckIn String Finished
+
+12/2/2016 3:14:18 PM  Processing Posting List String Started
+12/2/2016 3:14:18 PM<--  PL|P#34320|WS1|DA161202|SO1|TI151417|RN123|G#61969152|GNAruna|A4HRO|NPN|PMCA|
+12/2/2016 3:14:18 PM  Processing Posting List String Finished
+
+12/2/2016 3:14:24 PM  Processing Posting Answer String Started
+12/2/2016 3:14:24 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103579354|DA161202|P#34321|RN123|TI151424|WS1|G#61969152|GNAruna|SO1|
+12/2/2016 3:14:24 PM  Processing Posting Answer String Finished
+
+12/2/2016 3:21:28 PM  Processing CheckIn String Started
+12/2/2016 3:21:28 PM<--  GI|G#62010881|RNC09|GSN|A08541271906|A2casparie@planet.nl|A3+31 6 10002343|A4HRO|DA161202|G+58685155|GA161202|GD161203|GFJozef|GLEA|GNCasparie|GTMr.|GV0|NPN|TI152128|
+12/2/2016 3:21:28 PM  Processing CheckIn String Finished
+
+12/2/2016 3:21:48 PM  Processing Posting List String Started
+12/2/2016 3:21:48 PM<--  PL|P#34322|WS1|DA161202|SO1|TI152147|RN311|G#62085890|GNJohn|A2AJOHN.493597@GUEST.BOOKING.COM|A39791008724|A4TPS|NPN|PMVA|
+12/2/2016 3:21:48 PM  Processing Posting List String Finished
+
+12/2/2016 3:21:54 PM  Processing Posting Answer String Started
+12/2/2016 3:21:54 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103579993|DA161202|P#34323|RN311|TI152153|WS1|G#62085890|GNJohn|SO1|
+12/2/2016 3:21:54 PM  Processing Posting Answer String Finished
+
+12/2/2016 3:26:47 PM  Processing CheckIn String Started
+12/2/2016 3:26:47 PM<--  GI|G#61969141|RN220|GSN|A4HRO|DA161202|G+64703914|GA161202|GD161204|GLEA|GNRamprasad|GTMr.|NPN|TI152646|
+12/2/2016 3:26:47 PM  Processing CheckIn String Finished
+
+12/2/2016 3:26:55 PM  Processing CheckIn String Started
+12/2/2016 3:26:55 PM<--  GI|G#61969143|RN221|GSN|A4HRO|DA161202|G+64703918|GA161202|GD161204|GFKR|GLEA|GNKrishnan|GTMr.|NPN|TI152654|
+12/2/2016 3:26:55 PM  Processing CheckIn String Finished
+
+12/2/2016 3:27:04 PM  Processing CheckIn String Started
+12/2/2016 3:27:04 PM<--  GI|G#61969140|RN226|GSN|A4HRO|DA161202|G+64703913|GA161202|GD161204|GLEA|GNVeena|GTMs.|NPN|TI152703|
+12/2/2016 3:27:04 PM  Processing CheckIn String Finished
+
+12/2/2016 3:30:43 PM  Processing CheckIn String Started
+12/2/2016 3:30:43 PM<--  GI|G#62164384|RN410|GSN|A2AISHWARYASUBRAMANYAN95@GMAIL.COM|A3+918939865467|A4TRW|DA161202|G+64885909|GA161202|GD161203|GFAishwarya|GLEA|GNSubramanyan|GTMs|NPN|TI153043|
+12/2/2016 3:30:43 PM  Processing CheckIn String Finished
+
+12/2/2016 3:34:20 PM  Processing Posting List String Started
+12/2/2016 3:34:20 PM<--  PL|P#34324|WS1|DA161202|SO1|TI153419|RNC09|G#62010881|GNCasparie|A08541271906|A2casparie@planet.nl|A3+31 6 10002343|A4HRO|NPN|PMCA|
+12/2/2016 3:34:20 PM  Processing Posting List String Finished
+
+12/2/2016 3:34:26 PM  Processing Posting Answer String Started
+12/2/2016 3:34:26 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103581546|DA161202|P#34325|RNC09|TI153426|WS1|G#62010881|GNCasparie|SO1|
+12/2/2016 3:34:26 PM  Processing Posting Answer String Finished
+
+12/2/2016 3:39:11 PM  Processing Posting List String Started
+12/2/2016 3:39:11 PM<--  PL|P#34326|WS1|DA161202|SO1|TI153911|RN220|G#61969141|GNRamprasad|A4HRO|NPN|PMCA|
+12/2/2016 3:39:11 PM  Processing Posting List String Finished
+
+12/2/2016 3:39:17 PM  Processing Posting Answer String Started
+12/2/2016 3:39:17 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103582138|DA161202|P#34327|RN220|TI153917|WS1|G#61969141|GNRamprasad|SO1|
+12/2/2016 3:39:18 PM  Processing Posting Answer String Finished
+
+12/2/2016 3:43:12 PM  Processing CheckIn String Started
+12/2/2016 3:43:12 PM<--  GI|G#57802130|RN427|GSN|A2ganesh.ramesh@rediffmail.com|A39847034787|A4TPS|DA161202|G+1198974|GA161202|GD161204|GFGanesh|GLEA|GNRamesh|GTDr.|NPN|TI154311|
+12/2/2016 3:43:12 PM  Processing CheckIn String Finished
+
+12/2/2016 3:43:32 PM  Processing CheckIn String Started
+12/2/2016 3:43:32 PM<--  GI|G#61969158|RN102|GSN|A4HRO|DA161202|G+64915900|GA161202|GD161205|GLEA|GNHayagreev|GTMr.|NPN|TI154332|
+12/2/2016 3:43:32 PM  Processing CheckIn String Finished
+
+12/2/2016 3:47:18 PM  Processing Guest Change String Started
+12/2/2016 3:47:18 PM<--  GC|G#57802130|A2ganesh.ramesh@rediffmail.com|A39847034787|A4TPS|DA161202|GA161202|GD161204|GFGanesh|GLEA|GNRamesh|GTDr.|NPN|TI154716|RN111|GSN|RO427|GSN|
+12/2/2016 3:47:18 PM  Processing Guest Change String Finished
+
+12/2/2016 4:00:05 PM<--  XB|BA0|G#61969144|RN225|ASUR|DA161202|TI160004|
+12/2/2016 4:00:13 PM  Processing CheckIn String Started
+12/2/2016 4:00:13 PM<--  GI|G#60949902|RN430|GSN|A391-988-4954221|A4TPS|DA161202|G+63671651|GA161202|GD161204|GFKumaran Walaja|GLEA|GNRajamanickam|NPN|TI160013|
+12/2/2016 4:00:13 PM  Processing CheckIn String Finished
+
+12/2/2016 4:00:29 PM<--  XB|BA0|G#62164384|RN410|ASUR|DA161202|TI160029|
+12/2/2016 4:01:17 PM<--  XB|BA0|G#56134901|RN418|ASUR|DA161202|TI160117|
+12/2/2016 4:01:45 PM<--  XB|BA0|G#59648642|RN218|ASUR|DA161202|TI160144|
+12/2/2016 4:02:33 PM  Processing Guest Change String Started
+12/2/2016 4:02:33 PM<--  GC|G#60949902|A391-988-4954221|A4TPS|DA161202|GA161202|GD161204|GFKumaran Walaja|GLEA|GNRajamanickam|NPN|TI160232|RN409|GSN|RO430|GSN|
+12/2/2016 4:02:33 PM  Processing Guest Change String Finished
+
+12/2/2016 4:07:30 PM  Processing Guest Change String Started
+12/2/2016 4:07:30 PM<--  GC|G#57802130|A2ganesh.ramesh@rediffmail.com|A39847034787|A4TPS|DA161202|GA161202|GD161204|GFGanesh|GLEA|GNRamesh|GTDr.|NPN|TI160726|RN427|GSN|RO111|GSN|
+12/2/2016 4:07:30 PM  Processing Guest Change String Finished
+
+12/2/2016 4:23:14 PM  Processing Posting List String Started
+12/2/2016 4:23:14 PM<--  PL|P#34328|WS1|DA161202|SO1|TI162314|RN408|G#61896635|GNEVRARD|A4ITD|NPN|PMCA|
+12/2/2016 4:23:14 PM  Processing Posting List String Finished
+
+12/2/2016 4:23:21 PM  Processing Posting Answer String Started
+12/2/2016 4:23:21 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103586247|DA161202|P#34329|RN408|TI162320|WS1|G#61896635|GNEVRARD|SO1|
+12/2/2016 4:23:21 PM  Processing Posting Answer String Finished
+
+12/2/2016 4:26:28 PM  Processing CheckIn String Started
+12/2/2016 4:26:28 PM<--  GI|G#61825909|RNC10|GSN|A0101010909836|A1TG|A2vinaytaneja@yahoo.com|A3+91 2267207626|A4HRO|DA161202|G+59648163|GA161202|GD161204|GFVinay|GLEA|GNTaneja|GTMr.|NPN|TI162627|
+12/2/2016 4:26:28 PM  Processing CheckIn String Finished
+
+12/2/2016 4:29:43 PM  Processing Posting List String Started
+12/2/2016 4:29:43 PM<--  PL|P#34330|WS1|DA161202|SO1|TI162943|RN124|G#61969154|GNScot|A4HRO|NPN|PMCA|
+12/2/2016 4:29:43 PM  Processing Posting List String Finished
+
+12/2/2016 4:29:50 PM  Processing Posting Answer String Started
+12/2/2016 4:29:50 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103586645|DA161202|P#34331|RN124|TI162949|WS1|G#61969154|GNScot|SO1|
+12/2/2016 4:29:50 PM  Processing Posting Answer String Finished
+
+12/2/2016 4:30:56 PM  Processing CheckIn String Started
+12/2/2016 4:30:56 PM<--  GI|G#62206897|RN410|GSY|A4TRW|DA161202|G+64924651|GA161202|GD161203|GFVarsha|GLEA|GNUma|NPY|TI163055|
+12/2/2016 4:30:56 PM  Processing CheckIn String Finished
+
+12/2/2016 4:30:57 PM  Processing RoomEquipment String Started
+12/2/2016 4:30:57 PM<--  RE|RN410|CS0|
+12/2/2016 4:30:57 PM  Processing RoomEquipment String Finished
+
+12/2/2016 4:34:08 PM  Processing Guest Change String Started
+12/2/2016 4:34:08 PM<--  GC|G#62206897|A4TRW|DA161202|GA161202|GD161203|GFVarsha|GLEA|GNUma|GTMs.|NPY|TI163407|RN410|GSY|
+12/2/2016 4:34:08 PM  Processing Guest Change String Finished
+
+12/2/2016 4:39:35 PM  Processing Guest Change String Started
+12/2/2016 4:39:35 PM<--  GC|G#61825909|A0101010909836|A1TG|A2vinaytaneja@yahoo.com|A3+91 2267207626|A4HRO|DA161202|GA161202|GD161204|GFVinay|GLEA|GNTaneja|GTMr.|NPN|TI163934|RNC07|GSN|ROC10|GSN|
+12/2/2016 4:39:35 PM  Processing Guest Change String Finished
+
+12/2/2016 4:41:21 PM  Processing CheckIn String Started
+12/2/2016 4:41:21 PM<--  GI|G#61969163|RN121|GSN|A4HRO|DA161202|G+64703942|GA161202|GD161204|GLEA|GNChakrapani|GTMr.|NPN|TI164121|
+12/2/2016 4:41:21 PM  Processing CheckIn String Finished
+
+12/2/2016 4:42:55 PM  Processing CheckIn String Started
+12/2/2016 4:42:55 PM<--  GI|G#61969159|RN125|GSN|A4HRO|DA161202|G+64915398|GA161202|GD161205|GLEA|GNAnu|GTMs.|NPN|TI164255|
+12/2/2016 4:42:56 PM  Processing CheckIn String Finished
+
+12/2/2016 4:58:25 PM  Processing Posting List String Started
+12/2/2016 4:58:25 PM<--  PL|P#34332|WS1|DA161202|SO1|TI165825|RN427|G#57802130|GNRamesh|A2ganesh.ramesh@rediffmail.com|A39847034787|A4TPS|NPN|PMCA|
+12/2/2016 4:58:25 PM  Processing Posting List String Finished
+
+12/2/2016 4:58:33 PM  Processing Posting Answer String Started
+12/2/2016 4:58:33 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103588569|DA161202|P#34333|RN427|TI165832|WS1|G#57802130|GNRamesh|SO1|
+12/2/2016 4:58:33 PM  Processing Posting Answer String Finished
+
+12/2/2016 5:06:00 PM  Processing Posting List String Started
+12/2/2016 5:06:00 PM<--  PL|P#34334|WS1|DA161202|SO1|TI170600|RN223|G#61969155|GNJeff|A4HRO|NPN|PMCA|
+12/2/2016 5:06:01 PM  Processing Posting List String Finished
+
+12/2/2016 5:06:07 PM  Processing Posting Answer String Started
+12/2/2016 5:06:07 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103589066|DA161202|P#34335|RN223|TI170606|WS1|G#61969155|GNJeff|SO1|
+12/2/2016 5:06:07 PM  Processing Posting Answer String Finished
+
+12/2/2016 5:24:11 PM  Processing CheckIn String Started
+12/2/2016 5:24:11 PM<--  GI|G#60613156|RNV32|GSN|A2SSB.359846@GUEST.BOOKING.COM|A3+919944799993|A4TPS|DA161202|G+63316682|GA161202|GD161205|GFSreeleela|GLEA|GNSb|NPN|TI172411|
+12/2/2016 5:24:11 PM  Processing CheckIn String Finished
+
+12/2/2016 5:28:01 PM  Processing CheckIn String Started
+12/2/2016 5:28:01 PM<--  GI|G#61969139|RN222|GSN|A4HRO|DA161202|G+64703912|GA161202|GD161204|GFVaradarajan|GLEA|GNKannan|GTMr.|NPN|TI172800|
+12/2/2016 5:28:01 PM  Processing CheckIn String Finished
+
+12/2/2016 5:28:01 PM  Processing CheckIn String Started
+12/2/2016 5:28:01 PM<--  GI|G#61969146|RN201|GSN|A4HRO|DA161202|G+64703921|GA161202|GD161204|GLEA|GNAdish|GTMr.|NPN|TI172801|
+12/2/2016 5:28:01 PM  Processing CheckIn String Finished
+
+12/2/2016 5:28:02 PM  Processing CheckIn String Started
+12/2/2016 5:28:02 PM<--  GI|G#61969148|RN305|GSN|A4HRO|DA161202|G+64703923|GA161202|GD161204|GLEA|GNSrinivasan|GTMr.|NPN|TI172802|
+12/2/2016 5:28:03 PM  Processing CheckIn String Finished
+
+12/2/2016 5:28:04 PM  Processing CheckIn String Started
+12/2/2016 5:28:04 PM<--  GI|G#61969150|RN120|GSN|A4HRO|DA161202|G+64703925|GA161202|GD161204|GFAsha|GLEA|GNRao|GTMs.|NPN|TI172804|
+12/2/2016 5:28:04 PM  Processing CheckIn String Finished
+
+12/2/2016 5:28:05 PM  Processing CheckIn String Started
+12/2/2016 5:28:05 PM<--  GI|G#61969151|RN304|GSN|A4HRO|DA161202|G+64703927|GA161202|GD161204|GLEA|GNAkshay|GTMr.|NPN|TI172805|
+12/2/2016 5:28:05 PM  Processing CheckIn String Finished
+
+12/2/2016 5:28:06 PM  Processing CheckIn String Started
+12/2/2016 5:28:06 PM<--  GI|G#61969153|RN122|GSN|A4HRO|DA161202|G+64703929|GA161202|GD161204|GLEA|GNPradmanabhan|GTMr.|NPN|TI172806|
+12/2/2016 5:28:06 PM  Processing CheckIn String Finished
+
+12/2/2016 5:28:08 PM  Processing CheckIn String Started
+12/2/2016 5:28:08 PM<--  GI|G#61969156|RN303|GSN|A4HRO|DA161202|G+64703932|GA161202|GD161205|GLEA|GNMr. Kaushal Agarwal, 25|GTMr.|NPN|TI172807|
+12/2/2016 5:28:08 PM  Processing CheckIn String Finished
+
+12/2/2016 5:28:09 PM  Processing CheckIn String Started
+12/2/2016 5:28:09 PM<--  GI|G#61969157|RN306|GSN|A4HRO|DA161202|G+64703933|GA161202|GD161205|GLEA|GNMr. Kaushal Agarwal|GTMr.|NPN|TI172808|
+12/2/2016 5:28:09 PM  Processing CheckIn String Finished
+
+12/2/2016 5:28:10 PM  Processing CheckIn String Started
+12/2/2016 5:28:10 PM<--  GI|G#61969164|RN202|GSN|A4HRO|DA161202|G+64703943|GA161202|GD161204|GLEA|GNKrishnan|GTMr.|NPN|TI172809|
+12/2/2016 5:28:10 PM  Processing CheckIn String Finished
+
+12/2/2016 5:28:11 PM  Processing CheckIn String Started
+12/2/2016 5:28:11 PM<--  GI|G#61969165|RN204|GSN|A4HRO|DA161202|G+64703944|GA161202|GD161204|GLEA|GNRaman|GTMr.|NPN|TI172811|
+12/2/2016 5:28:12 PM  Processing CheckIn String Finished
+
+12/2/2016 5:28:46 PM  Processing CheckIn String Started
+12/2/2016 5:28:46 PM<--  GI|G#61969131|RN9004|GSN|A4HRO|DA161202|G+37549650|GA161202|GD161205|GLEA|GNMr. Kaushal Agarwal,|NPN|TI172846|
+12/2/2016 5:28:46 PM  Processing CheckIn String Finished
+
+12/2/2016 5:34:23 PM  Processing CheckIn String Started
+12/2/2016 5:34:23 PM<--  GI|G#54338660|RN318|GSN|A2AIYENG.176391@GUEST.BOOKING.COM|A3+61407135521|A4TPS|DA161202|G+57228170|GA161202|GD161203|GFAruna|GLEA|GNIyengar|NPN|TI173422|
+12/2/2016 5:34:23 PM  Processing CheckIn String Finished
+
+12/2/2016 5:45:52 PM  Processing Guest Change String Started
+12/2/2016 5:45:52 PM<--  GC|G#61887130|A0101014408662|A1TC|A2viarunvijayno1@gmail.com|A3+919840899899|A4HRO|DA161202|GA161201|GD161203|GFArunvijay|GLEA|GNVijaykumar|GTMr.|GV10|NPN|TI174551|RNV37|GSY|
+12/2/2016 5:45:53 PM  Processing Guest Change String Finished
+
+12/2/2016 5:45:53 PM  Processing Guest Change String Started
+12/2/2016 5:45:53 PM<--  GC|G#62024881|A4HRO|DA161202|GA161201|GD161203|GFArthi|GLEA|GNArun|GTMrs.|NPY|TI174552|RNV37|GSY|
+12/2/2016 5:45:53 PM  Processing Guest Change String Finished
+
+12/2/2016 5:47:15 PM  Processing Guest Change String Started
+12/2/2016 5:47:15 PM<--  GC|G#59643434|A4TRW|DA161202|GA161202|GD161205|GFSathish kumar|GLEA|GNumapathy|GTMr.|NPN|TI174714|RNC08|GSN|
+12/2/2016 5:47:15 PM  Processing Guest Change String Finished
+
+12/2/2016 5:48:01 PM  Processing CheckIn String Started
+12/2/2016 5:48:01 PM<--  GI|G#62220126|RNC08|GSY|A4TRW|DA161202|G+64935900|GA161202|GD161205|GFThilkavathy|GLEA|GNSubramanian|NPY|TI174800|
+12/2/2016 5:48:01 PM  Processing CheckIn String Finished
+
+12/2/2016 5:48:01 PM  Processing RoomEquipment String Started
+12/2/2016 5:48:01 PM<--  RE|RNC08|CS0|
+12/2/2016 5:48:01 PM  Processing RoomEquipment String Finished
+
+12/2/2016 5:48:17 PM  Processing Guest Change String Started
+12/2/2016 5:48:17 PM<--  GC|G#61979384|A4ITD|DA161202|GA161202|GD161204|GFRogere|GLEA|GNCARON|NPY|TI174815|RN325|GSY|RO115|GSN|
+12/2/2016 5:48:17 PM  Processing Guest Change String Finished
+
+12/2/2016 5:48:27 PM  Processing Guest Change String Started
+12/2/2016 5:48:27 PM<--  GC|G#62220126|A4TRW|DA161202|GA161202|GD161205|GFThilkavathy|GLEA|GNSubramanian|GTMrs.|NPY|TI174826|RNC08|GSY|
+12/2/2016 5:48:27 PM  Processing Guest Change String Finished
+
+12/2/2016 5:48:39 PM<--  XB|BA0|G#61969144|RN225|ASUR|DA161202|TI174838|
+12/2/2016 5:50:42 PM  Processing CheckOut String Started
+12/2/2016 5:50:42 PM<--  GO|G#61871634|RN115|GSN|DA161202|TI175041|
+12/2/2016 5:50:42 PM  Processing CheckOut String Finished
+
+12/2/2016 5:51:23 PM  Processing Guest Change String Started
+12/2/2016 5:51:23 PM<--  GC|G#61979384|A4ITD|DA161202|GA161202|GD161204|GFRogere|GLEA|GNCARON|NPY|TI175121|RN115|GSY|RO325|GSN|
+12/2/2016 5:51:23 PM  Processing Guest Change String Finished
+
+12/2/2016 5:51:45 PM  Processing Posting List String Started
+12/2/2016 5:51:45 PM<--  PL|P#34336|WS1|DA161202|SO1|TI175145|RN101|G#61969149|GNBarbara|A4HRO|NPN|PMCA|
+12/2/2016 5:51:45 PM  Processing Posting List String Finished
+
+12/2/2016 5:51:52 PM  Processing Posting Answer String Started
+12/2/2016 5:51:52 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103592485|DA161202|P#34337|RN101|TI175152|WS1|G#61969149|GNBarbara|SO1|
+12/2/2016 5:51:52 PM  Processing Posting Answer String Finished
+
+12/2/2016 5:52:32 PM  Processing Guest Change String Started
+12/2/2016 5:52:32 PM<--  GC|G#59643435|A2umeshumapathy@gmail.com|A3+919449022172|A4TRW|DA161202|GA161202|GD161205|GFUmesh Kumar|GLEA|GNUmapathy|GTMr.|GV0|NPN|TI175231|RN302|GSN|
+12/2/2016 5:52:32 PM  Processing Guest Change String Finished
+
+12/2/2016 5:53:21 PM  Processing CheckIn String Started
+12/2/2016 5:53:21 PM<--  GI|G#62221126|RN302|GSY|A4TRW|DA161202|G+64936404|GA161202|GD161205|GFRanjani|GLEA|GNKrishnakumar|NPY|TI175321|
+12/2/2016 5:53:21 PM  Processing CheckIn String Finished
+
+12/2/2016 5:53:21 PM  Processing RoomEquipment String Started
+12/2/2016 5:53:21 PM<--  RE|RN302|CS0|
+12/2/2016 5:53:22 PM  Processing RoomEquipment String Finished
+
+12/2/2016 5:54:08 PM  Processing Guest Change String Started
+12/2/2016 5:54:08 PM<--  GC|G#62221126|A4TRW|DA161202|GA161202|GD161205|GFRanjani|GLEA|GNKrishnakumar|GTMrs.|NPY|TI175407|RN302|GSY|
+12/2/2016 5:54:08 PM  Processing Guest Change String Finished
+
+12/2/2016 5:55:42 PM<--  XB|BA0|G#61969144|RN225|ASUR|DA161202|TI175542|
+12/2/2016 5:56:13 PM  Processing Guest Change String Started
+12/2/2016 5:56:13 PM<--  GC|G#51156520|A2psage.918479@guest.booking.com|A3+447929781233|A4TPS|DA161202|GA161202|GD161207|GFPaul Michael|GLEA|GNSage|GTMr.|NPN|TI175612|RN416|GSN|
+12/2/2016 5:56:13 PM  Processing Guest Change String Finished
+
+12/2/2016 5:56:19 PM<--  XB|BA0|G#62164384|RN410|ASUR|DA161202|TI175619|
+12/2/2016 5:57:33 PM  Processing CheckIn String Started
+12/2/2016 5:57:33 PM<--  GI|G#62221630|RN416|GSY|A4TPS|DA161202|G+64937898|GA161202|GD161207|GFAmanda Elizabeth|GLEA|GNSamuels|NPY|TI175733|
+12/2/2016 5:57:33 PM  Processing CheckIn String Finished
+
+12/2/2016 5:57:33 PM  Processing RoomEquipment String Started
+12/2/2016 5:57:33 PM<--  RE|RN416|CS0|
+12/2/2016 5:57:33 PM  Processing RoomEquipment String Finished
+
+12/2/2016 5:59:39 PM  Processing Guest Change String Started
+12/2/2016 5:59:39 PM<--  GC|G#62221630|A4TPS|DA161202|GA161202|GD161207|GFAmanda Elizabeth|GLEA|GNSamuels|GTMrs.|NPY|TI175939|RN416|GSY|
+12/2/2016 5:59:39 PM  Processing Guest Change String Finished
+
+12/2/2016 5:59:57 PM  Processing Posting List String Started
+12/2/2016 5:59:57 PM<--  PL|P#34338|WS1|DA161202|SO1|TI175957|RN116|G#61892692|GNVASSEUR|A4ITD|NPN|PMCA|RN116|G#61979382|GNVASSEUR|A4ITD|NPY|PMCA|
+12/2/2016 5:59:57 PM  Processing Posting List String Finished
+
+12/2/2016 6:00:04 PM  Processing Posting Answer String Started
+12/2/2016 6:00:04 PM<--  PA|ASFX|CTNo Credit.|DA161202|P#34339|RN116|TI180003|WS1|G#61979382|GNVASSEUR|SO1|
+12/2/2016 6:00:04 PM  Processing Posting Answer String Finished
+
+12/2/2016 6:05:25 PM  Processing Posting List String Started
+12/2/2016 6:05:25 PM<--  PL|P#34340|WS1|DA161202|SO1|TI180525|RNC18|G#61892642|GNCooper|A2rossandharini@gmail.com|A3+18328142308|A4TAJ|NPN|PMVA|RNC18|G#62024886|GNSanesan|A4TAJ|NPY|PMVA|
+12/2/2016 6:05:25 PM  Processing Posting List String Finished
+
+12/2/2016 6:05:32 PM  Processing Posting Answer String Started
+12/2/2016 6:05:32 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103593618|DA161202|P#34341|RNC18|TI180532|WS1|G#61892642|GNCooper|SO1|
+12/2/2016 6:05:32 PM  Processing Posting Answer String Finished
+
+12/2/2016 6:08:23 PM  Processing CheckIn String Started
+12/2/2016 6:08:23 PM<--  GI|G#62223629|RN119|GSN|A2sumeet.sood@tajhotels.com|A3+918939750488|A4HRO|DA161202|G+19936387|GA161202|GD161203|GFSumeet|GLEA|GNSood|GTChef|GV11|NPN|TI180822|
+12/2/2016 6:08:23 PM  Processing CheckIn String Finished
+
+12/2/2016 6:10:10 PM  Processing Posting List String Started
+12/2/2016 6:10:10 PM<--  PL|P#34342|WS1|DA161202|SO1|TI181010|RNC08|G#59643434|GNumapathy|A4TRW|NPN|PMVA|RNC08|G#62220126|GNSubramanian|A4TRW|NPY|PMVA|
+12/2/2016 6:10:10 PM  Processing Posting List String Finished
+
+12/2/2016 6:10:17 PM  Processing Posting Answer String Started
+12/2/2016 6:10:17 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103594069|DA161202|P#34343|RNC08|TI181017|WS1|G#59643434|GNumapathy|SO1|
+12/2/2016 6:10:17 PM  Processing Posting Answer String Finished
+
+12/2/2016 6:14:07 PM  Processing CheckIn String Started
+12/2/2016 6:14:07 PM<--  GI|G#62224640|RNC07|GSY|A4HRO|DA161202|G+64940662|GA161202|GD161204|GFSheth|GLEA|GNTaneja|NPY|TI181407|
+12/2/2016 6:14:07 PM  Processing CheckIn String Finished
+
+12/2/2016 6:14:07 PM  Processing RoomEquipment String Started
+12/2/2016 6:14:07 PM<--  RE|RNC07|CS0|
+12/2/2016 6:14:07 PM  Processing RoomEquipment String Finished
+
+12/2/2016 6:16:31 PM  Processing Guest Change String Started
+12/2/2016 6:16:31 PM<--  GC|G#62224640|A4HRO|DA161202|GA161202|GD161204|GFSheth|GLEA|GNTaneja|GTMrs.|NPY|TI181630|RNC07|GSY|
+12/2/2016 6:16:31 PM  Processing Guest Change String Finished
+
+12/2/2016 6:19:41 PM  Processing Posting List String Started
+12/2/2016 6:19:41 PM<--  PL|P#34344|WS1|DA161202|SO1|TI181941|RN119|G#62223629|GNSood|A2sumeet.sood@tajhotels.com|A3+918939750488|A4HRO|NPN|PMST|
+12/2/2016 6:19:41 PM  Processing Posting List String Finished
+
+12/2/2016 6:19:48 PM  Processing Posting Answer String Started
+12/2/2016 6:19:48 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103594675|DA161202|P#34345|RN119|TI181947|WS1|G#62223629|GNSood|SO1|
+12/2/2016 6:19:48 PM  Processing Posting Answer String Finished
+
+12/2/2016 6:27:18 PM  Processing CheckIn String Started
+12/2/2016 6:27:18 PM<--  GI|G#61201904|RNC17|GSN|A2DRVAIRAVAN@GMAIL.COM|A39791950557|A4TAJ|DA161202|G+63939311|GA161202|GD161204|GFPrabuVairavan|GLEA|GNPragasam|GTMr|NPN|TI182718|
+12/2/2016 6:27:18 PM  Processing CheckIn String Finished
+
+12/2/2016 6:31:18 PM  Processing CheckIn String Started
+12/2/2016 6:31:18 PM<--  GI|G#62227378|RN417|GSY|A4HRO|DA161202|G+64942402|GA161202|GD161206|GFPrainita|GLEA|GNRoy|NPY|TI183117|
+12/2/2016 6:31:18 PM  Processing CheckIn String Finished
+
+12/2/2016 6:31:18 PM  Processing RoomEquipment String Started
+12/2/2016 6:31:18 PM<--  RE|RN417|CS0|
+12/2/2016 6:31:18 PM  Processing RoomEquipment String Finished
+
+12/2/2016 6:34:46 PM  Processing Guest Change String Started
+12/2/2016 6:34:46 PM<--  GC|G#62227378|A4HRO|DA161202|GA161202|GD161206|GFPrainita|GLEA|GNRoy|GTMrs.|NPY|TI183446|RN417|GSY|
+12/2/2016 6:34:46 PM  Processing Guest Change String Finished
+
+12/2/2016 6:38:13 PM  Processing Guest Change String Started
+12/2/2016 6:38:13 PM<--  GC|G#61969152|A4HRO|DA161202|GA161202|GD161205|GLEA|GNAruna|GTMs.|NPN|TI183813|RN123|GSN|
+12/2/2016 6:38:14 PM  Processing Guest Change String Finished
+
+12/2/2016 6:39:11 PM  Processing Guest Change String Started
+12/2/2016 6:39:11 PM<--  GC|G#61969140|A4HRO|DA161202|GA161202|GD161205|GLEA|GNVeena|GTMs.|NPN|TI183910|RN226|GSN|
+12/2/2016 6:39:12 PM  Processing Guest Change String Finished
+
+12/2/2016 6:39:19 PM  Processing Guest Change String Started
+12/2/2016 6:39:19 PM<--  GC|G#61969139|A4HRO|DA161202|GA161202|GD161205|GFVaradarajan|GLEA|GNKannan|GTMr.|NPN|TI183919|RN222|GSN|
+12/2/2016 6:39:19 PM  Processing Guest Change String Finished
+
+12/2/2016 6:39:24 PM  Processing Guest Change String Started
+12/2/2016 6:39:24 PM<--  GC|G#61969155|A4HRO|DA161202|GA161202|GD161205|GLEA|GNJeff|GTMr.|NPN|TI183924|RN223|GSN|
+12/2/2016 6:39:25 PM  Processing Guest Change String Finished
+
+12/2/2016 6:39:40 PM  Processing Guest Change String Started
+12/2/2016 6:39:40 PM<--  GC|G#61969147|A4HRO|DA161202|GA161202|GD161205|GFJosh|GLEA|GNKoomen|GTMr.|NPN|TI183939|RN126|GSN|
+12/2/2016 6:39:40 PM  Processing Guest Change String Finished
+
+12/2/2016 6:39:43 PM  Processing Guest Change String Started
+12/2/2016 6:39:43 PM<--  GC|G#61969141|A4HRO|DA161202|GA161202|GD161205|GLEA|GNRamprasad|GTMr.|NPN|TI183942|RN220|GSN|
+12/2/2016 6:39:43 PM  Processing Guest Change String Finished
+
+12/2/2016 6:39:46 PM  Processing Guest Change String Started
+12/2/2016 6:39:46 PM<--  GC|G#61969143|A4HRO|DA161202|GA161202|GD161205|GFKR|GLEA|GNKrishnan|GTMr.|NPN|TI183946|RN221|GSN|
+12/2/2016 6:39:47 PM  Processing Guest Change String Finished
+
+12/2/2016 6:39:50 PM  Processing Guest Change String Started
+12/2/2016 6:39:50 PM<--  GC|G#61969144|A4HRO|DA161202|GA161202|GD161205|GLEA|GNRamanujam|GTMr.|NPN|TI183949|RN225|GSN|
+12/2/2016 6:39:50 PM  Processing Guest Change String Finished
+
+12/2/2016 6:39:54 PM  Processing Guest Change String Started
+12/2/2016 6:39:54 PM<--  GC|G#61969145|A4HRO|DA161202|GA161202|GD161205|GLEA|GNArvind|GTMr.|NPN|TI183953|RN203|GSN|
+12/2/2016 6:39:54 PM  Processing Guest Change String Finished
+
+12/2/2016 6:41:10 PM  Processing Guest Change String Started
+12/2/2016 6:41:10 PM<--  GC|G#58121395|A2sheela92@gmail.com|A4TRW|DA161202|GA161202|GD161203|GFSheela|GLEA|GNPriya|GTMr.|NPN|TI184109|RN428|GSN|
+12/2/2016 6:41:10 PM  Processing Guest Change String Finished
+
+12/2/2016 6:41:54 PM  Processing CheckIn String Started
+12/2/2016 6:41:54 PM<--  GI|G#62228876|RN428|GSY|A4TRW|DA161202|G+64944901|GA161202|GD161203|GFSubhaShrahul|GLEA|GNS|NPY|TI184153|
+12/2/2016 6:41:54 PM  Processing CheckIn String Finished
+
+12/2/2016 6:41:54 PM  Processing RoomEquipment String Started
+12/2/2016 6:41:54 PM<--  RE|RN428|CS0|
+12/2/2016 6:41:54 PM  Processing RoomEquipment String Finished
+
+12/2/2016 6:44:05 PM  Processing Guest Change String Started
+12/2/2016 6:44:05 PM<--  GC|G#62228876|A4TRW|DA161202|GA161202|GD161203|GFSubhaShrahul|GLEA|GNS|GTMr.|NPY|TI184405|RN428|GSY|
+12/2/2016 6:44:05 PM  Processing Guest Change String Finished
+
+12/2/2016 6:47:54 PM  Processing Guest Change String Started
+12/2/2016 6:47:54 PM<--  GC|G#60613156|A2SSB.359846@GUEST.BOOKING.COM|A3+919944799993|A4TPS|DA161202|GA161202|GD161205|GFSreeleela|GLEA|GNSb|GTMrs.|NPN|TI184753|RNV32|GSN|
+12/2/2016 6:47:54 PM  Processing Guest Change String Finished
+
+12/2/2016 6:49:54 PM  Processing CheckIn String Started
+12/2/2016 6:49:54 PM<--  GI|G#62230395|RNV32|GSY|A4TPS|DA161202|G+64946168|GA161202|GD161205|GFPranthaman|GLEA|GNG|NPY|TI184953|
+12/2/2016 6:49:54 PM  Processing CheckIn String Finished
+
+12/2/2016 6:49:54 PM  Processing RoomEquipment String Started
+12/2/2016 6:49:54 PM<--  RE|RNV32|CS0|
+12/2/2016 6:49:54 PM  Processing RoomEquipment String Finished
+
+12/2/2016 7:01:45 PM  Processing Guest Change String Started
+12/2/2016 7:01:45 PM<--  GC|G#62230395|A4TPS|DA161202|GA161202|GD161205|GFPranthaman|GLEA|GNG|GTMr.|NPY|TI190144|RNV32|GSY|
+12/2/2016 7:01:45 PM  Processing Guest Change String Finished
+
+12/2/2016 7:01:45 PM  Processing Guest Change String Started
+12/2/2016 7:01:45 PM<--  GC|G#61887130|A0101014408662|A1TC|A2viarunvijayno1@gmail.com|A3+919840899899|A4HRO|DA161202|GA161201|GD161202|GFArunvijay|GLEA|GNVijaykumar|GTMr.|GV10|NPN|TI190144|RNV37|GSY|
+12/2/2016 7:01:45 PM  Processing Guest Change String Started
+12/2/2016 7:01:45 PM<--  GC|G#62024881|A4HRO|DA161202|GA161201|GD161202|GFArthi|GLEA|GNArun|GTMrs.|NPY|TI190145|RNV37|GSY|
+12/2/2016 7:01:45 PM  Processing Guest Change String Finished
+
+12/2/2016 7:01:45 PM  Processing Guest Change String Finished
+
+12/2/2016 7:06:40 PM  Processing CheckIn String Started
+12/2/2016 7:06:40 PM<--  GI|G#62232380|RN427|GSY|A4TPS|DA161202|G+64947711|GA161202|GD161204|GFAnusha|GLEA|GNGanesh|NPY|TI190639|
+12/2/2016 7:06:40 PM  Processing CheckIn String Finished
+
+12/2/2016 7:06:40 PM  Processing RoomEquipment String Started
+12/2/2016 7:06:40 PM<--  RE|RN427|CS0|
+12/2/2016 7:06:40 PM  Processing RoomEquipment String Finished
+
+12/2/2016 7:08:11 PM  Processing Guest Change String Started
+12/2/2016 7:08:11 PM<--  GC|G#62232380|A4TPS|DA161202|GA161202|GD161204|GFAnusha|GLEA|GNGanesh|GTMrs.|NPY|TI190811|RN427|GSY|
+12/2/2016 7:08:11 PM  Processing Guest Change String Finished
+
+12/2/2016 7:16:40 PM  Processing Guest Change String Started
+12/2/2016 7:16:40 PM<--  GC|G#61969156|A4HRO|DA161202|GA161202|GD161205|GFMr. Kaushal|GLEA|GNAgarwal|GTMr.|NPN|TI191640|RN303|GSN|
+12/2/2016 7:16:40 PM  Processing Guest Change String Finished
+
+12/2/2016 7:21:46 PM  Processing CheckOut String Started
+12/2/2016 7:21:46 PM<--  GO|G#61887130|RNV37|GSY|DA161202|TI192145|
+12/2/2016 7:21:46 PM  Processing CheckOut String Finished
+
+12/2/2016 7:21:46 PM  Processing Guest Change String Started
+12/2/2016 7:21:46 PM<--  GC|G#62024881|A4HRO|DA161202|GA161201|GD161202|GFArthi|GLEA|GNArun|GTMrs.|NPY|TI192145|RNV37|GSN|
+12/2/2016 7:21:46 PM  Processing Guest Change String Finished
+
+12/2/2016 7:22:10 PM  Processing CheckOut String Started
+12/2/2016 7:22:10 PM<--  GO|G#62024881|RNV37|GSN|DA161202|TI192210|
+12/2/2016 7:22:10 PM  Processing CheckOut String Finished
+
+12/2/2016 7:22:11 PM  Processing CheckIn String Started
+12/2/2016 7:22:11 PM<--  GI|G#62098133|RN403|GSN|A2ANGUS@ROCKFORTENGINEERING.COM|A3+447711556163|A4TAJ|DA161202|G+64821783|GA161202|GD161204|GFAngus|GLEA|GNLyon|GTMr|NPN|TI192210|
+12/2/2016 7:22:11 PM  Processing CheckIn String Finished
+
+12/2/2016 7:22:51 PM  Processing Posting List String Started
+12/2/2016 7:22:51 PM<--  PL|P#34346|WS1|DA161202|SO1|TI192251|RN303|G#61969156|GNAgarwal|A4HRO|NPN|PMCA|
+12/2/2016 7:22:51 PM  Processing Posting List String Finished
+
+12/2/2016 7:22:57 PM  Processing Posting Answer String Started
+12/2/2016 7:22:57 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103599809|DA161202|P#34347|RN303|TI192257|WS1|G#61969156|GNAgarwal|SO1|
+12/2/2016 7:22:57 PM  Processing Posting Answer String Finished
+
+12/2/2016 7:24:47 PM  Processing Posting List String Started
+12/2/2016 7:24:47 PM<--  PL|P#34348|WS1|DA161202|SO1|TI192446|RN428|G#58121395|GNPriya|A2sheela92@gmail.com|A4TRW|NPN|PMCA|RN428|G#62228876|GNS|A4TRW|NPY|PMCA|
+12/2/2016 7:24:47 PM  Processing Posting List String Finished
+
+12/2/2016 7:24:53 PM  Processing Posting Answer String Started
+12/2/2016 7:24:53 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103599718|DA161202|P#34349|RN428|TI192453|WS1|G#58121395|GNPriya|SO1|
+12/2/2016 7:24:53 PM  Processing Posting Answer String Finished
+
+12/2/2016 7:37:01 PM  Processing CheckIn String Started
+12/2/2016 7:37:01 PM<--  GI|G#62236132|RN403|GSY|A4TAJ|DA161202|G+64951152|GA161202|GD161204|GFRuben jose|GLEA|GNEspin|NPY|TI193701|
+12/2/2016 7:37:01 PM  Processing CheckIn String Finished
+
+12/2/2016 7:37:01 PM  Processing RoomEquipment String Started
+12/2/2016 7:37:01 PM<--  RE|RN403|CS0|
+12/2/2016 7:37:01 PM  Processing RoomEquipment String Finished
+
+12/2/2016 7:38:32 PM  Processing Posting List String Started
+12/2/2016 7:38:32 PM<--  PL|P#34350|WS1|DA161202|SO1|TI193832|RNC23|G#44807458|GNDaga|A0101014526694|A2renu@renuvation.com`|A33474223538|A4TAJ|NPN|PMVA|RNC23|G#61654654|GNHolmes|A4TAJ|NPY|PMVA|
+12/2/2016 7:38:32 PM  Processing Posting List String Finished
+
+12/2/2016 7:38:38 PM  Processing Posting Answer String Started
+12/2/2016 7:38:38 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103600687|DA161202|P#34351|RNC23|TI193838|WS1|G#44807458|GNDaga|SO1|
+12/2/2016 7:38:38 PM  Processing Posting Answer String Finished
+
+12/2/2016 7:38:40 PM  Processing CheckOut String Started
+12/2/2016 7:38:40 PM<--  GO|G#62098133|RN403|GSY|DA161202|TI193833|
+12/2/2016 7:38:41 PM  Processing CheckOut String Finished
+
+12/2/2016 7:38:41 PM  Processing Guest Change String Started
+12/2/2016 7:38:41 PM<--  GC|G#62236132|A4TAJ|DA161202|GA161202|GD161204|GFRuben jose|GLEA|GNEspin|NPY|TI193833|RN403|GSN|
+12/2/2016 7:38:41 PM  Processing CheckOut String Started
+12/2/2016 7:38:41 PM<--  GO|G#62236132|RN403|GSN|DA161202|TI193838|
+12/2/2016 7:38:41 PM  Processing CheckOut String Finished
+
+12/2/2016 7:38:41 PM  Processing Guest Change String Finished
+
+12/2/2016 7:45:45 PM  Processing CheckIn String Started
+12/2/2016 7:45:45 PM<--  GI|G#62098133|RN403|GSN|A2agus@rockfortengineering.com|A3+447711556163|A4TAJ|DA161202|G+64821783|GA161202|GD161204|GFAngus|GLEA|GNLyon|GTMr|NPN|TI194544|
+12/2/2016 7:45:45 PM  Processing CheckIn String Finished
+
+12/2/2016 7:45:50 PM  Processing CheckIn String Started
+12/2/2016 7:45:50 PM<--  GI|G#62236132|RN403|GSY|A4TAJ|DA161202|G+64951152|GA161202|GD161204|GFRuben jose|GLEA|GNEspin|NPY|TI194550|
+12/2/2016 7:45:51 PM  Processing CheckIn String Finished
+
+12/2/2016 7:45:51 PM  Processing RoomEquipment String Started
+12/2/2016 7:45:51 PM<--  RE|RN403|CS0|
+12/2/2016 7:45:51 PM  Processing RoomEquipment String Finished
+
+12/2/2016 7:49:44 PM  Processing Guest Change String Started
+12/2/2016 7:49:44 PM<--  GC|G#62236132|A4TAJ|DA161202|GA161202|GD161204|GFRuben jose|GLEA|GNEspin|GTMr.|NPY|TI194944|RN403|GSY|
+12/2/2016 7:49:45 PM  Processing Guest Change String Finished
+
+12/2/2016 7:53:59 PM  Processing Guest Change String Started
+12/2/2016 7:53:59 PM<--  GC|G#54338660|A3+61407135521|A4TPS|DA161202|GA161202|GD161203|GFAruna|GLEA|GNIyengar|GTMs.|NPN|TI195358|RN318|GSN|
+12/2/2016 7:53:59 PM  Processing Guest Change String Finished
+
+12/2/2016 8:01:38 PM  Processing Guest Change String Started
+12/2/2016 8:01:38 PM<--  GC|G#54338660|A3+61407135521|A4TPS|DA161202|GA161202|GD161203|GFAruna Parthasarathy|GLEA|GNIyengar|GTMs.|NPN|TI200137|RN318|GSN|
+12/2/2016 8:01:38 PM  Processing Guest Change String Finished
+
+12/2/2016 8:02:17 PM  Processing Posting List String Started
+12/2/2016 8:02:17 PM<--  PL|P#34352|WS1|DA161202|SO1|TI200217|RN409|G#60949902|GNRajamanickam|A391-988-4954221|A4TPS|NPN|PMVA|
+12/2/2016 8:02:18 PM  Processing Posting List String Finished
+
+12/2/2016 8:02:24 PM  Processing Posting Answer String Started
+12/2/2016 8:02:24 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103602793|DA161202|P#34353|RN409|TI200223|WS1|G#60949902|GNRajamanickam|SO1|
+12/2/2016 8:02:24 PM  Processing Posting Answer String Finished
+
+12/2/2016 8:04:13 PM  Processing CheckIn String Started
+12/2/2016 8:04:13 PM<--  GI|G#62238626|RN403|GSY|A4TAJ|DA161202|G+64952953|GA161202|GD161204|GFLewis|GLEA|GNButler|NPY|TI200413|
+12/2/2016 8:04:13 PM  Processing CheckIn String Finished
+
+12/2/2016 8:04:14 PM  Processing RoomEquipment String Started
+12/2/2016 8:04:14 PM<--  RE|RN403|CS0|
+12/2/2016 8:04:14 PM  Processing RoomEquipment String Finished
+
+12/2/2016 8:06:40 PM  Processing CheckIn String Started
+12/2/2016 8:06:40 PM<--  GI|G#61907883|RN316|GSN|A4HRO|DA161202|G+64643153|GA161202|GD161203|GFMohana Krishnan|GLEA|GNB|GTMr.|NPN|TI200640|
+12/2/2016 8:06:40 PM  Processing CheckIn String Finished
+
+12/2/2016 8:06:42 PM  Processing CheckIn String Started
+12/2/2016 8:06:42 PM<--  GI|G#62094133|RN314|GSN|A4HRO|DA161202|G+64643153|GA161202|GD161203|GFMohana Krishnan|GLEA|GNB|GTMr.|NPN|TI200642|
+12/2/2016 8:06:42 PM  Processing CheckIn String Finished
+
+12/2/2016 8:06:44 PM  Processing CheckIn String Started
+12/2/2016 8:06:44 PM<--  GI|G#62094134|RN315|GSN|A4HRO|DA161202|G+64643153|GA161202|GD161203|GFMohana Krishnan|GLEA|GNB|GTMr.|NPN|TI200643|
+12/2/2016 8:06:44 PM  Processing CheckIn String Finished
+
+12/2/2016 8:11:37 PM  Processing Guest Change String Started
+12/2/2016 8:11:37 PM<--  GC|G#62010881|A08541271906|A2casparie@planet.nl|A3+31 6 10002343|A4HRO|DA161202|GA161202|GD161203|GFJozef|GLEA|GNCasparie|GTMr.|GV0|NPN|TI201136|RNC09|GSN|
+12/2/2016 8:11:37 PM  Processing Guest Change String Finished
+
+12/2/2016 8:18:10 PM  Processing Guest Change String Started
+12/2/2016 8:18:10 PM<--  GC|G#62238626|A4TAJ|DA161202|GA161202|GD161204|GFLewis|GLEA|GNButler|GTMr.|NPY|TI201809|RN403|GSY|
+12/2/2016 8:18:10 PM  Processing Guest Change String Finished
+
+12/2/2016 8:28:03 PM  Processing CheckIn String Started
+12/2/2016 8:28:03 PM<--  GI|G#62190376|RN422|GSN|A2DIGSI4@GMAIL.COM|A3+919710423047|A4TRW|DA161202|G+64908159|GA161202|GD161205|GFSivaprakash|GLEA|GNGopal|GTMr|NPN|TI202803|
+12/2/2016 8:28:03 PM  Processing CheckIn String Finished
+
+12/2/2016 8:31:03 PM  Processing Guest Change String Started
+12/2/2016 8:31:03 PM<--  GC|G#61201904|A2drvairavan@gmail.com|A39791950557|A4TAJ|DA161202|GA161202|GD161204|GFPrabuVairavan|GLEA|GNPragasam|GTMr.|NPN|TI203103|RNC17|GSN|
+12/2/2016 8:31:03 PM  Processing Guest Change String Finished
+
+12/2/2016 8:31:55 PM  Processing CheckIn String Started
+12/2/2016 8:31:55 PM<--  GI|G#62241381|RNC17|GSY|A4TAJ|DA161202|G+64956152|GA161202|GD161204|GFSuvitha|GLEA|GNSelvaraj|NPY|TI203155|
+12/2/2016 8:31:55 PM  Processing CheckIn String Finished
+
+12/2/2016 8:31:55 PM  Processing RoomEquipment String Started
+12/2/2016 8:31:55 PM<--  RE|RNC17|CS0|
+12/2/2016 8:31:55 PM  Processing RoomEquipment String Finished
+
+12/2/2016 8:34:13 PM  Processing Guest Change String Started
+12/2/2016 8:34:13 PM<--  GC|G#62241381|A4TAJ|DA161202|GA161202|GD161204|GFSuvitha|GLEA|GNSelvaraj|GTMrs.|NPY|TI203412|RNC17|GSY|
+12/2/2016 8:34:13 PM  Processing Guest Change String Finished
+
+12/2/2016 8:48:09 PM  Processing CheckIn String Started
+12/2/2016 8:48:09 PM<--  GI|G#61640395|RN309|GSN|A4TPS|DA161202|G+64367759|GA161202|GD161204|GFSiva|GLEA|GNShankar|NPN|TI204809|
+12/2/2016 8:48:09 PM  Processing CheckIn String Finished
+
+12/2/2016 8:49:10 PM  Processing Guest Change String Started
+12/2/2016 8:49:10 PM<--  GC|G#61640395|A4TPS|DA161202|GA161202|GD161204|GFSiva|GLEA|GNShankar|GTMr.|NPN|TI204910|RN309|GSN|
+12/2/2016 8:49:10 PM  Processing Guest Change String Finished
+
+12/2/2016 8:54:40 PM  Processing CheckIn String Started
+12/2/2016 8:54:40 PM<--  GI|G#62242382|RN309|GSY|A4TPS|DA161202|G+64956908|GA161202|GD161204|GFRekha|GLEA|GNSakhthi|NPY|TI205439|
+12/2/2016 8:54:40 PM  Processing CheckIn String Finished
+
+12/2/2016 8:54:40 PM  Processing RoomEquipment String Started
+12/2/2016 8:54:40 PM<--  RE|RN309|CS0|
+12/2/2016 8:54:40 PM  Processing RoomEquipment String Finished
+
+12/2/2016 8:55:17 PM  Processing Guest Change String Started
+12/2/2016 8:55:17 PM<--  GC|G#62010881|A2casparie@planet.nl|A3+31610002343|A4HRO|DA161202|GA161202|GD161203|GFJozef|GLEA|GNCasparie|GTMr.|GV0|NPN|TI205517|RNC09|GSN|
+12/2/2016 8:55:17 PM  Processing Guest Change String Finished
+
+12/2/2016 8:55:29 PM  Processing CheckIn String Started
+12/2/2016 8:55:29 PM<--  GI|G#62242384|RN422|GSY|A4TRW|DA161202|G+64956910|GA161202|GD161205|GFGomathi|GLEA|GNMuthukarungu|NPY|TI205528|
+12/2/2016 8:55:29 PM  Processing CheckIn String Finished
+
+12/2/2016 8:55:29 PM  Processing RoomEquipment String Started
+12/2/2016 8:55:29 PM<--  RE|RN422|CS0|
+12/2/2016 8:55:29 PM  Processing RoomEquipment String Finished
+
+12/2/2016 8:56:00 PM  Processing Guest Change String Started
+12/2/2016 8:56:00 PM<--  GC|G#62242382|A4TPS|DA161202|GA161202|GD161204|GFRekha|GLEA|GNSakhthi|GTMrs.|NPY|TI205600|RN309|GSY|
+12/2/2016 8:56:00 PM  Processing Guest Change String Finished
+
+12/2/2016 8:57:19 PM  Processing Guest Change String Started
+12/2/2016 8:57:19 PM<--  GC|G#62242384|A4TRW|DA161202|GA161202|GD161205|GFGomathi|GLEA|GNMuthukarungu|GTMrs.|NPY|TI205718|RN422|GSY|
+12/2/2016 8:57:19 PM  Processing Guest Change String Finished
+
+12/2/2016 9:00:11 PM  Processing CheckIn String Started
+12/2/2016 9:00:11 PM<--  GI|G#60701632|RN312|GSN|A0101014474511|A1TS|A2jay.krishnan@t-hub.co|A3+919945163858|A4TAJ|DA161202|G+46193998|GA161202|GD161204|GFJayadeep|GLEA|GNKrishnan|GTMr.|NPN|TI210010|
+12/2/2016 9:00:11 PM  Processing CheckIn String Finished
+
+12/2/2016 9:00:18 PM  Processing Guest Change String Started
+12/2/2016 9:00:18 PM<--  GC|G#60949902|A2KUMS75@YAHOO.COM|A39884954221|A4TPS|DA161202|GA161202|GD161204|GFKumaran Walaja|GLEA|GNRajamanickam|GTMr.|NPN|TI210018|RN409|GSN|
+12/2/2016 9:00:18 PM  Processing Guest Change String Finished
+
+12/2/2016 9:01:26 PM  Processing CheckIn String Started
+12/2/2016 9:01:26 PM<--  GI|G#62242405|RN409|GSY|A4TPS|DA161202|G+64956927|GA161202|GD161204|GFIndhumathy|GLEA|GNN|NPY|TI210125|
+12/2/2016 9:01:26 PM  Processing CheckIn String Finished
+
+12/2/2016 9:01:26 PM  Processing RoomEquipment String Started
+12/2/2016 9:01:26 PM<--  RE|RN409|CS0|
+12/2/2016 9:01:26 PM  Processing RoomEquipment String Finished
+
+12/2/2016 9:05:57 PM  Processing CheckIn String Started
+12/2/2016 9:05:57 PM<--  GI|G#62242629|RN312|GSY|A4TAJ|DA161202|G+64957402|GA161202|GD161204|GFLakshmi|GLEA|GNNambiar|NPY|TI210557|
+12/2/2016 9:05:57 PM  Processing CheckIn String Finished
+
+12/2/2016 9:05:57 PM  Processing RoomEquipment String Started
+12/2/2016 9:05:57 PM<--  RE|RN312|CS0|
+12/2/2016 9:05:57 PM  Processing RoomEquipment String Finished
+
+12/2/2016 9:07:14 PM  Processing Guest Change String Started
+12/2/2016 9:07:14 PM<--  GC|G#62242629|A4TAJ|DA161202|GA161202|GD161204|GFLakshmi|GLEA|GNNambiar|GTMrs.|NPY|TI210714|RN312|GSY|
+12/2/2016 9:07:15 PM  Processing Guest Change String Finished
+
+12/2/2016 9:14:52 PM  Processing CheckIn String Started
+12/2/2016 9:14:52 PM<--  GI|G#62242879|RN314|GSY|A4HRO|DA161202|G+64957655|GA161202|GD161203|GFMohammad|GLEA|GNImran|NPY|TI211452|
+12/2/2016 9:14:52 PM  Processing CheckIn String Finished
+
+12/2/2016 9:14:52 PM  Processing RoomEquipment String Started
+12/2/2016 9:14:52 PM<--  RE|RN314|CS0|
+12/2/2016 9:14:52 PM  Processing RoomEquipment String Finished
+
+12/2/2016 9:16:44 PM  Processing Guest Change String Started
+12/2/2016 9:16:44 PM<--  GC|G#62242879|A4HRO|DA161202|GA161202|GD161203|GFMohammad|GLEA|GNImran|GTMr.|NPY|TI211644|RN314|GSY|
+12/2/2016 9:16:45 PM  Processing Guest Change String Finished
+
+12/2/2016 9:17:17 PM  Processing Guest Change String Started
+12/2/2016 9:17:17 PM<--  GC|G#62242405|A4TPS|DA161202|GA161202|GD161204|GFIndhumathy|GLEA|GNN|GTMrs.|NPY|TI211717|RN409|GSY|
+12/2/2016 9:17:17 PM  Processing Guest Change String Finished
+
+12/2/2016 9:18:21 PM  Processing CheckIn String Started
+12/2/2016 9:18:21 PM<--  GI|G#62242882|RN314|GSY|A4HRO|DA161202|G+64957901|GA161202|GD161203|GFAbilaash|GLEA|GNVelumani|NPY|TI211820|
+12/2/2016 9:18:21 PM  Processing CheckIn String Finished
+
+12/2/2016 9:18:21 PM  Processing RoomEquipment String Started
+12/2/2016 9:18:21 PM<--  RE|RN314|CS0|
+12/2/2016 9:18:21 PM  Processing RoomEquipment String Finished
+
+12/2/2016 9:19:40 PM  Processing Guest Change String Started
+12/2/2016 9:19:40 PM<--  GC|G#62242882|A4HRO|DA161202|GA161202|GD161203|GFAbilaash|GLEA|GNVelumani|GTMr.|NPY|TI211940|RN314|GSY|
+12/2/2016 9:19:40 PM  Processing Guest Change String Finished
+
+12/2/2016 9:22:40 PM  Processing Guest Change String Started
+12/2/2016 9:22:40 PM<--  GC|G#62094134|A4HRO|DA161202|GA161202|GD161203|GFDeepak|GLEA|GNDeepak|GTMr.|NPN|TI212240|RN315|GSN|
+12/2/2016 9:22:40 PM  Processing Guest Change String Finished
+
+12/2/2016 9:23:13 PM  Processing Posting List String Started
+12/2/2016 9:23:13 PM<--  PL|P#34354|WS1|DA161202|SO1|TI212313|RN312|G#60701632|GNKrishnan|A0101014474511|A1TS|A2jay.krishnan@t-hub.co|A3+919945163858|A4TAJ|NPN|PMMC|RN312|G#62242629|GNNambiar|A4TAJ|NPY|PMMC|
+12/2/2016 9:23:13 PM  Processing Posting List String Finished
+
+12/2/2016 9:23:20 PM  Processing Posting Answer String Started
+12/2/2016 9:23:20 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103611197|DA161202|P#34355|RN312|TI212319|WS1|G#60701632|GNKrishnan|SO1|
+12/2/2016 9:23:20 PM  Processing Posting Answer String Finished
+
+12/2/2016 9:24:02 PM  Processing CheckIn String Started
+12/2/2016 9:24:02 PM<--  GI|G#62242899|RN315|GSY|A4HRO|DA161202|G+64957920|GA161202|GD161203|GFB Vignesh|GLEA|GNBabu|NPY|TI212402|
+12/2/2016 9:24:02 PM  Processing CheckIn String Finished
+
+12/2/2016 9:24:02 PM  Processing RoomEquipment String Started
+12/2/2016 9:24:02 PM<--  RE|RN315|CS0|
+12/2/2016 9:24:03 PM  Processing RoomEquipment String Finished
+
+12/2/2016 9:25:25 PM  Processing Guest Change String Started
+12/2/2016 9:25:25 PM<--  GC|G#62242899|A4HRO|DA161202|GA161202|GD161203|GFB Vignesh|GLEA|GNBabu|GTMr.|NPY|TI212525|RN315|GSY|
+12/2/2016 9:25:25 PM  Processing Guest Change String Finished
+
+12/2/2016 9:29:16 PM  Processing Guest Change String Started
+12/2/2016 9:29:16 PM<--  GC|G#61907883|A4HRO|DA161202|GA161202|GD161203|GFArivind|GLEA|GNN|GTMr.|NPN|TI212916|RN316|GSN|
+12/2/2016 9:29:16 PM  Processing Guest Change String Finished
+
+12/2/2016 9:30:38 PM  Processing Guest Change String Started
+12/2/2016 9:30:38 PM<--  GC|G#62085890|A2abinash@gmail.com|A39791008724|A4TPS|DA161202|GA161202|GD161203|GFAbinash|GLEA|GNJohn|GTMr.|NPN|TI213038|RN311|GSN|
+12/2/2016 9:30:38 PM  Processing Guest Change String Finished
+
+12/2/2016 9:32:34 PM  Processing CheckIn String Started
+12/2/2016 9:32:34 PM<--  GI|G#62243132|RN316|GSY|A4HRO|DA161202|G+64958398|GA161202|GD161203|GFAjith|GLEA|GNViswanath|NPY|TI213234|
+12/2/2016 9:32:34 PM  Processing CheckIn String Finished
+
+12/2/2016 9:32:34 PM  Processing RoomEquipment String Started
+12/2/2016 9:32:34 PM<--  RE|RN316|CS0|
+12/2/2016 9:32:35 PM  Processing RoomEquipment String Finished
+
+12/2/2016 9:32:41 PM  Processing CheckIn String Started
+12/2/2016 9:32:41 PM<--  GI|G#62243136|RN311|GSY|A4TPS|DA161202|G+64958399|GA161202|GD161203|GFGino Ann|GLEA|GNAbraham|NPY|TI213240|
+12/2/2016 9:32:41 PM  Processing CheckIn String Finished
+
+12/2/2016 9:32:41 PM  Processing RoomEquipment String Started
+12/2/2016 9:32:41 PM<--  RE|RN311|CS0|
+12/2/2016 9:32:41 PM  Processing RoomEquipment String Finished
+
+12/2/2016 9:34:24 PM  Processing Guest Change String Started
+12/2/2016 9:34:24 PM<--  GC|G#62243132|A4HRO|DA161202|GA161202|GD161203|GFAjith|GLEA|GNViswanath|GTMr.|NPY|TI213424|RN316|GSY|
+12/2/2016 9:34:25 PM  Processing Guest Change String Finished
+
+12/2/2016 9:34:49 PM  Processing Guest Change String Started
+12/2/2016 9:34:49 PM<--  GC|G#62243136|A4TPS|DA161202|GA161202|GD161203|GFGino Ann|GLEA|GNAbraham|GTMrs.|NPY|TI213449|RN311|GSY|
+12/2/2016 9:34:49 PM  Processing Guest Change String Finished
+
+12/2/2016 9:37:58 PM  Processing Posting List String Started
+12/2/2016 9:37:58 PM<--  PL|P#34356|WS1|DA161202|SO1|TI213758|RN309|G#61640395|GNShankar|A4TPS|NPN|PMCA|RN309|G#62242382|GNSakhthi|A4TPS|NPY|PMCA|
+12/2/2016 9:37:58 PM  Processing Posting List String Finished
+
+12/2/2016 9:38:05 PM  Processing Posting Answer String Started
+12/2/2016 9:38:05 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103613112|DA161202|P#34357|RN309|TI213805|WS1|G#61640395|GNShankar|SO1|
+12/2/2016 9:38:05 PM  Processing Posting Answer String Finished
+
+12/2/2016 9:42:30 PM  Processing Guest Change String Started
+12/2/2016 9:42:30 PM<--  GC|G#62242405|A4TPS|DA161202|GA161202|GD161204|GFIndhumathy|GLEA|GNN|GTMrs.|NPY|TI214228|RN407|GSN|RO409|GSY|
+12/2/2016 9:42:30 PM  Processing Guest Change String Finished
+
+12/2/2016 9:42:30 PM  Processing Guest Change String Started
+12/2/2016 9:42:30 PM<--  GC|G#60949902|A2KUMS75@YAHOO.COM|A39884954221|A4TPS|DA161202|GA161202|GD161204|GFKumaran Walaja|GLEA|GNRajamanickam|GTMr.|NPN|TI214229|RN407|GSY|RO409|GSN|
+12/2/2016 9:42:30 PM  Processing Guest Change String Finished
+
+12/2/2016 9:46:59 PM  Processing Guest Change String Started
+12/2/2016 9:46:59 PM<--  GC|G#60690881|A4HRO|DA161202|GA161202|GD161204|GFTANI|GLEA|GNTAKUYA|GTMr.|NPN|TI214659|RNC22|GSY|
+12/2/2016 9:46:59 PM  Processing Guest Change String Finished
+
+12/2/2016 10:04:45 PM  Processing Posting List String Started
+12/2/2016 10:04:45 PM<--  PL|P#34358|WS1|DA161202|SO1|TI220445|RN208|G#61896634|GNCHELKOWSKI|A4ITD|NPN|PMCA|RN208|G#61980895|GNVASSEUR|A4ITD|NPY|PMCA|
+12/2/2016 10:04:45 PM  Processing Posting List String Finished
+
+12/2/2016 10:04:53 PM  Processing Posting Answer String Started
+12/2/2016 10:04:53 PM<--  PA|ASFX|CTNo Credit.|DA161202|P#34359|RN208|TI220452|WS1|G#61980895|GNVASSEUR|SO1|
+12/2/2016 10:04:53 PM  Processing Posting Answer String Finished
+
+12/2/2016 10:41:55 PM  Processing Guest Change String Started
+12/2/2016 10:41:55 PM<--  GC|G#61896633|A4ITD|DA161202|GA161202|GD161204|GFChelkowski|GLEA|GNRosalba|GTMs.|NPN|TI224155|RN210|GSY|
+12/2/2016 10:41:55 PM  Processing Guest Change String Finished
+
+12/2/2016 10:42:49 PM  Processing Guest Change String Started
+12/2/2016 10:42:49 PM<--  GC|G#61896634|A4ITD|DA161202|GA161202|GD161204|GFRejane|GLEA|GNDhondt|GTMs.|NPN|TI224249|RN208|GSY|
+12/2/2016 10:42:49 PM  Processing Guest Change String Finished
+
+12/2/2016 10:57:33 PM  Processing Guest Change String Started
+12/2/2016 10:57:33 PM<--  GC|G#61979384|A4ITD|DA161202|GA161202|GD161204|GFRogere|GLEA|GNCARON|GTMrs.|NPY|TI225732|RN115|GSY|
+12/2/2016 10:57:33 PM  Processing Guest Change String Finished
+
+12/2/2016 11:02:10 PM  Processing Guest Change String Started
+12/2/2016 11:02:10 PM<--  GC|G#61978626|A4ITD|DA161202|GA161202|GD161204|GFJosiane|GLEA|GNBRIDOUX|GTMrs.|NPY|TI230210|RN217|GSY|
+12/2/2016 11:02:10 PM  Processing Guest Change String Finished
+
+12/2/2016 11:02:39 PM  Processing Posting List String Started
+12/2/2016 11:02:39 PM<--  PL|P#34360|WS1|DA161202|SO1|TI230240|RNC17|G#61201904|GNPragasam|A2drvairavan@gmail.com|A39791950557|A4TAJ|NPN|PMMC|RNC17|G#62241381|GNSelvaraj|A4TAJ|NPY|PMMC|
+12/2/2016 11:02:39 PM  Processing Posting List String Finished
+
+12/2/2016 11:02:47 PM  Processing Posting Answer String Started
+12/2/2016 11:02:47 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103625266|DA161202|P#34361|RNC17|TI230246|WS1|G#61201904|GNPragasam|SO1|
+12/2/2016 11:02:47 PM  Processing Posting Answer String Finished
+
+12/2/2016 11:21:28 PM  Processing Posting List String Started
+12/2/2016 11:21:28 PM<--  PL|P#34362|WS1|DA161202|SO1|TI232128|RN422|G#62190376|GNGopal|A2sivaprakashcg@gmail.com|A3+919710423047|A4TRW|NPN|PMMC|RN422|G#62242384|GNMuthukarungu|A4TRW|NPY|PMMC|
+12/2/2016 11:21:28 PM  Processing Posting List String Finished
+
+12/2/2016 11:21:34 PM  Processing Posting Answer String Started
+12/2/2016 11:21:34 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103627853|DA161202|P#34363|RN422|TI232135|WS1|G#62190376|GNGopal|SO1|
+12/2/2016 11:21:34 PM  Processing Posting Answer String Finished
+
+12/2/2016 11:36:30 PM  Processing CheckIn String Started
+12/2/2016 11:36:30 PM<--  GI|G#62123378|RNC26|GSN|A4HRO|DA161202|G+64844901|GA161202|GD161210|GFHyun Ju|GLEA|GNWoo|GTMs.|GV2|NPN|TI233630|
+12/2/2016 11:36:30 PM  Processing CheckIn String Finished
+
+12/2/2016 11:59:40 PM  Processing Posting List String Started
+12/2/2016 11:59:40 PM<--  PL|P#34364|WS1|DA161202|SO1|TI235940|RN403|G#62098133|GNLyon|A2agus@rockfortengineering.com|A3+447711556163|A4TAJ|NPN|PMMC|RN403|G#62236132|GNEspin|A4TAJ|NPY|PMMC|RN403|G#62238626|GNButler|A4TAJ|NPY|PMMC|
+12/2/2016 11:59:40 PM  Processing Posting List String Finished
+
+12/2/2016 11:59:46 PM  Processing Posting Answer String Started
+12/2/2016 11:59:46 PM<--  PA|ASOK|CTPosting successful. Interface transaction number/s - 103633326|DA161202|P#34365|RN403|TI235946|WS1|G#62098133|GNLyon|SO1|
+12/2/2016 11:59:46 PM  Processing Posting Answer String Finished
+12/2/2016 11:59:46 PM --> D: [1]XI|BDFood - Room Service|BI85000|DC2780|G#1173085|RN609|F#2|FDN|DA160925|TI223421|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDVAT 14.5%|BI12325|DC8602|G#1173085|RN609|F#2|FDN|DA160925|TI223421|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDService Tax F&B- 5.60%|BI4760|DC8732|G#1173085|RN609|F#2|FDN|DA160925|TI223421|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDSwachh Bharat Cess -0.20%|BI170|DC8740|G#1173085|RN609|F#2|FDN|DA160925|TI223421|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDKrishi Kalyan Cess -0.20%|BI170|DC8745|G#1173085|RN609|F#2|FDN|DA160925|TI223421|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDRoom Charge Incl of B/F|BI420000|DC1100|G#1173085|RN609|F#2|FDN|DA160925|TI012745|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDLuxury Tax|BI75000|DC8500|G#1173085|RN609|F#2|FDN|DA160925|TI012745|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDBF VAT 14.5% on Rs 400|BI5800|DC8620|G#1173085|RN609|F#2|FDN|DA160925|TI012745|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDService Tax Comp B/F|BI35280|DC8734|G#1173085|RN609|F#2|FDN|DA160925|TI012745|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDSwachh Bharat Cess -0.30%|BI1260|DC8741|G#1173085|RN609|F#2|FDN|DA160925|TI012745|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDKrishi Kalyan Cess -0.30%|BI1260|DC8746|G#1173085|RN609|F#2|FDN|DA160925|TI012745|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDFood - Room Service|BI22500|DC2780|G#1173085|RN609|F#2|FDN|DA160926|TI145627|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDVAT 14.5%|BI3263|DC8602|G#1173085|RN609|F#1|FDY|DA160926|TI145627|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDService Tax F&B- 5.60%|BI1260|DC8732|G#1173085|RN609|F#1|FDY|DA160926|TI145627|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDSwachh Bharat Cess -0.20%|BI45|DC8740|G#1173085|RN609|F#1|FDY|DA160926|TI145627|
+12/2/2016 11:59:46 PM --> D: [1]XI|BDKrishi Kalyan Cess -0.20%|BI45|DC8745|G#1173085|RN609|F#1|FDY|DA160926|TI145627|
+12/2/2016 11:59:46 PM --> D: [1]XB|BA668138|G#1173085|RN609|ASOK|DA160926|TI151657|
+
+

@@ -1,0 +1,10 @@
+@charset "utf-8";
+* {text-decoration:none;font-size:1em;outline:none;margin:0;padding:0;line-height:160%;}
+
+
+body {color:#222;line-height:1.6em;height:100%;}
+
+#ServerloadDiv {position:absolute;left:0;top:0;width:1280px;height:720px;}
+#Serverload {position:absolute;width:260px;height:65px;left:510px !important;top:334px !important;background:url(../images/loading_bg_260_52_.png) 0 8px no-repeat;text-align:left;font-size:18px;z-index:998;}
+img#Serverloadimg {padding:13px;}
+#Serverload span {position:absolute;left:55px;top:22px;text-align:center;display:inline-block;width:150px;}

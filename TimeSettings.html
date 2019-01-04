@@ -1,0 +1,143 @@
+<!--
+ * @file TimeSettings.html
+ * @brief Sample application for setting time.
+ * 
+ * Copyright 2013 by Samsung Electronics, Inc.,
+ * 
+ * This software is the confidential and proprietary information
+ * of Samsung Electronics, Inc. ("Confidential Information").  You
+ * shall not disclose such Confidential Information and shall use
+ * it only in accordance with the terms of the license agreement
+ * you entered into with Samsung.
+-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/div/html4/strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Time Settings</title>
+        <!--API link-->
+		<script type='text/javascript' language='javascript' src='$MANAGER_WIDGET/Common/API/Widget.js'></script>
+		<script type='text/javascript' language='javascript' src='$MANAGER_WIDGET/Common/API/TVKeyValue.js'></script>
+		
+		<!-- Plugins -->
+        <object id="pluginObjectTVMW" border=0 classid="clsid:SAMSUNG-INFOLINK-TVMW"></object>
+		<object id="pluginTime" border=0 classid="clsid:SAMSUNG-INFOLINK-TIME" style="width:0px;height:0px;padding:0px;margin:0px;position:absolute;z-index:99;"></object>
+		
+		<!-- Widget code -->
+        <script type="text/javascript">
+		var widgetAPI = new Common.API.Widget();
+		var tvKey = new Common.API.TVKeyValue();
+		var j = 0;
+		var f = 1;
+
+		var mintime;
+		var finaltime = 0;
+		var plugintime= document.getElementById("pluginTime");
+		var epochTime;
+		var localTime;
+		var t;
+		var hrs;
+		var mins;
+		var secs;
+		var j = 0;
+		var f = 1;
+
+		function onLoad() {
+			document.getElementById("anchor").focus();
+			TVTime();
+			document.getElementById('dateTime').innerHTML +="pressed Red key for setTime ";
+			// Set Default key handler function
+			widgetAPI.sendReadyEvent();
+		}
+		function TVTime() {
+
+			//GetEpochTime function returns a current epoch time.
+			epochTime = pluginTime.GetEpochTime(); 
+			
+			//ConvertEpochToLocalTime function converts epoch time(UTC) to local time 
+			//and returns it as string type(yyyy/mm/dd/hh/mm/ss)
+			localTime = pluginTime.ConvertEpochToLocalTime(epochTime);  
+
+			var epo = localTime.split("/")[3]+":"+localTime.split("/")[4]+":"+localTime.split("/")[5];
+			 
+			document.getElementById('dateTime').innerHTML ="Epoch Time number = "+ epochTime + ", "+TimeConvert(parseInt(epochTime,10)*1000)+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; localTime = "+epo;
+			var t = localTime.split("/");
+			 hrs = parseInt(t[3],10);
+			 mins = parseInt(t[4],10);
+			 secs= parseInt(t[5],10);
+			setTimeout("UpdateTVTime()",1000);
+		}
+		function UpdateTVTime() {
+			epochTime++;
+			epochTime1 = parseInt(epochTime,10)*1000;
+			if(secs == 59)
+				 {
+				 secs = 0;
+				 mins ++;
+				 }
+				 else
+				 secs++;
+				 
+				 if(mins == 60)
+				  {
+				  mins =0;
+				  hrs++;
+				  }
+				  
+				  mins=mins+"";
+				  secs=secs+"";
+				  if(mins.length == 1) mins="0"+mins;
+				  if(secs.length == 1) secs="0"+secs;
+				  
+				  var newTime = hrs+":"+mins+":"+secs;
+					  
+
+
+			document.getElementById('dateTime').innerHTML ="Epoch Time number = "+ epochTime + ", "+TimeConvert(epochTime1)+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; localTime = "+newTime;
+
+			setTimeout("UpdateTVTime()",1000);
+		}
+
+
+		/**
+		 * @brief          	Timestamp convert to time
+		 * @remarks      	Timestamp convert to time
+		 */
+
+		function TimeConvert(startaTime) 
+		{
+			var dat = new Date(parseInt((startaTime),10));
+			var PolledTime = dat.toGMTString();
+				 
+			var CommaPos = PolledTime.indexOf(',');
+			PolledTime = PolledTime.substring(CommaPos+2, PolledTime.length);
+		  		
+			var formattedTime = (PolledTime.split(" "))[3];
+			
+		    return formattedTime;
+		}
+		
+		function keyDown() 
+		{
+			var keyCode = event.keyCode;
+			alert("Key pressed: " + keyCode);
+			
+			switch(keyCode)  
+			{
+				default:
+					alert("Unhandled key");
+				 break;
+			 }
+
+		}
+
+
+		</script>
+	</head>
+
+	<body onload="onLoad();">
+	<a id="anchor" href='javascript:void(0);' onkeydown='keyDown();'></a>
+	<div id="dateTime" style="display:block; color:white;">Date display</div>
+			
+	</body>
+</html>
